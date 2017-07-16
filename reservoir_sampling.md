@@ -22,10 +22,10 @@ PROOF:
 
 * For k+i, the probability that it is selected and will replace a number in the reservoir is k/(k+i)
 * For a number in the reservoir before (let's say X), the probability that it keeps staying in the reservoir is
-  P(X was in the reservoir last time) × P(X is not replaced by k+i)
-  = P(X was in the reservoir last time) × (1 - P(k+i is selected and replaces X))
-  = k/(k+i-1) × （1 - k/(k+i) × 1/k）
-  = k/(k+i)
+  P(X was in the reservoir last time) × P(X is not replaced by k+i) 
+   = P(X was in the reservoir last time) × (1 - P(k+i is selected and replaces X)) 
+   = k/(k+i-1) × （1 - k/(k+i) × 1/k)  
+  = k/(k+i)  
 * When k+i reaches n, the probability of each number staying in the reservoir is k/n EXAMPLE
 
 Choose 3 numbers from [111, 222, 333, 444]. Make sure each number is selected with a probability of 3/4
