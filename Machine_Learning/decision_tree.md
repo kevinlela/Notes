@@ -1,4 +1,4 @@
-Learning Decision Tree:
+# Decision Tree:
 what is a good question to split a node? The one can split a nodes into a pure node. A pure node means a node containing all samples from the same class. How do we measure it?
 Information gain: I(Y; X) = H(Y) - H(Y|X)
 H is the entropy
