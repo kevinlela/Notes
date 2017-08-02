@@ -2,7 +2,7 @@
 
 Determine whether an integer is a palindrome. Do this without extra space.
 
-{https://leetcode.com/problems/palindrome-number/description/}
+[leetcode](https://leetcode.com/problems/palindrome-number/description/)
 
 ### Answer
 Do we need to traverse the whole number? NO. the length of a number can be either odd or even, the first half A and reverse the second half B. if parlindrome, only two cases A == B or A/10 == B. So, we only need to compare half length of number

@@ -15,7 +15,7 @@ Example:
 
 	Output: "bb"
 
-{https://leetcode.com/problems/longest-palindromic-substring/description/}
+[leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 ### Answer:
 

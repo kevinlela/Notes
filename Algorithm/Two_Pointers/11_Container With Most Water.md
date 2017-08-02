@@ -4,7 +4,7 @@ Given n non-negative integers a_1, a2, ..., an, where each represents a point at
 
 Note: You may not slant the container and n is at least 2.
 
-{https://leetcode.com/problems/container-with-most-water/description/}
+[leetcode](https://leetcode.com/problems/container-with-most-water/description/)
 
 ### Answer:
 This is a tricky problem. if we have two bar A[i] and A[j]

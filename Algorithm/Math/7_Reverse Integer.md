@@ -5,7 +5,7 @@ Reverse digits of an integer.
 Example1: x = 123, return 321
 Example2: x = -123, return -321
 
-{https://leetcode.com/problems/reverse-integer/description/}
+[leetcode](https://leetcode.com/problems/reverse-integer/description/)
 
 ### Answer
 Meet this kind of problem, which is very easy to think through, always think about the corner cases

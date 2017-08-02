@@ -6,7 +6,7 @@ Hint: Carefully consider all possible input cases. If you want a challenge, plea
 
 Notes: It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.
 
-{https://leetcode.com/problems/string-to-integer-atoi/description/}
+[leetcode](https://leetcode.com/problems/string-to-integer-atoi/description/)
 
 Answer:
 Corner cases
