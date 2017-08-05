@@ -46,7 +46,8 @@ for k, v in algorithmDict.items():
 	catelog.write("##" + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		catelog.write('[' + f[:f.rfind('.')] + '](' + '../' + k + '/' + f + ')\n\n')
+		# catelog.write('[' + f[:f.rfind('.')] + '](' + '../' + k + '/' + f + ')\n\n')
+		catelog.write('[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
 
 
 catelog.write("\n\n")
