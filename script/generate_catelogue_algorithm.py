@@ -4,6 +4,12 @@ import os
 matches = []
 for root, dirnames, filenames in os.walk('../Algorithm/'):
     for filename in fnmatch.filter(filenames, '*.md'):
+    	whole_name = os.path.join(root, filename)
+        os.rename(whole_name, whole_name.replace(' ', '_'))
+
+matches = []
+for root, dirnames, filenames in os.walk('../Algorithm/'):
+    for filename in fnmatch.filter(filenames, '*.md'):
         matches.append(os.path.join(root, filename))
 
 print matches
@@ -14,8 +20,8 @@ algorithmDict = {};
 allQ = [];
 
 for m in matches:
-	file_name = m.split('/')[-1]
-	folder_name = m.split('/')[-2]
+	file_name = m[m.rfind('/'):]
+	folder_name = m[:m.rfind('/')]
 	print file_name
 	print folder_name
 	allQ.append(file_name);
@@ -39,7 +45,7 @@ for k, v in algorithmDict.items():
 	catelog.write("##" + k.replace("_", " ") + "\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		catelog.write('[' + f + '](' + './' + k + '/' + f + ')\n')
+		catelog.write('[' + f + '](' + f + ')\n')
 
 
 catelog.write("\n\n")
