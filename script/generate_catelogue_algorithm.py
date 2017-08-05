@@ -22,7 +22,7 @@ allQ = [];
 for m in matches:
 	file_name = m[m.rfind('/') + 1:]
 	folder_name = m[:m.rfind('/')]
-	algorithm_name = m[folder_name.rfind('/') + 1:]
+	algorithm_name = folder_name[folder_name.rfind('/') + 1:]
 	print file_name
 	print folder_name
 	allQ.append(file_name);
