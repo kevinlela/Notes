@@ -41,13 +41,13 @@ def sortQuestion(allQ):
 	vs = [f for (q,f) in sorted(zip(qnums,allQ))]
 	return vs;
 
-
+git_path = 'https://github.com/kevinlela/Notes/tree/master/Algorithm/'
 for k, v in algorithmDict.items():
 	catelog.write("##" + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		# catelog.write('[' + f[:f.rfind('.')] + '](' + '../' + k + '/' + f + ')\n\n')
-		catelog.write('[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
+		catelog.write('[' + f[:f.rfind('.')] + '](' + git_path + k + '/' + f + ')\n\n')
+		# catelog.write('[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
 
 
 catelog.write("\n\n")
