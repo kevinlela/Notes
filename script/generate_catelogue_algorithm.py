@@ -42,14 +42,14 @@ def sortQuestion(allQ):
 
 
 for k, v in algorithmDict.items():
-	catelog.write("##" + k.replace("_", " ") + "\n")
+	catelog.write("##" + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		catelog.write('[' + f + '](' + f + ')\n')
+		catelog.write('[' + f + '](' + f + ')\n\n')
 
 
 catelog.write("\n\n")
-catelog.write("### All Questions\n")
+catelog.write("### All Questions\n\n")
 allQ = sortQuestion(allQ)
 for f in allQ:
-	catelog.write('[' + f + '](' + f + ')\n')
+	catelog.write('[' + f + '](' + f + ')\n\n')
