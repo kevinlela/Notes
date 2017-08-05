@@ -22,7 +22,7 @@ allQ = [];
 for m in matches:
 	file_name = m[m.rfind('/') + 1:]
 	folder_name = m[:m.rfind('/')]
-	algorithm_name = m[:folder_name.rfind('/')]
+	algorithm_name = m[folder_name.rfind('/') + 1:]
 	print file_name
 	print folder_name
 	allQ.append(file_name);
@@ -46,7 +46,7 @@ for k, v in algorithmDict.items():
 	catelog.write("##" + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		catelog.write('[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
+		catelog.write('[' + f[:f.rfind('.')] + '](' + '../' + k + '/' + f + ')\n\n')
 
 
 catelog.write("\n\n")
