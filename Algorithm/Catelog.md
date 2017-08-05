@@ -1,210 +1,188 @@
-##../Algorithm/Math
-
-[/31_Next_Permutation.md](/31_Next_Permutation.md)
-
-[/42_Trapping_Rain_Water.md](/42_Trapping_Rain_Water.md)
-
-[/7_Reverse_Integer.md](/7_Reverse_Integer.md)
-
-[/9_Palindrome_Number.md](/9_Palindrome_Number.md)
-
-##../Algorithm/Array Traversal
-
-[/14_Longest_Common_Prefix.md](/14_Longest_Common_Prefix.md)
-
-[/36_Valid_Sudoku.md](/36_Valid_Sudoku.md)
-
-[/6_ZigZag_Conversion.md](/6_ZigZag_Conversion.md)
-
-##../Algorithm/DFS BFS
-
-[/17_Letter_Combinations_of_a_Phone_Number.md](/17_Letter_Combinations_of_a_Phone_Number.md)
-
-[/37_Sudoku_Solver.md](/37_Sudoku_Solver.md)
-
-[/39_Combination_Sum.md](/39_Combination_Sum.md)
-
-[/40_Combination_Sum_II.md](/40_Combination_Sum_II.md)
-
-##../Algorithm/linkedlists
-
-[/19_Remove_Nth_Node_From_End_of_List.md](/19_Remove_Nth_Node_From_End_of_List.md)
-
-[/21_Merge_Two_Sorted_Lists.md](/21_Merge_Two_Sorted_Lists.md)
-
-[/24_Swap_Nodes_in_Pairs.md](/24_Swap_Nodes_in_Pairs.md)
-
-[/25_Reverse_Nodes_in_k-Group.md](/25_Reverse_Nodes_in_k-Group.md)
-
-[/2_Add_Two_Numbers.md](/2_Add_Two_Numbers.md)
-
-##../Algorithm/Hash Map
-
-[/1_Two_Sum.md](/1_Two_Sum.md)
-
-[/30_Substring_with_Concatenation_of_All_Words.md](/30_Substring_with_Concatenation_of_All_Words.md)
-
-[/41_First_Missing_Positive.md](/41_First_Missing_Positive.md)
-
-##../Algorithm/String
-
-[/12_Integer_to_Roman.md](/12_Integer_to_Roman.md)
-
-[/13_Roman_to_Integer.md](/13_Roman_to_Integer.md)
-
-[/38_Count_and_Say.md](/38_Count_and_Say.md)
-
-[/43_Multiply_Strings.md](/43_Multiply_Strings.md)
-
-[/8_String_to_Integer_(atoi).md](/8_String_to_Integer_(atoi).md)
-
-##../Algorithm/Binary Search
-
-[/29_Divide_Two_Integers.md](/29_Divide_Two_Integers.md)
-
-[/33_Search_in_Rotated_Sorted_Array.md](/33_Search_in_Rotated_Sorted_Array.md)
-
-[/34_Search_for_a_Range.md](/34_Search_for_a_Range.md)
-
-[/35_Search_Insert_Position.md](/35_Search_Insert_Position.md)
-
-##../Algorithm/Stack
-
-[/20_Valid_Parentheses.md](/20_Valid_Parentheses.md)
-
-[/32_Longest_Valid_Parentheses.md](/32_Longest_Valid_Parentheses.md)
-
 ##../Algorithm
 
-[/Catelog.md](/Catelog.md)
+[1_Two_Sum](1_Two_Sum.md)
 
-[/Fisher-Yates_shuffling.md](/Fisher-Yates_shuffling.md)
+[2_Add_Two_Numbers](2_Add_Two_Numbers.md)
 
-[/reservoir_sampling.md](/reservoir_sampling.md)
+[3_Longest_Substring_Without_Repeating_Characters](3_Longest_Substring_Without_Repeating_Characters.md)
 
-##../Algorithm/MergeSort
+[5_Longest_Palindromic_Substring](5_Longest_Palindromic_Substring.md)
 
-[/23_Merge_k_Sorted_Lists.md](/23_Merge_k_Sorted_Lists.md)
+[6_ZigZag_Conversion](6_ZigZag_Conversion.md)
 
-##../Algorithm/Dynamic Programming
+[7_Reverse_Integer](7_Reverse_Integer.md)
 
-[/10_Regular_Expression_Matching.md](/10_Regular_Expression_Matching.md)
+[8_String_to_Integer_(atoi)](8_String_to_Integer_(atoi).md)
 
-[/44_Wildcard_Matching.md](/44_Wildcard_Matching.md)
+[9_Palindrome_Number](9_Palindrome_Number.md)
 
-[/5_Longest_Palindromic_Substring.md](/5_Longest_Palindromic_Substring.md)
+[10_Regular_Expression_Matching](10_Regular_Expression_Matching.md)
 
-##../Algorithm/Two Pointers
+[11_Container_With_Most_Water](11_Container_With_Most_Water.md)
 
-[/11_Container_With_Most_Water.md](/11_Container_With_Most_Water.md)
+[12_Integer_to_Roman](12_Integer_to_Roman.md)
 
-[/15_3Sum.md](/15_3Sum.md)
+[13_Roman_to_Integer](13_Roman_to_Integer.md)
 
-[/16_3Sum_Closest.md](/16_3Sum_Closest.md)
+[14_Longest_Common_Prefix](14_Longest_Common_Prefix.md)
 
-[/18_4Sum.md](/18_4Sum.md)
+[15_3Sum](15_3Sum.md)
 
-[/26_Remove_Duplicates_from_Sorted_Array.md](/26_Remove_Duplicates_from_Sorted_Array.md)
+[16_3Sum_Closest](16_3Sum_Closest.md)
 
-[/27_Remove_Element.md](/27_Remove_Element.md)
+[17_Letter_Combinations_of_a_Phone_Number](17_Letter_Combinations_of_a_Phone_Number.md)
 
-[/3_Longest_Substring_Without_Repeating_Characters.md](/3_Longest_Substring_Without_Repeating_Characters.md)
+[18_4Sum](18_4Sum.md)
 
-##../Algorithm/KMP
+[19_Remove_Nth_Node_From_End_of_List](19_Remove_Nth_Node_From_End_of_List.md)
 
-[/28_Implement_strStr().md](/28_Implement_strStr().md)
+[20_Valid_Parentheses](20_Valid_Parentheses.md)
+
+[21_Merge_Two_Sorted_Lists](21_Merge_Two_Sorted_Lists.md)
+
+[23_Merge_k_Sorted_Lists](23_Merge_k_Sorted_Lists.md)
+
+[24_Swap_Nodes_in_Pairs](24_Swap_Nodes_in_Pairs.md)
+
+[25_Reverse_Nodes_in_k-Group](25_Reverse_Nodes_in_k-Group.md)
+
+[26_Remove_Duplicates_from_Sorted_Array](26_Remove_Duplicates_from_Sorted_Array.md)
+
+[27_Remove_Element](27_Remove_Element.md)
+
+[28_Implement_strStr()](28_Implement_strStr().md)
+
+[29_Divide_Two_Integers](29_Divide_Two_Integers.md)
+
+[30_Substring_with_Concatenation_of_All_Words](30_Substring_with_Concatenation_of_All_Words.md)
+
+[31_Next_Permutation](31_Next_Permutation.md)
+
+[32_Longest_Valid_Parentheses](32_Longest_Valid_Parentheses.md)
+
+[33_Search_in_Rotated_Sorted_Array](33_Search_in_Rotated_Sorted_Array.md)
+
+[34_Search_for_a_Range](34_Search_for_a_Range.md)
+
+[35_Search_Insert_Position](35_Search_Insert_Position.md)
+
+[36_Valid_Sudoku](36_Valid_Sudoku.md)
+
+[37_Sudoku_Solver](37_Sudoku_Solver.md)
+
+[38_Count_and_Say](38_Count_and_Say.md)
+
+[39_Combination_Sum](39_Combination_Sum.md)
+
+[40_Combination_Sum_II](40_Combination_Sum_II.md)
+
+[41_First_Missing_Positive](41_First_Missing_Positive.md)
+
+[42_Trapping_Rain_Water](42_Trapping_Rain_Water.md)
+
+[43_Multiply_Strings](43_Multiply_Strings.md)
+
+[44_Wildcard_Matching](44_Wildcard_Matching.md)
+
+##..
+
+[Catelog](Catelog.md)
+
+[Fisher-Yates_shuffling](Fisher-Yates_shuffling.md)
+
+[reservoir_sampling](reservoir_sampling.md)
 
 
 
 ### All Questions
 
-[/10_Regular_Expression_Matching.md](/10_Regular_Expression_Matching.md)
+[Catelog](Catelog.md)
 
-[/11_Container_With_Most_Water.md](/11_Container_With_Most_Water.md)
+[Fisher-Yates_shuffling](Fisher-Yates_shuffling.md)
 
-[/12_Integer_to_Roman.md](/12_Integer_to_Roman.md)
+[reservoir_sampling](reservoir_sampling.md)
 
-[/13_Roman_to_Integer.md](/13_Roman_to_Integer.md)
+[1_Two_Sum](1_Two_Sum.md)
 
-[/14_Longest_Common_Prefix.md](/14_Longest_Common_Prefix.md)
+[2_Add_Two_Numbers](2_Add_Two_Numbers.md)
 
-[/15_3Sum.md](/15_3Sum.md)
+[3_Longest_Substring_Without_Repeating_Characters](3_Longest_Substring_Without_Repeating_Characters.md)
 
-[/16_3Sum_Closest.md](/16_3Sum_Closest.md)
+[5_Longest_Palindromic_Substring](5_Longest_Palindromic_Substring.md)
 
-[/17_Letter_Combinations_of_a_Phone_Number.md](/17_Letter_Combinations_of_a_Phone_Number.md)
+[6_ZigZag_Conversion](6_ZigZag_Conversion.md)
 
-[/18_4Sum.md](/18_4Sum.md)
+[7_Reverse_Integer](7_Reverse_Integer.md)
 
-[/19_Remove_Nth_Node_From_End_of_List.md](/19_Remove_Nth_Node_From_End_of_List.md)
+[8_String_to_Integer_(atoi)](8_String_to_Integer_(atoi).md)
 
-[/1_Two_Sum.md](/1_Two_Sum.md)
+[9_Palindrome_Number](9_Palindrome_Number.md)
 
-[/20_Valid_Parentheses.md](/20_Valid_Parentheses.md)
+[10_Regular_Expression_Matching](10_Regular_Expression_Matching.md)
 
-[/21_Merge_Two_Sorted_Lists.md](/21_Merge_Two_Sorted_Lists.md)
+[11_Container_With_Most_Water](11_Container_With_Most_Water.md)
 
-[/23_Merge_k_Sorted_Lists.md](/23_Merge_k_Sorted_Lists.md)
+[12_Integer_to_Roman](12_Integer_to_Roman.md)
 
-[/24_Swap_Nodes_in_Pairs.md](/24_Swap_Nodes_in_Pairs.md)
+[13_Roman_to_Integer](13_Roman_to_Integer.md)
 
-[/25_Reverse_Nodes_in_k-Group.md](/25_Reverse_Nodes_in_k-Group.md)
+[14_Longest_Common_Prefix](14_Longest_Common_Prefix.md)
 
-[/26_Remove_Duplicates_from_Sorted_Array.md](/26_Remove_Duplicates_from_Sorted_Array.md)
+[15_3Sum](15_3Sum.md)
 
-[/27_Remove_Element.md](/27_Remove_Element.md)
+[16_3Sum_Closest](16_3Sum_Closest.md)
 
-[/28_Implement_strStr().md](/28_Implement_strStr().md)
+[17_Letter_Combinations_of_a_Phone_Number](17_Letter_Combinations_of_a_Phone_Number.md)
 
-[/29_Divide_Two_Integers.md](/29_Divide_Two_Integers.md)
+[18_4Sum](18_4Sum.md)
 
-[/2_Add_Two_Numbers.md](/2_Add_Two_Numbers.md)
+[19_Remove_Nth_Node_From_End_of_List](19_Remove_Nth_Node_From_End_of_List.md)
 
-[/30_Substring_with_Concatenation_of_All_Words.md](/30_Substring_with_Concatenation_of_All_Words.md)
+[20_Valid_Parentheses](20_Valid_Parentheses.md)
 
-[/31_Next_Permutation.md](/31_Next_Permutation.md)
+[21_Merge_Two_Sorted_Lists](21_Merge_Two_Sorted_Lists.md)
 
-[/32_Longest_Valid_Parentheses.md](/32_Longest_Valid_Parentheses.md)
+[23_Merge_k_Sorted_Lists](23_Merge_k_Sorted_Lists.md)
 
-[/33_Search_in_Rotated_Sorted_Array.md](/33_Search_in_Rotated_Sorted_Array.md)
+[24_Swap_Nodes_in_Pairs](24_Swap_Nodes_in_Pairs.md)
 
-[/34_Search_for_a_Range.md](/34_Search_for_a_Range.md)
+[25_Reverse_Nodes_in_k-Group](25_Reverse_Nodes_in_k-Group.md)
 
-[/35_Search_Insert_Position.md](/35_Search_Insert_Position.md)
+[26_Remove_Duplicates_from_Sorted_Array](26_Remove_Duplicates_from_Sorted_Array.md)
 
-[/36_Valid_Sudoku.md](/36_Valid_Sudoku.md)
+[27_Remove_Element](27_Remove_Element.md)
 
-[/37_Sudoku_Solver.md](/37_Sudoku_Solver.md)
+[28_Implement_strStr()](28_Implement_strStr().md)
 
-[/38_Count_and_Say.md](/38_Count_and_Say.md)
+[29_Divide_Two_Integers](29_Divide_Two_Integers.md)
 
-[/39_Combination_Sum.md](/39_Combination_Sum.md)
+[30_Substring_with_Concatenation_of_All_Words](30_Substring_with_Concatenation_of_All_Words.md)
 
-[/3_Longest_Substring_Without_Repeating_Characters.md](/3_Longest_Substring_Without_Repeating_Characters.md)
+[31_Next_Permutation](31_Next_Permutation.md)
 
-[/40_Combination_Sum_II.md](/40_Combination_Sum_II.md)
+[32_Longest_Valid_Parentheses](32_Longest_Valid_Parentheses.md)
 
-[/41_First_Missing_Positive.md](/41_First_Missing_Positive.md)
+[33_Search_in_Rotated_Sorted_Array](33_Search_in_Rotated_Sorted_Array.md)
 
-[/42_Trapping_Rain_Water.md](/42_Trapping_Rain_Water.md)
+[34_Search_for_a_Range](34_Search_for_a_Range.md)
 
-[/43_Multiply_Strings.md](/43_Multiply_Strings.md)
+[35_Search_Insert_Position](35_Search_Insert_Position.md)
 
-[/44_Wildcard_Matching.md](/44_Wildcard_Matching.md)
+[36_Valid_Sudoku](36_Valid_Sudoku.md)
 
-[/5_Longest_Palindromic_Substring.md](/5_Longest_Palindromic_Substring.md)
+[37_Sudoku_Solver](37_Sudoku_Solver.md)
 
-[/6_ZigZag_Conversion.md](/6_ZigZag_Conversion.md)
+[38_Count_and_Say](38_Count_and_Say.md)
 
-[/7_Reverse_Integer.md](/7_Reverse_Integer.md)
+[39_Combination_Sum](39_Combination_Sum.md)
 
-[/8_String_to_Integer_(atoi).md](/8_String_to_Integer_(atoi).md)
+[40_Combination_Sum_II](40_Combination_Sum_II.md)
 
-[/9_Palindrome_Number.md](/9_Palindrome_Number.md)
+[41_First_Missing_Positive](41_First_Missing_Positive.md)
 
-[/Catelog.md](/Catelog.md)
+[42_Trapping_Rain_Water](42_Trapping_Rain_Water.md)
 
-[/Fisher-Yates_shuffling.md](/Fisher-Yates_shuffling.md)
+[43_Multiply_Strings](43_Multiply_Strings.md)
 
-[/reservoir_sampling.md](/reservoir_sampling.md)
+[44_Wildcard_Matching](44_Wildcard_Matching.md)
 
