@@ -43,7 +43,7 @@ def sortQuestion(allQ):
 
 git_path = 'https://github.com/kevinlela/Notes/tree/master/Algorithm/'
 for k, v in algorithmDict.items():
-	catelog.write("##" + k.replace("_", " ") + "\n\n")
+	catelog.write("## " + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
 		catelog.write('[' + f[:f.rfind('.')] + '](' + git_path + k + '/' + f + ')\n\n')

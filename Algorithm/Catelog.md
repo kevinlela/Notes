@@ -1,8 +1,8 @@
-##MergeSort
+## MergeSort
 
 [23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/MergeSort/23_Merge_k_Sorted_Lists.md)
 
-##String
+## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
 
@@ -14,7 +14,7 @@
 
 [43_Multiply_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/43_Multiply_Strings.md)
 
-##Algorithm
+## Algorithm
 
 [Catelog](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/Catelog.md)
 
@@ -22,7 +22,7 @@
 
 [reservoir_sampling](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/reservoir_sampling.md)
 
-##Binary Search
+## Binary Search
 
 [29_Divide_Two_Integers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/29_Divide_Two_Integers.md)
 
@@ -32,7 +32,7 @@
 
 [35_Search_Insert_Position](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/35_Search_Insert_Position.md)
 
-##Hash Map
+## Hash Map
 
 [1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
 
@@ -40,7 +40,7 @@
 
 [41_First_Missing_Positive](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/41_First_Missing_Positive.md)
 
-##Two Pointers
+## Two Pointers
 
 [3_Longest_Substring_Without_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.md)
 
@@ -56,7 +56,7 @@
 
 [27_Remove_Element](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/27_Remove_Element.md)
 
-##linkedlists
+## linkedlists
 
 [2_Add_Two_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/2_Add_Two_Numbers.md)
 
@@ -68,11 +68,11 @@
 
 [25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/25_Reverse_Nodes_in_k-Group.md)
 
-##KMP
+## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
 
-##Dynamic Programming
+## Dynamic Programming
 
 [5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
 
@@ -80,7 +80,7 @@
 
 [44_Wildcard_Matching](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/44_Wildcard_Matching.md)
 
-##Array Traversal
+## Array Traversal
 
 [6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array_Traversal/6_ZigZag_Conversion.md)
 
@@ -88,7 +88,7 @@
 
 [36_Valid_Sudoku](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array_Traversal/36_Valid_Sudoku.md)
 
-##DFS BFS
+## DFS BFS
 
 [17_Letter_Combinations_of_a_Phone_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/17_Letter_Combinations_of_a_Phone_Number.md)
 
@@ -98,13 +98,13 @@
 
 [40_Combination_Sum_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/40_Combination_Sum_II.md)
 
-##Stack
+## Stack
 
 [20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
 
 [32_Longest_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/32_Longest_Valid_Parentheses.md)
 
-##Math
+## Math
 
 [7_Reverse_Integer](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/7_Reverse_Integer.md)
 
