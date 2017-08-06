@@ -12,6 +12,8 @@
 
 [58_Length_of_Last_Word](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/58_Length_of_Last_Word.md)
 
+[67_Add_Binary](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/67_Add_Binary.md)
+
 ## Algorithm
 
 [Catelog](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/Catelog.md)
@@ -30,6 +32,10 @@
 
 [35_Search_Insert_Position](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/35_Search_Insert_Position.md)
 
+[69_Sqrt(x)](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/69_Sqrt(x).md)
+
+[74_Search_a_2D_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/74_Search_a_2D_Matrix.md)
+
 ## Hash Map
 
 [1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
@@ -46,11 +52,9 @@
 
 [55_Jump_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/55_Jump_Game.md)
 
-## Stack
+## Other Sort
 
-[20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
-
-[32_Longest_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/32_Longest_Valid_Parentheses.md)
+[75_Sort_Colors](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/75_Sort_Colors.md)
 
 ## Other
 
@@ -88,9 +92,21 @@
 
 [27_Remove_Element](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/27_Remove_Element.md)
 
+[76_Minimum_Window_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/76_Minimum_Window_Substring.md)
+
+[80_Remove_Duplicates_from_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/80_Remove_Duplicates_from_Sorted_Array_II.md)
+
 ## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
+
+## Stack
+
+[20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
+
+[32_Longest_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/32_Longest_Valid_Parentheses.md)
+
+[71_Simplify_Path](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/71_Simplify_Path.md)
 
 ## Array
 
@@ -101,6 +117,10 @@
 [36_Valid_Sudoku](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/36_Valid_Sudoku.md)
 
 [48_Rotate_Image](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/48_Rotate_Image.md)
+
+[66_Plus_One](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/66_Plus_One.md)
+
+[73_Set_Matrix_Zeroes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/73_Set_Matrix_Zeroes.md)
 
 ## Divide Conquer
 
@@ -122,6 +142,12 @@
 
 [47_Permutations_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/47_Permutations_II.md)
 
+[77_Combinations](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/77_Combinations.md)
+
+[78_Subsets](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/78_Subsets.md)
+
+[79_Word_Search](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/79_Word_Search.md)
+
 ## Dynamic Programming
 
 [5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
@@ -135,6 +161,12 @@
 [62_Unique_Paths](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/62_Unique_Paths.md)
 
 [63_Unique_Paths_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/63_Unique_Paths_II.md)
+
+[64_Minimum_Path_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/64_Minimum_Path_Sum.md)
+
+[70_Climbing_Stairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/70_Climbing_Stairs.md)
+
+[72_Edit_Distance](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/72_Edit_Distance.md)
 
 ## Math
 
@@ -271,4 +303,34 @@
 [62_Unique_Paths](62_Unique_Paths.md)
 
 [63_Unique_Paths_II](63_Unique_Paths_II.md)
+
+[64_Minimum_Path_Sum](64_Minimum_Path_Sum.md)
+
+[66_Plus_One](66_Plus_One.md)
+
+[67_Add_Binary](67_Add_Binary.md)
+
+[69_Sqrt(x)](69_Sqrt(x).md)
+
+[70_Climbing_Stairs](70_Climbing_Stairs.md)
+
+[71_Simplify_Path](71_Simplify_Path.md)
+
+[72_Edit_Distance](72_Edit_Distance.md)
+
+[73_Set_Matrix_Zeroes](73_Set_Matrix_Zeroes.md)
+
+[74_Search_a_2D_Matrix](74_Search_a_2D_Matrix.md)
+
+[75_Sort_Colors](75_Sort_Colors.md)
+
+[76_Minimum_Window_Substring](76_Minimum_Window_Substring.md)
+
+[77_Combinations](77_Combinations.md)
+
+[78_Subsets](78_Subsets.md)
+
+[79_Word_Search](79_Word_Search.md)
+
+[80_Remove_Duplicates_from_Sorted_Array_II](80_Remove_Duplicates_from_Sorted_Array_II.md)
 
