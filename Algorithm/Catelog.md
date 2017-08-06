@@ -36,6 +36,8 @@
 
 [74_Search_a_2D_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/74_Search_a_2D_Matrix.md)
 
+[81_Search_in_Rotated_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/81_Search_in_Rotated_Sorted_Array_II.md)
+
 ## Hash Map
 
 [1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
@@ -45,6 +47,18 @@
 [41_First_Missing_Positive](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/41_First_Missing_Positive.md)
 
 [49_Group_Anagrams](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/49_Group_Anagrams.md)
+
+## Tree
+
+[94_Binary_Tree_Inorder_Traversal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/94_Binary_Tree_Inorder_Traversal.md)
+
+[95_Unique_Binary_Search_Trees_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/95_Unique_Binary_Search_Trees_II.md)
+
+[98_Validate_Binary_Search_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/98_Validate_Binary_Search_Tree.md)
+
+[99_Recover_Binary_Search_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/99_Recover_Binary_Search_Tree.md)
+
+[100__Same_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/100__Same_Tree.md)
 
 ## Greedy Algorithm
 
@@ -75,6 +89,16 @@
 [25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/25_Reverse_Nodes_in_k-Group.md)
 
 [61_Rotate_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/61_Rotate_List.md)
+
+[82_Remove_Duplicates_from_Sorted_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/82_Remove_Duplicates_from_Sorted_List_II.md)
+
+[83_Remove_Duplicates_from_Sorted_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/83_Remove_Duplicates_from_Sorted_List.md)
+
+[86_Partition_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/86_Partition_List.md)
+
+[87_Scramble_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/87_Scramble_String.md)
+
+[92_Reverse_Linked_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/92_Reverse_Linked_List_II.md)
 
 ## Two Pointers
 
@@ -108,6 +132,10 @@
 
 [71_Simplify_Path](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/71_Simplify_Path.md)
 
+[84_Largest_Rectangle_in_Histogram](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/84_Largest_Rectangle_in_Histogram.md)
+
+[85_Maximal_Rectangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/85_Maximal_Rectangle.md)
+
 ## Array
 
 [6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/6_ZigZag_Conversion.md)
@@ -121,6 +149,8 @@
 [66_Plus_One](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/66_Plus_One.md)
 
 [73_Set_Matrix_Zeroes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/73_Set_Matrix_Zeroes.md)
+
+[88_Merge_Sorted_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/88_Merge_Sorted_Array.md)
 
 ## Divide Conquer
 
@@ -148,6 +178,10 @@
 
 [79_Word_Search](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/79_Word_Search.md)
 
+[90_Subsets_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/90_Subsets_II.md)
+
+[93_Restore_IP_Addresses](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/93_Restore_IP_Addresses.md)
+
 ## Dynamic Programming
 
 [5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
@@ -168,6 +202,12 @@
 
 [72_Edit_Distance](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/72_Edit_Distance.md)
 
+[91_Decode_Ways](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/91_Decode_Ways.md)
+
+[96_Unique_Binary_Search_Trees](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/96_Unique_Binary_Search_Trees.md)
+
+[97_Interleaving_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/97_Interleaving_String.md)
+
 ## Math
 
 [7_Reverse_Integer](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/7_Reverse_Integer.md)
@@ -179,6 +219,8 @@
 [42_Trapping_Rain_Water](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/42_Trapping_Rain_Water.md)
 
 [60_Permutation_Sequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/60_Permutation_Sequence.md)
+
+[89_Gray_Code](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/89_Gray_Code.md)
 
 
 
@@ -333,4 +375,44 @@
 [79_Word_Search](79_Word_Search.md)
 
 [80_Remove_Duplicates_from_Sorted_Array_II](80_Remove_Duplicates_from_Sorted_Array_II.md)
+
+[81_Search_in_Rotated_Sorted_Array_II](81_Search_in_Rotated_Sorted_Array_II.md)
+
+[82_Remove_Duplicates_from_Sorted_List_II](82_Remove_Duplicates_from_Sorted_List_II.md)
+
+[83_Remove_Duplicates_from_Sorted_List](83_Remove_Duplicates_from_Sorted_List.md)
+
+[84_Largest_Rectangle_in_Histogram](84_Largest_Rectangle_in_Histogram.md)
+
+[85_Maximal_Rectangle](85_Maximal_Rectangle.md)
+
+[86_Partition_List](86_Partition_List.md)
+
+[87_Scramble_String](87_Scramble_String.md)
+
+[88_Merge_Sorted_Array](88_Merge_Sorted_Array.md)
+
+[89_Gray_Code](89_Gray_Code.md)
+
+[90_Subsets_II](90_Subsets_II.md)
+
+[91_Decode_Ways](91_Decode_Ways.md)
+
+[92_Reverse_Linked_List_II](92_Reverse_Linked_List_II.md)
+
+[93_Restore_IP_Addresses](93_Restore_IP_Addresses.md)
+
+[94_Binary_Tree_Inorder_Traversal](94_Binary_Tree_Inorder_Traversal.md)
+
+[95_Unique_Binary_Search_Trees_II](95_Unique_Binary_Search_Trees_II.md)
+
+[96_Unique_Binary_Search_Trees](96_Unique_Binary_Search_Trees.md)
+
+[97_Interleaving_String](97_Interleaving_String.md)
+
+[98_Validate_Binary_Search_Tree](98_Validate_Binary_Search_Tree.md)
+
+[99_Recover_Binary_Search_Tree](99_Recover_Binary_Search_Tree.md)
+
+[100__Same_Tree](100__Same_Tree.md)
 
