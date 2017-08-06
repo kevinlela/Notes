@@ -1,7 +1,3 @@
-## MergeSort
-
-[23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/MergeSort/23_Merge_k_Sorted_Lists.md)
-
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -13,6 +9,8 @@
 [38_Count_and_Say](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/38_Count_and_Say.md)
 
 [43_Multiply_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/43_Multiply_Strings.md)
+
+[58_Length_of_Last_Word](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/58_Length_of_Last_Word.md)
 
 ## Algorithm
 
@@ -40,6 +38,40 @@
 
 [41_First_Missing_Positive](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/41_First_Missing_Positive.md)
 
+[49_Group_Anagrams](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/49_Group_Anagrams.md)
+
+## Greedy Algorithm
+
+[45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
+
+[55_Jump_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/55_Jump_Game.md)
+
+## Stack
+
+[20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
+
+[32_Longest_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/32_Longest_Valid_Parentheses.md)
+
+## Other
+
+[56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
+
+[57_Insert_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/57_Insert_Interval.md)
+
+## linkedlists
+
+[2_Add_Two_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/2_Add_Two_Numbers.md)
+
+[19_Remove_Nth_Node_From_End_of_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/19_Remove_Nth_Node_From_End_of_List.md)
+
+[21_Merge_Two_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/21_Merge_Two_Sorted_Lists.md)
+
+[24_Swap_Nodes_in_Pairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/24_Swap_Nodes_in_Pairs.md)
+
+[25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/25_Reverse_Nodes_in_k-Group.md)
+
+[61_Rotate_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/61_Rotate_List.md)
+
 ## Two Pointers
 
 [3_Longest_Substring_Without_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.md)
@@ -56,37 +88,25 @@
 
 [27_Remove_Element](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/27_Remove_Element.md)
 
-## linkedlists
-
-[2_Add_Two_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/2_Add_Two_Numbers.md)
-
-[19_Remove_Nth_Node_From_End_of_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/19_Remove_Nth_Node_From_End_of_List.md)
-
-[21_Merge_Two_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/21_Merge_Two_Sorted_Lists.md)
-
-[24_Swap_Nodes_in_Pairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/24_Swap_Nodes_in_Pairs.md)
-
-[25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/25_Reverse_Nodes_in_k-Group.md)
-
 ## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
 
-## Dynamic Programming
+## Array
 
-[5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
+[6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/6_ZigZag_Conversion.md)
 
-[10_Regular_Expression_Matching](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/10_Regular_Expression_Matching.md)
+[14_Longest_Common_Prefix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/14_Longest_Common_Prefix.md)
 
-[44_Wildcard_Matching](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/44_Wildcard_Matching.md)
+[36_Valid_Sudoku](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/36_Valid_Sudoku.md)
 
-## Array Traversal
+[48_Rotate_Image](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/48_Rotate_Image.md)
 
-[6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array_Traversal/6_ZigZag_Conversion.md)
+## Divide Conquer
 
-[14_Longest_Common_Prefix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array_Traversal/14_Longest_Common_Prefix.md)
+[23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/23_Merge_k_Sorted_Lists.md)
 
-[36_Valid_Sudoku](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array_Traversal/36_Valid_Sudoku.md)
+[50_Pow](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/50_Pow.md)
 
 ## DFS BFS
 
@@ -98,11 +118,23 @@
 
 [40_Combination_Sum_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/40_Combination_Sum_II.md)
 
-## Stack
+[46_Permutations](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/46_Permutations.md)
 
-[20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
+[47_Permutations_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/47_Permutations_II.md)
 
-[32_Longest_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/32_Longest_Valid_Parentheses.md)
+## Dynamic Programming
+
+[5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
+
+[10_Regular_Expression_Matching](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/10_Regular_Expression_Matching.md)
+
+[44_Wildcard_Matching](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/44_Wildcard_Matching.md)
+
+[53_Maximum_Subarray](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/53_Maximum_Subarray.md)
+
+[62_Unique_Paths](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/62_Unique_Paths.md)
+
+[63_Unique_Paths_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/63_Unique_Paths_II.md)
 
 ## Math
 
@@ -113,6 +145,8 @@
 [31_Next_Permutation](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/31_Next_Permutation.md)
 
 [42_Trapping_Rain_Water](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/42_Trapping_Rain_Water.md)
+
+[60_Permutation_Sequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/60_Permutation_Sequence.md)
 
 
 
@@ -207,4 +241,34 @@
 [43_Multiply_Strings](43_Multiply_Strings.md)
 
 [44_Wildcard_Matching](44_Wildcard_Matching.md)
+
+[45_Jump_Game_II](45_Jump_Game_II.md)
+
+[46_Permutations](46_Permutations.md)
+
+[47_Permutations_II](47_Permutations_II.md)
+
+[48_Rotate_Image](48_Rotate_Image.md)
+
+[49_Group_Anagrams](49_Group_Anagrams.md)
+
+[50_Pow](50_Pow.md)
+
+[53_Maximum_Subarray](53_Maximum_Subarray.md)
+
+[55_Jump_Game](55_Jump_Game.md)
+
+[56_Merge_Intervals](56_Merge_Intervals.md)
+
+[57_Insert_Interval](57_Insert_Interval.md)
+
+[58_Length_of_Last_Word](58_Length_of_Last_Word.md)
+
+[60_Permutation_Sequence](60_Permutation_Sequence.md)
+
+[61_Rotate_List](61_Rotate_List.md)
+
+[62_Unique_Paths](62_Unique_Paths.md)
+
+[63_Unique_Paths_II](63_Unique_Paths_II.md)
 

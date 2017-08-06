@@ -18,7 +18,7 @@ A solution set is:
 [leetcode]()
 
 ### Answer 
-the difference between non-duplicate [here](39_Combination Sum.md) is we need skip the duplication, we can leverage the sorting to skip duplicate. But IMPORTANT! we need to consider into next loop, whether this sorting preserved. This is why send vector not reference
+the difference between non-duplicate [here](39_Combination_Sum.md) is we need skip the duplication, we can leverage the sorting to skip duplicate. But IMPORTANT! we need to consider into next loop, whether this sorting preserved. This is why send vector not reference
 
 	class Solution {
 	public:

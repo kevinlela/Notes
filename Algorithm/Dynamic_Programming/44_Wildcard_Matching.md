@@ -21,7 +21,7 @@ isMatch("aab", "c*a*b") ? false
 [leetcode](https://leetcode.com/problems/wildcard-matching/description/)
 
 ### Answer 
-Similar to [Regular Expression Matching]{10_Regular Expression Matching.md}
+Similar to [Regular Expression Matching]{10_Regular_Expression_Matching.md}
 
 	class Solution {
 	public:
