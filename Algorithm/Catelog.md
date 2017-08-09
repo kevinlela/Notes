@@ -1,3 +1,15 @@
+## Hash Map
+
+[1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
+
+[30_Substring_with_Concatenation_of_All_Words](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/30_Substring_with_Concatenation_of_All_Words.md)
+
+[41_First_Missing_Positive](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/41_First_Missing_Positive.md)
+
+[49_Group_Anagrams](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/49_Group_Anagrams.md)
+
+[128_Longest_Consecutive_Sequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/128_Longest_Consecutive_Sequence.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -24,6 +36,10 @@
 
 [reservoir_sampling](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/reservoir_sampling.md)
 
+## Bit Manipulation
+
+[136_Single_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/136_Single_Number.md)
+
 ## Binary Search
 
 [29_Divide_Two_Integers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/29_Divide_Two_Integers.md)
@@ -39,16 +55,6 @@
 [74_Search_a_2D_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/74_Search_a_2D_Matrix.md)
 
 [81_Search_in_Rotated_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/81_Search_in_Rotated_Sorted_Array_II.md)
-
-## Hash Map
-
-[1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
-
-[30_Substring_with_Concatenation_of_All_Words](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/30_Substring_with_Concatenation_of_All_Words.md)
-
-[41_First_Missing_Positive](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/41_First_Missing_Positive.md)
-
-[49_Group_Anagrams](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/49_Group_Anagrams.md)
 
 ## Tree
 
@@ -94,6 +100,8 @@
 
 [117_Populating_Next_Right_Pointers_in_Each_Node_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/117_Populating_Next_Right_Pointers_in_Each_Node_II.md)
 
+[129_Sum_Root_to_Leaf_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/129_Sum_Root_to_Leaf_Numbers.md)
+
 ## Greedy Algorithm
 
 [45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
@@ -101,6 +109,10 @@
 [55_Jump_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/55_Jump_Game.md)
 
 [122_Best_Time_to_Buy_and_Sell_Stock_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/122_Best_Time_to_Buy_and_Sell_Stock_II.md)
+
+[134_Gas_Station](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/134_Gas_Station.md)
+
+[135_Candy](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/135_Candy.md)
 
 ## Other Sort
 
@@ -112,29 +124,29 @@
 
 [57_Insert_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/57_Insert_Interval.md)
 
-## linkedlists
+## Linkedlists
 
-[2_Add_Two_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/2_Add_Two_Numbers.md)
+[2_Add_Two_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/2_Add_Two_Numbers.md)
 
-[19_Remove_Nth_Node_From_End_of_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/19_Remove_Nth_Node_From_End_of_List.md)
+[19_Remove_Nth_Node_From_End_of_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/19_Remove_Nth_Node_From_End_of_List.md)
 
-[21_Merge_Two_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/21_Merge_Two_Sorted_Lists.md)
+[21_Merge_Two_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/21_Merge_Two_Sorted_Lists.md)
 
-[24_Swap_Nodes_in_Pairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/24_Swap_Nodes_in_Pairs.md)
+[24_Swap_Nodes_in_Pairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/24_Swap_Nodes_in_Pairs.md)
 
-[25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/25_Reverse_Nodes_in_k-Group.md)
+[25_Reverse_Nodes_in_k-Group](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/25_Reverse_Nodes_in_k-Group.md)
 
-[61_Rotate_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/61_Rotate_List.md)
+[61_Rotate_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/61_Rotate_List.md)
 
-[82_Remove_Duplicates_from_Sorted_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/82_Remove_Duplicates_from_Sorted_List_II.md)
+[82_Remove_Duplicates_from_Sorted_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/82_Remove_Duplicates_from_Sorted_List_II.md)
 
-[83_Remove_Duplicates_from_Sorted_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/83_Remove_Duplicates_from_Sorted_List.md)
+[83_Remove_Duplicates_from_Sorted_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/83_Remove_Duplicates_from_Sorted_List.md)
 
-[86_Partition_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/86_Partition_List.md)
+[86_Partition_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/86_Partition_List.md)
 
-[87_Scramble_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/87_Scramble_String.md)
+[87_Scramble_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/87_Scramble_String.md)
 
-[92_Reverse_Linked_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/linkedlists/92_Reverse_Linked_List_II.md)
+[92_Reverse_Linked_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/92_Reverse_Linked_List_II.md)
 
 ## Two Pointers
 
@@ -226,6 +238,16 @@
 
 [93_Restore_IP_Addresses](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/93_Restore_IP_Addresses.md)
 
+[126_Word_Ladder_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/126_Word_Ladder_II.md)
+
+[130_Surrounded_Regions](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/130_Surrounded_Regions.md)
+
+[133_Clone_Graph](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/133_Clone_Graph.md)
+
+[138_Copy_List_with_Random_Pointer](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/138_Copy_List_with_Random_Pointer.md)
+
+[140_Word_Break_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/140_Word_Break_II.md)
+
 ## Dynamic Programming
 
 [5_Longest_Palindromic_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/5_Longest_Palindromic_Substring.md)
@@ -257,6 +279,14 @@
 [120_Triangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/120_Triangle.md)
 
 [124_Binary_Tree_Maximum_Path_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/124_Binary_Tree_Maximum_Path_Sum.md)
+
+[127_Word_Ladder](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/127_Word_Ladder.md)
+
+[131_Palindrome_Partitioning](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/131_Palindrome_Partitioning.md)
+
+[132_Palindrome_Partitioning_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/132_Palindrome_Partitioning_II.md)
+
+[139_Word_Break](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/139_Word_Break.md)
 
 ## Math
 
@@ -515,4 +545,32 @@
 [124_Binary_Tree_Maximum_Path_Sum](124_Binary_Tree_Maximum_Path_Sum.md)
 
 [125_Valid_Palindrome](125_Valid_Palindrome.md)
+
+[126_Word_Ladder_II](126_Word_Ladder_II.md)
+
+[127_Word_Ladder](127_Word_Ladder.md)
+
+[128_Longest_Consecutive_Sequence](128_Longest_Consecutive_Sequence.md)
+
+[129_Sum_Root_to_Leaf_Numbers](129_Sum_Root_to_Leaf_Numbers.md)
+
+[130_Surrounded_Regions](130_Surrounded_Regions.md)
+
+[131_Palindrome_Partitioning](131_Palindrome_Partitioning.md)
+
+[132_Palindrome_Partitioning_II](132_Palindrome_Partitioning_II.md)
+
+[133_Clone_Graph](133_Clone_Graph.md)
+
+[134_Gas_Station](134_Gas_Station.md)
+
+[135_Candy](135_Candy.md)
+
+[136_Single_Number](136_Single_Number.md)
+
+[138_Copy_List_with_Random_Pointer](138_Copy_List_with_Random_Pointer.md)
+
+[139_Word_Break](139_Word_Break.md)
+
+[140_Word_Break_II](140_Word_Break_II.md)
 
