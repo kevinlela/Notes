@@ -10,6 +10,8 @@
 
 [128_Longest_Consecutive_Sequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/128_Longest_Consecutive_Sequence.md)
 
+[149_Max_Points_on_a_Line](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/149_Max_Points_on_a_Line.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -102,6 +104,10 @@
 
 [129_Sum_Root_to_Leaf_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/129_Sum_Root_to_Leaf_Numbers.md)
 
+[144_Binary_Tree_Preorder_Traversal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/144_Binary_Tree_Preorder_Traversal.md)
+
+[145_Binary_Tree_Postorder_Traversal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/145_Binary_Tree_Postorder_Traversal.md)
+
 ## Greedy Algorithm
 
 [45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
@@ -123,6 +129,10 @@
 [56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
 
 [57_Insert_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/57_Insert_Interval.md)
+
+## Design
+
+[146_LRU_Cache](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/146_LRU_Cache.md)
 
 ## Linkedlists
 
@@ -147,6 +157,14 @@
 [87_Scramble_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/87_Scramble_String.md)
 
 [92_Reverse_Linked_List_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/92_Reverse_Linked_List_II.md)
+
+[141_Linked_List_Cycle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/141_Linked_List_Cycle.md)
+
+[142_Linked_List_Cycle_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/142_Linked_List_Cycle_II.md)
+
+[143_Reorder_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/143_Reorder_List.md)
+
+[147_Insertion_Sort_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/147_Insertion_Sort_List.md)
 
 ## Two Pointers
 
@@ -184,6 +202,8 @@
 
 [85_Maximal_Rectangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/85_Maximal_Rectangle.md)
 
+[150_Evaluate_Reverse_Polish_Notation](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/150_Evaluate_Reverse_Polish_Notation.md)
+
 ## Array
 
 [6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/6_ZigZag_Conversion.md)
@@ -213,6 +233,8 @@
 [23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/23_Merge_k_Sorted_Lists.md)
 
 [50_Pow](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/50_Pow.md)
+
+[148_Sort_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/148_Sort_List.md)
 
 ## DFS BFS
 
@@ -573,4 +595,24 @@
 [139_Word_Break](139_Word_Break.md)
 
 [140_Word_Break_II](140_Word_Break_II.md)
+
+[141_Linked_List_Cycle](141_Linked_List_Cycle.md)
+
+[142_Linked_List_Cycle_II](142_Linked_List_Cycle_II.md)
+
+[143_Reorder_List](143_Reorder_List.md)
+
+[144_Binary_Tree_Preorder_Traversal](144_Binary_Tree_Preorder_Traversal.md)
+
+[145_Binary_Tree_Postorder_Traversal](145_Binary_Tree_Postorder_Traversal.md)
+
+[146_LRU_Cache](146_LRU_Cache.md)
+
+[147_Insertion_Sort_List](147_Insertion_Sort_List.md)
+
+[148_Sort_List](148_Sort_List.md)
+
+[149_Max_Points_on_a_Line](149_Max_Points_on_a_Line.md)
+
+[150_Evaluate_Reverse_Polish_Notation](150_Evaluate_Reverse_Polish_Notation.md)
 
