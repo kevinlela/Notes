@@ -12,6 +12,8 @@
 
 [149_Max_Points_on_a_Line](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/149_Max_Points_on_a_Line.md)
 
+[187_Repeated_DNA_Sequences](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/187_Repeated_DNA_Sequences.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -29,6 +31,12 @@
 [67_Add_Binary](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/67_Add_Binary.md)
 
 [125_Valid_Palindrome](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/125_Valid_Palindrome.md)
+
+[151_Reverse_Words_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/151_Reverse_Words_in_a_String.md)
+
+[165_Compare_Version_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/165_Compare_Version_Numbers.md)
+
+[166_Fraction_to_Recurring_Decimal](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/166_Fraction_to_Recurring_Decimal.md)
 
 ## Algorithm
 
@@ -57,6 +65,12 @@
 [74_Search_a_2D_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/74_Search_a_2D_Matrix.md)
 
 [81_Search_in_Rotated_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/81_Search_in_Rotated_Sorted_Array_II.md)
+
+[153_Find_Minimum_in_Rotated_Sorted_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/153_Find_Minimum_in_Rotated_Sorted_Array.md)
+
+[154_Find_Minimum_in_Rotated_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/154_Find_Minimum_in_Rotated_Sorted_Array_II.md)
+
+[162_Find_Peak_Element](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/162_Find_Peak_Element.md)
 
 ## Tree
 
@@ -108,6 +122,14 @@
 
 [145_Binary_Tree_Postorder_Traversal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/145_Binary_Tree_Postorder_Traversal.md)
 
+[173_Binary_Search_Tree_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/173_Binary_Search_Tree_Iterator.md)
+
+## Other Sort
+
+[75_Sort_Colors](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/75_Sort_Colors.md)
+
+[164_Maximum_Gap](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/164_Maximum_Gap.md)
+
 ## Greedy Algorithm
 
 [45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
@@ -120,9 +142,9 @@
 
 [135_Candy](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/135_Candy.md)
 
-## Other Sort
+## Moore Voting
 
-[75_Sort_Colors](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/75_Sort_Colors.md)
+[169_Majority_Element](https://github.com/kevinlela/Notes/tree/master/Algorithm/Moore_Voting/169_Majority_Element.md)
 
 ## Other
 
@@ -130,9 +152,13 @@
 
 [57_Insert_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/57_Insert_Interval.md)
 
+[179_Largest_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/179_Largest_Number.md)
+
 ## Design
 
 [146_LRU_Cache](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/146_LRU_Cache.md)
+
+[155_Min_Stack](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/155_Min_Stack.md)
 
 ## Linkedlists
 
@@ -166,6 +192,8 @@
 
 [147_Insertion_Sort_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/147_Insertion_Sort_List.md)
 
+[160_Intersection_of_Two_Linked_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/160_Intersection_of_Two_Linked_Lists.md)
+
 ## Two Pointers
 
 [3_Longest_Substring_Without_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.md)
@@ -185,6 +213,8 @@
 [76_Minimum_Window_Substring](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/76_Minimum_Window_Substring.md)
 
 [80_Remove_Duplicates_from_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/80_Remove_Duplicates_from_Sorted_Array_II.md)
+
+[167_Two_Sum_II_-_Input_array_is_sorted](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/167_Two_Sum_II_-_Input_array_is_sorted.md)
 
 ## KMP
 
@@ -310,6 +340,10 @@
 
 [139_Word_Break](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/139_Word_Break.md)
 
+[152_Maximum_Product_Subarray](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/152_Maximum_Product_Subarray.md)
+
+[174_Dungeon_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/174_Dungeon_Game.md)
+
 ## Math
 
 [7_Reverse_Integer](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/7_Reverse_Integer.md)
@@ -323,6 +357,12 @@
 [60_Permutation_Sequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/60_Permutation_Sequence.md)
 
 [89_Gray_Code](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/89_Gray_Code.md)
+
+[168_Excel_Sheet_Column_Title](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/168_Excel_Sheet_Column_Title.md)
+
+[171_Excel_Sheet_Column_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/171_Excel_Sheet_Column_Number.md)
+
+[172_Factorial_Trailing_Zeroes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/172_Factorial_Trailing_Zeroes.md)
 
 
 
@@ -615,4 +655,42 @@
 [149_Max_Points_on_a_Line](149_Max_Points_on_a_Line.md)
 
 [150_Evaluate_Reverse_Polish_Notation](150_Evaluate_Reverse_Polish_Notation.md)
+
+[151_Reverse_Words_in_a_String](151_Reverse_Words_in_a_String.md)
+
+[152_Maximum_Product_Subarray](152_Maximum_Product_Subarray.md)
+
+[153_Find_Minimum_in_Rotated_Sorted_Array](153_Find_Minimum_in_Rotated_Sorted_Array.md)
+
+[154_Find_Minimum_in_Rotated_Sorted_Array_II](154_Find_Minimum_in_Rotated_Sorted_Array_II.md)
+
+[155_Min_Stack](155_Min_Stack.md)
+
+[160_Intersection_of_Two_Linked_Lists](160_Intersection_of_Two_Linked_Lists.md)
+
+[162_Find_Peak_Element](162_Find_Peak_Element.md)
+
+[164_Maximum_Gap](164_Maximum_Gap.md)
+
+[165_Compare_Version_Numbers](165_Compare_Version_Numbers.md)
+
+[166_Fraction_to_Recurring_Decimal](166_Fraction_to_Recurring_Decimal.md)
+
+[167_Two_Sum_II_-_Input_array_is_sorted](167_Two_Sum_II_-_Input_array_is_sorted.md)
+
+[168_Excel_Sheet_Column_Title](168_Excel_Sheet_Column_Title.md)
+
+[169_Majority_Element](169_Majority_Element.md)
+
+[171_Excel_Sheet_Column_Number](171_Excel_Sheet_Column_Number.md)
+
+[172_Factorial_Trailing_Zeroes](172_Factorial_Trailing_Zeroes.md)
+
+[173_Binary_Search_Tree_Iterator](173_Binary_Search_Tree_Iterator.md)
+
+[174_Dungeon_Game](174_Dungeon_Game.md)
+
+[179_Largest_Number](179_Largest_Number.md)
+
+[187_Repeated_DNA_Sequences](187_Repeated_DNA_Sequences.md)
 
