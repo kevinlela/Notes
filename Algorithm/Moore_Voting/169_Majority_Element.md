@@ -9,9 +9,9 @@ You may assume that the array is non-empty and the majority element always exist
 find element in [n/k] times. 
 1) construct vector of k elements
 2) if n[i] == v[k]; v[k]++;
-3) else all ==v[k]
-4) if v[k] == 0 assign n[i] to v[k]
-5) count v[k] again. 
+3) else if v[k] == 0 assign n[i] to v[k]
+4) else v[k]-- for all k
+5) count v[k] again.
 
 	class Solution {
 	public:
