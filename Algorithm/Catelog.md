@@ -24,6 +24,10 @@
 
 [278_First_Bad_Version](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/278_First_Bad_Version.md)
 
+[367_Valid_Perfect_Square](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/367_Valid_Perfect_Square.md)
+
+[374_Guess_Number_Higher_or_Lower](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/374_Guess_Number_Higher_or_Lower.md)
+
 ## Other
 
 [56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
@@ -37,6 +41,8 @@
 [299_Bulls_and_Cows](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/299_Bulls_and_Cows.md)
 
 [306_Additive_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/306_Additive_Number.md)
+
+[352_Data_Stream_as_Disjoint_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/352_Data_Stream_as_Disjoint_Intervals.md)
 
 ## KMP
 
@@ -92,11 +98,17 @@
 
 [342_Power_of_Four](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/342_Power_of_Four.md)
 
+[357_Count_Numbers_with_Unique_Digits](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/357_Count_Numbers_with_Unique_Digits.md)
+
+[372_Super_Pow](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/372_Super_Pow.md)
+
 ## Map
 
 [220_Contains_Duplicate_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/220_Contains_Duplicate_III.md)
 
 [327_Count_of_Range_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/327_Count_of_Range_Sum.md)
+
+[363_Max_Sum_of_Rectangle_No_Larger_Than_K](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
 
 ## Algorithm
 
@@ -143,6 +155,10 @@
 ## Priority Queue
 
 [295_Find_Median_from_Data_Stream](https://github.com/kevinlela/Notes/tree/master/Algorithm/Priority_Queue/295_Find_Median_from_Data_Stream.md)
+
+[373_Find_K_Pairs_with_Smallest_Sums](https://github.com/kevinlela/Notes/tree/master/Algorithm/Priority_Queue/373_Find_K_Pairs_with_Smallest_Sums.md)
+
+[378_Kth_Smallest_Element_in_a_Sorted_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Priority_Queue/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
 ## Tree
 
@@ -318,6 +334,14 @@
 
 [343_Integer_Break](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/343_Integer_Break.md)
 
+[354_Russian_Doll_Envelopes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/354_Russian_Doll_Envelopes.md)
+
+[368_Largest_Divisible_Subset](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/368_Largest_Divisible_Subset.md)
+
+[375_Guess_Number_Higher_or_Lower_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/375_Guess_Number_Higher_or_Lower_II.md)
+
+[376_Wiggle_Subsequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/376_Wiggle_Subsequence.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -359,6 +383,8 @@
 [201_Bitwise_AND_of_Numbers_Range](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.md)
 
 [338_Counting_Bits](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/338_Counting_Bits.md)
+
+[371_Sum_of_Two_Integers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/371_Sum_of_Two_Integers.md)
 
 ## Trie
 
@@ -427,6 +453,8 @@
 [232_Implement_Queue_using_Stacks](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/232_Implement_Queue_using_Stacks.md)
 
 [284_Peeking_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/284_Peeking_Iterator.md)
+
+[355_Design_Twitter](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/355_Design_Twitter.md)
 
 ## Linkedlists
 
@@ -1069,4 +1097,32 @@
 254.[349_Intersection_of_Two_Arrays](349_Intersection_of_Two_Arrays.md)
 
 255.[350_Intersection_of_Two_Arrays_II](350_Intersection_of_Two_Arrays_II.md)
+
+256.[352_Data_Stream_as_Disjoint_Intervals](352_Data_Stream_as_Disjoint_Intervals.md)
+
+257.[354_Russian_Doll_Envelopes](354_Russian_Doll_Envelopes.md)
+
+258.[355_Design_Twitter](355_Design_Twitter.md)
+
+259.[357_Count_Numbers_with_Unique_Digits](357_Count_Numbers_with_Unique_Digits.md)
+
+260.[363_Max_Sum_of_Rectangle_No_Larger_Than_K](363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
+
+261.[367_Valid_Perfect_Square](367_Valid_Perfect_Square.md)
+
+262.[368_Largest_Divisible_Subset](368_Largest_Divisible_Subset.md)
+
+263.[371_Sum_of_Two_Integers](371_Sum_of_Two_Integers.md)
+
+264.[372_Super_Pow](372_Super_Pow.md)
+
+265.[373_Find_K_Pairs_with_Smallest_Sums](373_Find_K_Pairs_with_Smallest_Sums.md)
+
+266.[374_Guess_Number_Higher_or_Lower](374_Guess_Number_Higher_or_Lower.md)
+
+267.[375_Guess_Number_Higher_or_Lower_II](375_Guess_Number_Higher_or_Lower_II.md)
+
+268.[376_Wiggle_Subsequence](376_Wiggle_Subsequence.md)
+
+269.[378_Kth_Smallest_Element_in_a_Sorted_Matrix](378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
