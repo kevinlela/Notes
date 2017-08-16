@@ -28,6 +28,16 @@
 
 [374_Guess_Number_Higher_or_Lower](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/374_Guess_Number_Higher_or_Lower.md)
 
+## Random Sampling
+
+[380_Insert_Delete_GetRandom_O(1)](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/380_Insert_Delete_GetRandom_O(1).md)
+
+[381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed.md)
+
+[382_Linked_List_Random_Node](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/382_Linked_List_Random_Node.md)
+
+[384_Shuffle_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/384_Shuffle_an_Array.md)
+
 ## Other
 
 [56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
@@ -102,6 +112,8 @@
 
 [372_Super_Pow](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/372_Super_Pow.md)
 
+[386_Lexicographical_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/386_Lexicographical_Numbers.md)
+
 ## Map
 
 [220_Contains_Duplicate_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/220_Contains_Duplicate_III.md)
@@ -111,12 +123,6 @@
 [363_Max_Sum_of_Rectangle_No_Larger_Than_K](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
 
 ## Algorithm
-
-[Catelog](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/Catelog.md)
-
-[Fisher-Yates_shuffling](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/Fisher-Yates_shuffling.md)
-
-[reservoir_sampling](https://github.com/kevinlela/Notes/tree/master/Algorithm/Algorithm/reservoir_sampling.md)
 
 ## Moore Voting
 
@@ -151,6 +157,10 @@
 [227_Basic_Calculator_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/227_Basic_Calculator_II.md)
 
 [341_Flatten_Nested_List_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/341_Flatten_Nested_List_Iterator.md)
+
+[385_Mini_Parser](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/385_Mini_Parser.md)
+
+[388_Longest_Absolute_File_Path](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/388_Longest_Absolute_File_Path.md)
 
 ## Priority Queue
 
@@ -342,6 +352,8 @@
 
 [376_Wiggle_Subsequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/376_Wiggle_Subsequence.md)
 
+[390_Elimination_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/390_Elimination_Game.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -371,6 +383,8 @@
 [344_Reverse_Strin](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/344_Reverse_Strin.md)
 
 [345_Reverse_Vowels_of_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/345_Reverse_Vowels_of_a_String.md)
+
+[387_First_Unique_Character_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/387_First_Unique_Character_in_a_String.md)
 
 ## Bit Manipulation
 
@@ -427,6 +441,10 @@
 [349_Intersection_of_Two_Arrays](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/349_Intersection_of_Two_Arrays.md)
 
 [350_Intersection_of_Two_Arrays_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/350_Intersection_of_Two_Arrays_II.md)
+
+[383_Ransom_Note](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/383_Ransom_Note.md)
+
+[389_Find_the_Difference](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/389_Find_the_Difference.md)
 
 ## Greedy Algorithm
 
@@ -588,541 +606,557 @@
 
 ### All Questions
 
-1.[Catelog](Catelog.md)
+1.[1_Two_Sum](1_Two_Sum.md)
 
-2.[Fisher-Yates_shuffling](Fisher-Yates_shuffling.md)
+2.[2_Add_Two_Numbers](2_Add_Two_Numbers.md)
 
-3.[reservoir_sampling](reservoir_sampling.md)
+3.[3_Longest_Substring_Without_Repeating_Characters](3_Longest_Substring_Without_Repeating_Characters.md)
 
-4.[1_Two_Sum](1_Two_Sum.md)
+4.[5_Longest_Palindromic_Substring](5_Longest_Palindromic_Substring.md)
 
-5.[2_Add_Two_Numbers](2_Add_Two_Numbers.md)
+5.[6_ZigZag_Conversion](6_ZigZag_Conversion.md)
 
-6.[3_Longest_Substring_Without_Repeating_Characters](3_Longest_Substring_Without_Repeating_Characters.md)
+6.[7_Reverse_Integer](7_Reverse_Integer.md)
 
-7.[5_Longest_Palindromic_Substring](5_Longest_Palindromic_Substring.md)
+7.[8_String_to_Integer_(atoi)](8_String_to_Integer_(atoi).md)
 
-8.[6_ZigZag_Conversion](6_ZigZag_Conversion.md)
+8.[9_Palindrome_Number](9_Palindrome_Number.md)
 
-9.[7_Reverse_Integer](7_Reverse_Integer.md)
+9.[10_Regular_Expression_Matching](10_Regular_Expression_Matching.md)
 
-10.[8_String_to_Integer_(atoi)](8_String_to_Integer_(atoi).md)
+10.[11_Container_With_Most_Water](11_Container_With_Most_Water.md)
 
-11.[9_Palindrome_Number](9_Palindrome_Number.md)
+11.[12_Integer_to_Roman](12_Integer_to_Roman.md)
 
-12.[10_Regular_Expression_Matching](10_Regular_Expression_Matching.md)
+12.[13_Roman_to_Integer](13_Roman_to_Integer.md)
 
-13.[11_Container_With_Most_Water](11_Container_With_Most_Water.md)
+13.[14_Longest_Common_Prefix](14_Longest_Common_Prefix.md)
 
-14.[12_Integer_to_Roman](12_Integer_to_Roman.md)
+14.[15_3Sum](15_3Sum.md)
 
-15.[13_Roman_to_Integer](13_Roman_to_Integer.md)
+15.[16_3Sum_Closest](16_3Sum_Closest.md)
 
-16.[14_Longest_Common_Prefix](14_Longest_Common_Prefix.md)
+16.[17_Letter_Combinations_of_a_Phone_Number](17_Letter_Combinations_of_a_Phone_Number.md)
 
-17.[15_3Sum](15_3Sum.md)
+17.[18_4Sum](18_4Sum.md)
 
-18.[16_3Sum_Closest](16_3Sum_Closest.md)
+18.[19_Remove_Nth_Node_From_End_of_List](19_Remove_Nth_Node_From_End_of_List.md)
 
-19.[17_Letter_Combinations_of_a_Phone_Number](17_Letter_Combinations_of_a_Phone_Number.md)
+19.[20_Valid_Parentheses](20_Valid_Parentheses.md)
 
-20.[18_4Sum](18_4Sum.md)
+20.[21_Merge_Two_Sorted_Lists](21_Merge_Two_Sorted_Lists.md)
 
-21.[19_Remove_Nth_Node_From_End_of_List](19_Remove_Nth_Node_From_End_of_List.md)
+21.[23_Merge_k_Sorted_Lists](23_Merge_k_Sorted_Lists.md)
 
-22.[20_Valid_Parentheses](20_Valid_Parentheses.md)
+22.[24_Swap_Nodes_in_Pairs](24_Swap_Nodes_in_Pairs.md)
 
-23.[21_Merge_Two_Sorted_Lists](21_Merge_Two_Sorted_Lists.md)
+23.[25_Reverse_Nodes_in_k-Group](25_Reverse_Nodes_in_k-Group.md)
 
-24.[23_Merge_k_Sorted_Lists](23_Merge_k_Sorted_Lists.md)
+24.[26_Remove_Duplicates_from_Sorted_Array](26_Remove_Duplicates_from_Sorted_Array.md)
 
-25.[24_Swap_Nodes_in_Pairs](24_Swap_Nodes_in_Pairs.md)
+25.[27_Remove_Element](27_Remove_Element.md)
 
-26.[25_Reverse_Nodes_in_k-Group](25_Reverse_Nodes_in_k-Group.md)
+26.[28_Implement_strStr()](28_Implement_strStr().md)
 
-27.[26_Remove_Duplicates_from_Sorted_Array](26_Remove_Duplicates_from_Sorted_Array.md)
+27.[29_Divide_Two_Integers](29_Divide_Two_Integers.md)
 
-28.[27_Remove_Element](27_Remove_Element.md)
+28.[30_Substring_with_Concatenation_of_All_Words](30_Substring_with_Concatenation_of_All_Words.md)
 
-29.[28_Implement_strStr()](28_Implement_strStr().md)
+29.[31_Next_Permutation](31_Next_Permutation.md)
 
-30.[29_Divide_Two_Integers](29_Divide_Two_Integers.md)
+30.[32_Longest_Valid_Parentheses](32_Longest_Valid_Parentheses.md)
 
-31.[30_Substring_with_Concatenation_of_All_Words](30_Substring_with_Concatenation_of_All_Words.md)
+31.[33_Search_in_Rotated_Sorted_Array](33_Search_in_Rotated_Sorted_Array.md)
 
-32.[31_Next_Permutation](31_Next_Permutation.md)
+32.[34_Search_for_a_Range](34_Search_for_a_Range.md)
 
-33.[32_Longest_Valid_Parentheses](32_Longest_Valid_Parentheses.md)
+33.[35_Search_Insert_Position](35_Search_Insert_Position.md)
 
-34.[33_Search_in_Rotated_Sorted_Array](33_Search_in_Rotated_Sorted_Array.md)
+34.[36_Valid_Sudoku](36_Valid_Sudoku.md)
 
-35.[34_Search_for_a_Range](34_Search_for_a_Range.md)
+35.[37_Sudoku_Solver](37_Sudoku_Solver.md)
 
-36.[35_Search_Insert_Position](35_Search_Insert_Position.md)
+36.[38_Count_and_Say](38_Count_and_Say.md)
 
-37.[36_Valid_Sudoku](36_Valid_Sudoku.md)
+37.[39_Combination_Sum](39_Combination_Sum.md)
 
-38.[37_Sudoku_Solver](37_Sudoku_Solver.md)
+38.[40_Combination_Sum_II](40_Combination_Sum_II.md)
 
-39.[38_Count_and_Say](38_Count_and_Say.md)
+39.[41_First_Missing_Positive](41_First_Missing_Positive.md)
 
-40.[39_Combination_Sum](39_Combination_Sum.md)
+40.[42_Trapping_Rain_Water](42_Trapping_Rain_Water.md)
 
-41.[40_Combination_Sum_II](40_Combination_Sum_II.md)
+41.[43_Multiply_Strings](43_Multiply_Strings.md)
 
-42.[41_First_Missing_Positive](41_First_Missing_Positive.md)
+42.[44_Wildcard_Matching](44_Wildcard_Matching.md)
 
-43.[42_Trapping_Rain_Water](42_Trapping_Rain_Water.md)
+43.[45_Jump_Game_II](45_Jump_Game_II.md)
 
-44.[43_Multiply_Strings](43_Multiply_Strings.md)
+44.[46_Permutations](46_Permutations.md)
 
-45.[44_Wildcard_Matching](44_Wildcard_Matching.md)
+45.[47_Permutations_II](47_Permutations_II.md)
 
-46.[45_Jump_Game_II](45_Jump_Game_II.md)
+46.[48_Rotate_Image](48_Rotate_Image.md)
 
-47.[46_Permutations](46_Permutations.md)
+47.[49_Group_Anagrams](49_Group_Anagrams.md)
 
-48.[47_Permutations_II](47_Permutations_II.md)
+48.[50_Pow](50_Pow.md)
 
-49.[48_Rotate_Image](48_Rotate_Image.md)
+49.[53_Maximum_Subarray](53_Maximum_Subarray.md)
 
-50.[49_Group_Anagrams](49_Group_Anagrams.md)
+50.[55_Jump_Game](55_Jump_Game.md)
 
-51.[50_Pow](50_Pow.md)
+51.[56_Merge_Intervals](56_Merge_Intervals.md)
 
-52.[53_Maximum_Subarray](53_Maximum_Subarray.md)
+52.[57_Insert_Interval](57_Insert_Interval.md)
 
-53.[55_Jump_Game](55_Jump_Game.md)
+53.[58_Length_of_Last_Word](58_Length_of_Last_Word.md)
 
-54.[56_Merge_Intervals](56_Merge_Intervals.md)
+54.[60_Permutation_Sequence](60_Permutation_Sequence.md)
 
-55.[57_Insert_Interval](57_Insert_Interval.md)
+55.[61_Rotate_List](61_Rotate_List.md)
 
-56.[58_Length_of_Last_Word](58_Length_of_Last_Word.md)
+56.[62_Unique_Paths](62_Unique_Paths.md)
 
-57.[60_Permutation_Sequence](60_Permutation_Sequence.md)
+57.[63_Unique_Paths_II](63_Unique_Paths_II.md)
 
-58.[61_Rotate_List](61_Rotate_List.md)
+58.[64_Minimum_Path_Sum](64_Minimum_Path_Sum.md)
 
-59.[62_Unique_Paths](62_Unique_Paths.md)
+59.[66_Plus_One](66_Plus_One.md)
 
-60.[63_Unique_Paths_II](63_Unique_Paths_II.md)
+60.[67_Add_Binary](67_Add_Binary.md)
 
-61.[64_Minimum_Path_Sum](64_Minimum_Path_Sum.md)
+61.[69_Sqrt(x)](69_Sqrt(x).md)
 
-62.[66_Plus_One](66_Plus_One.md)
+62.[70_Climbing_Stairs](70_Climbing_Stairs.md)
 
-63.[67_Add_Binary](67_Add_Binary.md)
+63.[71_Simplify_Path](71_Simplify_Path.md)
 
-64.[69_Sqrt(x)](69_Sqrt(x).md)
+64.[72_Edit_Distance](72_Edit_Distance.md)
 
-65.[70_Climbing_Stairs](70_Climbing_Stairs.md)
+65.[73_Set_Matrix_Zeroes](73_Set_Matrix_Zeroes.md)
 
-66.[71_Simplify_Path](71_Simplify_Path.md)
+66.[74_Search_a_2D_Matrix](74_Search_a_2D_Matrix.md)
 
-67.[72_Edit_Distance](72_Edit_Distance.md)
+67.[75_Sort_Colors](75_Sort_Colors.md)
 
-68.[73_Set_Matrix_Zeroes](73_Set_Matrix_Zeroes.md)
+68.[76_Minimum_Window_Substring](76_Minimum_Window_Substring.md)
 
-69.[74_Search_a_2D_Matrix](74_Search_a_2D_Matrix.md)
+69.[77_Combinations](77_Combinations.md)
 
-70.[75_Sort_Colors](75_Sort_Colors.md)
+70.[78_Subsets](78_Subsets.md)
 
-71.[76_Minimum_Window_Substring](76_Minimum_Window_Substring.md)
+71.[79_Word_Search](79_Word_Search.md)
 
-72.[77_Combinations](77_Combinations.md)
+72.[80_Remove_Duplicates_from_Sorted_Array_II](80_Remove_Duplicates_from_Sorted_Array_II.md)
 
-73.[78_Subsets](78_Subsets.md)
+73.[81_Search_in_Rotated_Sorted_Array_II](81_Search_in_Rotated_Sorted_Array_II.md)
 
-74.[79_Word_Search](79_Word_Search.md)
+74.[82_Remove_Duplicates_from_Sorted_List_II](82_Remove_Duplicates_from_Sorted_List_II.md)
 
-75.[80_Remove_Duplicates_from_Sorted_Array_II](80_Remove_Duplicates_from_Sorted_Array_II.md)
+75.[83_Remove_Duplicates_from_Sorted_List](83_Remove_Duplicates_from_Sorted_List.md)
 
-76.[81_Search_in_Rotated_Sorted_Array_II](81_Search_in_Rotated_Sorted_Array_II.md)
+76.[84_Largest_Rectangle_in_Histogram](84_Largest_Rectangle_in_Histogram.md)
 
-77.[82_Remove_Duplicates_from_Sorted_List_II](82_Remove_Duplicates_from_Sorted_List_II.md)
+77.[85_Maximal_Rectangle](85_Maximal_Rectangle.md)
 
-78.[83_Remove_Duplicates_from_Sorted_List](83_Remove_Duplicates_from_Sorted_List.md)
+78.[86_Partition_List](86_Partition_List.md)
 
-79.[84_Largest_Rectangle_in_Histogram](84_Largest_Rectangle_in_Histogram.md)
+79.[87_Scramble_String](87_Scramble_String.md)
 
-80.[85_Maximal_Rectangle](85_Maximal_Rectangle.md)
+80.[88_Merge_Sorted_Array](88_Merge_Sorted_Array.md)
 
-81.[86_Partition_List](86_Partition_List.md)
+81.[89_Gray_Code](89_Gray_Code.md)
 
-82.[87_Scramble_String](87_Scramble_String.md)
+82.[90_Subsets_II](90_Subsets_II.md)
 
-83.[88_Merge_Sorted_Array](88_Merge_Sorted_Array.md)
+83.[91_Decode_Ways](91_Decode_Ways.md)
 
-84.[89_Gray_Code](89_Gray_Code.md)
+84.[92_Reverse_Linked_List_II](92_Reverse_Linked_List_II.md)
 
-85.[90_Subsets_II](90_Subsets_II.md)
+85.[93_Restore_IP_Addresses](93_Restore_IP_Addresses.md)
 
-86.[91_Decode_Ways](91_Decode_Ways.md)
+86.[94_Binary_Tree_Inorder_Traversal](94_Binary_Tree_Inorder_Traversal.md)
 
-87.[92_Reverse_Linked_List_II](92_Reverse_Linked_List_II.md)
+87.[95_Unique_Binary_Search_Trees_II](95_Unique_Binary_Search_Trees_II.md)
 
-88.[93_Restore_IP_Addresses](93_Restore_IP_Addresses.md)
+88.[96_Unique_Binary_Search_Trees](96_Unique_Binary_Search_Trees.md)
 
-89.[94_Binary_Tree_Inorder_Traversal](94_Binary_Tree_Inorder_Traversal.md)
+89.[97_Interleaving_String](97_Interleaving_String.md)
 
-90.[95_Unique_Binary_Search_Trees_II](95_Unique_Binary_Search_Trees_II.md)
+90.[98_Validate_Binary_Search_Tree](98_Validate_Binary_Search_Tree.md)
 
-91.[96_Unique_Binary_Search_Trees](96_Unique_Binary_Search_Trees.md)
+91.[99_Recover_Binary_Search_Tree](99_Recover_Binary_Search_Tree.md)
 
-92.[97_Interleaving_String](97_Interleaving_String.md)
+92.[100_Same_Tree](100_Same_Tree.md)
 
-93.[98_Validate_Binary_Search_Tree](98_Validate_Binary_Search_Tree.md)
+93.[101_Symmetric_Tree](101_Symmetric_Tree.md)
 
-94.[99_Recover_Binary_Search_Tree](99_Recover_Binary_Search_Tree.md)
+94.[102_Binary_Tree_Level_Order_Traversal](102_Binary_Tree_Level_Order_Traversal.md)
 
-95.[100_Same_Tree](100_Same_Tree.md)
+95.[103_Binary_Tree_Zigzag_Level_Order_Traversal](103_Binary_Tree_Zigzag_Level_Order_Traversal.md)
 
-96.[101_Symmetric_Tree](101_Symmetric_Tree.md)
+96.[104_Maximum_Depth_of_Binary_Tree](104_Maximum_Depth_of_Binary_Tree.md)
 
-97.[102_Binary_Tree_Level_Order_Traversal](102_Binary_Tree_Level_Order_Traversal.md)
+97.[105_Construct_Binary_Tree_from_Preorder_and_Inorde](105_Construct_Binary_Tree_from_Preorder_and_Inorde.md)
 
-98.[103_Binary_Tree_Zigzag_Level_Order_Traversal](103_Binary_Tree_Zigzag_Level_Order_Traversal.md)
+98.[106_Construct_Binary_Tree_from_Inorder_and_Postord](106_Construct_Binary_Tree_from_Inorder_and_Postord.md)
 
-99.[104_Maximum_Depth_of_Binary_Tree](104_Maximum_Depth_of_Binary_Tree.md)
+99.[107_Binary_Tree_Level_Order_Traversal_II](107_Binary_Tree_Level_Order_Traversal_II.md)
 
-100.[105_Construct_Binary_Tree_from_Preorder_and_Inorde](105_Construct_Binary_Tree_from_Preorder_and_Inorde.md)
+100.[108_Convert_Sorted_Array_to_Binary_Search_Tree](108_Convert_Sorted_Array_to_Binary_Search_Tree.md)
 
-101.[106_Construct_Binary_Tree_from_Inorder_and_Postord](106_Construct_Binary_Tree_from_Inorder_and_Postord.md)
+101.[109_Convert_Sorted_List_to_Binary_Search_Tree](109_Convert_Sorted_List_to_Binary_Search_Tree.md)
 
-102.[107_Binary_Tree_Level_Order_Traversal_II](107_Binary_Tree_Level_Order_Traversal_II.md)
+102.[110_Balanced_Binary_Tree](110_Balanced_Binary_Tree.md)
 
-103.[108_Convert_Sorted_Array_to_Binary_Search_Tree](108_Convert_Sorted_Array_to_Binary_Search_Tree.md)
+103.[111_Minimum_Depth_of_Binary_Tree](111_Minimum_Depth_of_Binary_Tree.md)
 
-104.[109_Convert_Sorted_List_to_Binary_Search_Tree](109_Convert_Sorted_List_to_Binary_Search_Tree.md)
+104.[112_Path_Sum](112_Path_Sum.md)
 
-105.[110_Balanced_Binary_Tree](110_Balanced_Binary_Tree.md)
+105.[113_Path_Sum_II](113_Path_Sum_II.md)
 
-106.[111_Minimum_Depth_of_Binary_Tree](111_Minimum_Depth_of_Binary_Tree.md)
+106.[114_Flatten_Binary_Tree_to_Linked_List](114_Flatten_Binary_Tree_to_Linked_List.md)
 
-107.[112_Path_Sum](112_Path_Sum.md)
+107.[115_Distinct_Subsequences](115_Distinct_Subsequences.md)
 
-108.[113_Path_Sum_II](113_Path_Sum_II.md)
+108.[116_Populating_Next_Right_Pointers_in_Each_Node](116_Populating_Next_Right_Pointers_in_Each_Node.md)
 
-109.[114_Flatten_Binary_Tree_to_Linked_List](114_Flatten_Binary_Tree_to_Linked_List.md)
+109.[117_Populating_Next_Right_Pointers_in_Each_Node_II](117_Populating_Next_Right_Pointers_in_Each_Node_II.md)
 
-110.[115_Distinct_Subsequences](115_Distinct_Subsequences.md)
+110.[118_Pascal's_Triangle](118_Pascal's_Triangle.md)
 
-111.[116_Populating_Next_Right_Pointers_in_Each_Node](116_Populating_Next_Right_Pointers_in_Each_Node.md)
+111.[119_Pascal's_Triangle_II](119_Pascal's_Triangle_II.md)
 
-112.[117_Populating_Next_Right_Pointers_in_Each_Node_II](117_Populating_Next_Right_Pointers_in_Each_Node_II.md)
+112.[120_Triangle](120_Triangle.md)
 
-113.[118_Pascal's_Triangle](118_Pascal's_Triangle.md)
+113.[121_Best_Time_to_Buy_and_Sell_Stock](121_Best_Time_to_Buy_and_Sell_Stock.md)
 
-114.[119_Pascal's_Triangle_II](119_Pascal's_Triangle_II.md)
+114.[122_Best_Time_to_Buy_and_Sell_Stock_II](122_Best_Time_to_Buy_and_Sell_Stock_II.md)
 
-115.[120_Triangle](120_Triangle.md)
+115.[123_Best_Time_to_Buy_and_Sell_Stock_III](123_Best_Time_to_Buy_and_Sell_Stock_III.md)
 
-116.[121_Best_Time_to_Buy_and_Sell_Stock](121_Best_Time_to_Buy_and_Sell_Stock.md)
+116.[124_Binary_Tree_Maximum_Path_Sum](124_Binary_Tree_Maximum_Path_Sum.md)
 
-117.[122_Best_Time_to_Buy_and_Sell_Stock_II](122_Best_Time_to_Buy_and_Sell_Stock_II.md)
+117.[125_Valid_Palindrome](125_Valid_Palindrome.md)
 
-118.[123_Best_Time_to_Buy_and_Sell_Stock_III](123_Best_Time_to_Buy_and_Sell_Stock_III.md)
+118.[126_Word_Ladder_II](126_Word_Ladder_II.md)
 
-119.[124_Binary_Tree_Maximum_Path_Sum](124_Binary_Tree_Maximum_Path_Sum.md)
+119.[127_Word_Ladder](127_Word_Ladder.md)
 
-120.[125_Valid_Palindrome](125_Valid_Palindrome.md)
+120.[128_Longest_Consecutive_Sequence](128_Longest_Consecutive_Sequence.md)
 
-121.[126_Word_Ladder_II](126_Word_Ladder_II.md)
+121.[129_Sum_Root_to_Leaf_Numbers](129_Sum_Root_to_Leaf_Numbers.md)
 
-122.[127_Word_Ladder](127_Word_Ladder.md)
+122.[130_Surrounded_Regions](130_Surrounded_Regions.md)
 
-123.[128_Longest_Consecutive_Sequence](128_Longest_Consecutive_Sequence.md)
+123.[131_Palindrome_Partitioning](131_Palindrome_Partitioning.md)
 
-124.[129_Sum_Root_to_Leaf_Numbers](129_Sum_Root_to_Leaf_Numbers.md)
+124.[132_Palindrome_Partitioning_II](132_Palindrome_Partitioning_II.md)
 
-125.[130_Surrounded_Regions](130_Surrounded_Regions.md)
+125.[133_Clone_Graph](133_Clone_Graph.md)
 
-126.[131_Palindrome_Partitioning](131_Palindrome_Partitioning.md)
+126.[134_Gas_Station](134_Gas_Station.md)
 
-127.[132_Palindrome_Partitioning_II](132_Palindrome_Partitioning_II.md)
+127.[135_Candy](135_Candy.md)
 
-128.[133_Clone_Graph](133_Clone_Graph.md)
+128.[136_Single_Number](136_Single_Number.md)
 
-129.[134_Gas_Station](134_Gas_Station.md)
+129.[138_Copy_List_with_Random_Pointer](138_Copy_List_with_Random_Pointer.md)
 
-130.[135_Candy](135_Candy.md)
+130.[139_Word_Break](139_Word_Break.md)
 
-131.[136_Single_Number](136_Single_Number.md)
+131.[140_Word_Break_II](140_Word_Break_II.md)
 
-132.[138_Copy_List_with_Random_Pointer](138_Copy_List_with_Random_Pointer.md)
+132.[141_Linked_List_Cycle](141_Linked_List_Cycle.md)
 
-133.[139_Word_Break](139_Word_Break.md)
+133.[142_Linked_List_Cycle_II](142_Linked_List_Cycle_II.md)
 
-134.[140_Word_Break_II](140_Word_Break_II.md)
+134.[143_Reorder_List](143_Reorder_List.md)
 
-135.[141_Linked_List_Cycle](141_Linked_List_Cycle.md)
+135.[144_Binary_Tree_Preorder_Traversal](144_Binary_Tree_Preorder_Traversal.md)
 
-136.[142_Linked_List_Cycle_II](142_Linked_List_Cycle_II.md)
+136.[145_Binary_Tree_Postorder_Traversal](145_Binary_Tree_Postorder_Traversal.md)
 
-137.[143_Reorder_List](143_Reorder_List.md)
+137.[146_LRU_Cache](146_LRU_Cache.md)
 
-138.[144_Binary_Tree_Preorder_Traversal](144_Binary_Tree_Preorder_Traversal.md)
+138.[147_Insertion_Sort_List](147_Insertion_Sort_List.md)
 
-139.[145_Binary_Tree_Postorder_Traversal](145_Binary_Tree_Postorder_Traversal.md)
+139.[148_Sort_List](148_Sort_List.md)
 
-140.[146_LRU_Cache](146_LRU_Cache.md)
+140.[149_Max_Points_on_a_Line](149_Max_Points_on_a_Line.md)
 
-141.[147_Insertion_Sort_List](147_Insertion_Sort_List.md)
+141.[150_Evaluate_Reverse_Polish_Notation](150_Evaluate_Reverse_Polish_Notation.md)
 
-142.[148_Sort_List](148_Sort_List.md)
+142.[151_Reverse_Words_in_a_String](151_Reverse_Words_in_a_String.md)
 
-143.[149_Max_Points_on_a_Line](149_Max_Points_on_a_Line.md)
+143.[152_Maximum_Product_Subarray](152_Maximum_Product_Subarray.md)
 
-144.[150_Evaluate_Reverse_Polish_Notation](150_Evaluate_Reverse_Polish_Notation.md)
+144.[153_Find_Minimum_in_Rotated_Sorted_Array](153_Find_Minimum_in_Rotated_Sorted_Array.md)
 
-145.[151_Reverse_Words_in_a_String](151_Reverse_Words_in_a_String.md)
+145.[154_Find_Minimum_in_Rotated_Sorted_Array_II](154_Find_Minimum_in_Rotated_Sorted_Array_II.md)
 
-146.[152_Maximum_Product_Subarray](152_Maximum_Product_Subarray.md)
+146.[155_Min_Stack](155_Min_Stack.md)
 
-147.[153_Find_Minimum_in_Rotated_Sorted_Array](153_Find_Minimum_in_Rotated_Sorted_Array.md)
+147.[160_Intersection_of_Two_Linked_Lists](160_Intersection_of_Two_Linked_Lists.md)
 
-148.[154_Find_Minimum_in_Rotated_Sorted_Array_II](154_Find_Minimum_in_Rotated_Sorted_Array_II.md)
+148.[162_Find_Peak_Element](162_Find_Peak_Element.md)
 
-149.[155_Min_Stack](155_Min_Stack.md)
+149.[164_Maximum_Gap](164_Maximum_Gap.md)
 
-150.[160_Intersection_of_Two_Linked_Lists](160_Intersection_of_Two_Linked_Lists.md)
+150.[165_Compare_Version_Numbers](165_Compare_Version_Numbers.md)
 
-151.[162_Find_Peak_Element](162_Find_Peak_Element.md)
+151.[166_Fraction_to_Recurring_Decimal](166_Fraction_to_Recurring_Decimal.md)
 
-152.[164_Maximum_Gap](164_Maximum_Gap.md)
+152.[167_Two_Sum_II_-_Input_array_is_sorted](167_Two_Sum_II_-_Input_array_is_sorted.md)
 
-153.[165_Compare_Version_Numbers](165_Compare_Version_Numbers.md)
+153.[168_Excel_Sheet_Column_Title](168_Excel_Sheet_Column_Title.md)
 
-154.[166_Fraction_to_Recurring_Decimal](166_Fraction_to_Recurring_Decimal.md)
+154.[169_Majority_Element](169_Majority_Element.md)
 
-155.[167_Two_Sum_II_-_Input_array_is_sorted](167_Two_Sum_II_-_Input_array_is_sorted.md)
+155.[171_Excel_Sheet_Column_Number](171_Excel_Sheet_Column_Number.md)
 
-156.[168_Excel_Sheet_Column_Title](168_Excel_Sheet_Column_Title.md)
+156.[172_Factorial_Trailing_Zeroes](172_Factorial_Trailing_Zeroes.md)
 
-157.[169_Majority_Element](169_Majority_Element.md)
+157.[173_Binary_Search_Tree_Iterator](173_Binary_Search_Tree_Iterator.md)
 
-158.[171_Excel_Sheet_Column_Number](171_Excel_Sheet_Column_Number.md)
+158.[174_Dungeon_Game](174_Dungeon_Game.md)
 
-159.[172_Factorial_Trailing_Zeroes](172_Factorial_Trailing_Zeroes.md)
+159.[179_Largest_Number](179_Largest_Number.md)
 
-160.[173_Binary_Search_Tree_Iterator](173_Binary_Search_Tree_Iterator.md)
+160.[187_Repeated_DNA_Sequences](187_Repeated_DNA_Sequences.md)
 
-161.[174_Dungeon_Game](174_Dungeon_Game.md)
+161.[188_Best_Time_to_Buy_and_Sell_Stock_IV](188_Best_Time_to_Buy_and_Sell_Stock_IV.md)
 
-162.[179_Largest_Number](179_Largest_Number.md)
+162.[189_Rotate_Array](189_Rotate_Array.md)
 
-163.[187_Repeated_DNA_Sequences](187_Repeated_DNA_Sequences.md)
+163.[190_Reverse_Bits](190_Reverse_Bits.md)
 
-164.[188_Best_Time_to_Buy_and_Sell_Stock_IV](188_Best_Time_to_Buy_and_Sell_Stock_IV.md)
+164.[191_Number_of_1_Bits](191_Number_of_1_Bits.md)
 
-165.[189_Rotate_Array](189_Rotate_Array.md)
+165.[198_House_Robber](198_House_Robber.md)
 
-166.[190_Reverse_Bits](190_Reverse_Bits.md)
+166.[199_Binary_Tree_Right_Side_View](199_Binary_Tree_Right_Side_View.md)
 
-167.[191_Number_of_1_Bits](191_Number_of_1_Bits.md)
+167.[200_Number_of_Islands](200_Number_of_Islands.md)
 
-168.[198_House_Robber](198_House_Robber.md)
+168.[201_Bitwise_AND_of_Numbers_Range](201_Bitwise_AND_of_Numbers_Range.md)
 
-169.[199_Binary_Tree_Right_Side_View](199_Binary_Tree_Right_Side_View.md)
+169.[202_Happy_Number](202_Happy_Number.md)
 
-170.[200_Number_of_Islands](200_Number_of_Islands.md)
+170.[203_Remove_Linked_List_Elements](203_Remove_Linked_List_Elements.md)
 
-171.[201_Bitwise_AND_of_Numbers_Range](201_Bitwise_AND_of_Numbers_Range.md)
+171.[204_Count_Primes](204_Count_Primes.md)
 
-172.[202_Happy_Number](202_Happy_Number.md)
+172.[205_Isomorphic_Strings](205_Isomorphic_Strings.md)
 
-173.[203_Remove_Linked_List_Elements](203_Remove_Linked_List_Elements.md)
+173.[206_Reverse_Linked_List](206_Reverse_Linked_List.md)
 
-174.[204_Count_Primes](204_Count_Primes.md)
+174.[207_Course_Schedule](207_Course_Schedule.md)
 
-175.[205_Isomorphic_Strings](205_Isomorphic_Strings.md)
+175.[208_Implement_Trie_(Prefix_Tree)](208_Implement_Trie_(Prefix_Tree).md)
 
-176.[206_Reverse_Linked_List](206_Reverse_Linked_List.md)
+176.[209_Minimum_Size_Subarray_Sum](209_Minimum_Size_Subarray_Sum.md)
 
-177.[207_Course_Schedule](207_Course_Schedule.md)
+177.[210_Course_Schedule_II](210_Course_Schedule_II.md)
 
-178.[208_Implement_Trie_(Prefix_Tree)](208_Implement_Trie_(Prefix_Tree).md)
+178.[213_House_Robber_II](213_House_Robber_II.md)
 
-179.[209_Minimum_Size_Subarray_Sum](209_Minimum_Size_Subarray_Sum.md)
+179.[215_Kth_Largest_Element_in_an_Array](215_Kth_Largest_Element_in_an_Array.md)
 
-180.[210_Course_Schedule_II](210_Course_Schedule_II.md)
+180.[216_Combination_Sum_III](216_Combination_Sum_III.md)
 
-181.[213_House_Robber_II](213_House_Robber_II.md)
+181.[217_Contains_Duplicate](217_Contains_Duplicate.md)
 
-182.[215_Kth_Largest_Element_in_an_Array](215_Kth_Largest_Element_in_an_Array.md)
+182.[219_Contains_Duplicate_II](219_Contains_Duplicate_II.md)
 
-183.[216_Combination_Sum_III](216_Combination_Sum_III.md)
+183.[220_Contains_Duplicate_III](220_Contains_Duplicate_III.md)
 
-184.[217_Contains_Duplicate](217_Contains_Duplicate.md)
+184.[221_Maximal_Square](221_Maximal_Square.md)
 
-185.[219_Contains_Duplicate_II](219_Contains_Duplicate_II.md)
+185.[222_Count_Complete_Tree_Nodes](222_Count_Complete_Tree_Nodes.md)
 
-186.[220_Contains_Duplicate_III](220_Contains_Duplicate_III.md)
+186.[223_Rectangle_Area](223_Rectangle_Area.md)
 
-187.[221_Maximal_Square](221_Maximal_Square.md)
+187.[225_Implement_Stack_using_Queues](225_Implement_Stack_using_Queues.md)
 
-188.[222_Count_Complete_Tree_Nodes](222_Count_Complete_Tree_Nodes.md)
+188.[226_Invert_Binary_Tree](226_Invert_Binary_Tree.md)
 
-189.[223_Rectangle_Area](223_Rectangle_Area.md)
+189.[227_Basic_Calculator_II](227_Basic_Calculator_II.md)
 
-190.[225_Implement_Stack_using_Queues](225_Implement_Stack_using_Queues.md)
+190.[228_Summary_Ranges](228_Summary_Ranges.md)
 
-191.[226_Invert_Binary_Tree](226_Invert_Binary_Tree.md)
+191.[229_Majority_Element_II](229_Majority_Element_II.md)
 
-192.[227_Basic_Calculator_II](227_Basic_Calculator_II.md)
+192.[230_Kth_Smallest_Element_in_a_BST](230_Kth_Smallest_Element_in_a_BST.md)
 
-193.[228_Summary_Ranges](228_Summary_Ranges.md)
+193.[231_Power_of_Two](231_Power_of_Two.md)
 
-194.[229_Majority_Element_II](229_Majority_Element_II.md)
+194.[232_Implement_Queue_using_Stacks](232_Implement_Queue_using_Stacks.md)
 
-195.[230_Kth_Smallest_Element_in_a_BST](230_Kth_Smallest_Element_in_a_BST.md)
+195.[233_Number_of_Digit_One](233_Number_of_Digit_One.md)
 
-196.[231_Power_of_Two](231_Power_of_Two.md)
+196.[234_Palindrome_Linked_List](234_Palindrome_Linked_List.md)
 
-197.[232_Implement_Queue_using_Stacks](232_Implement_Queue_using_Stacks.md)
+197.[235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
 
-198.[233_Number_of_Digit_One](233_Number_of_Digit_One.md)
+198.[236_Lowest_Common_Ancestor_of_a_Binary_Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 
-199.[234_Palindrome_Linked_List](234_Palindrome_Linked_List.md)
+199.[237_Delete_Node_in_a_Linked_List](237_Delete_Node_in_a_Linked_List.md)
 
-200.[235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
+200.[238_Product_of_Array_Except_Self](238_Product_of_Array_Except_Self.md)
 
-201.[236_Lowest_Common_Ancestor_of_a_Binary_Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
+201.[239_Sliding_Window_Maximum](239_Sliding_Window_Maximum.md)
 
-202.[237_Delete_Node_in_a_Linked_List](237_Delete_Node_in_a_Linked_List.md)
+202.[241_Different_Ways_to_Add_Parentheses](241_Different_Ways_to_Add_Parentheses.md)
 
-203.[238_Product_of_Array_Except_Self](238_Product_of_Array_Except_Self.md)
+203.[242_Valid_Anagram](242_Valid_Anagram.md)
 
-204.[239_Sliding_Window_Maximum](239_Sliding_Window_Maximum.md)
+204.[257_Binary_Tree_Paths](257_Binary_Tree_Paths.md)
 
-205.[241_Different_Ways_to_Add_Parentheses](241_Different_Ways_to_Add_Parentheses.md)
+205.[258_Add_Digits](258_Add_Digits.md)
 
-206.[242_Valid_Anagram](242_Valid_Anagram.md)
+206.[263_Ugly_Number](263_Ugly_Number.md)
 
-207.[257_Binary_Tree_Paths](257_Binary_Tree_Paths.md)
+207.[264_Ugly_Number_II](264_Ugly_Number_II.md)
 
-208.[258_Add_Digits](258_Add_Digits.md)
+208.[268_Missing_Number](268_Missing_Number.md)
 
-209.[263_Ugly_Number](263_Ugly_Number.md)
+209.[273_Integer_to_English_Words](273_Integer_to_English_Words.md)
 
-210.[264_Ugly_Number_II](264_Ugly_Number_II.md)
+210.[274_H-Index](274_H-Index.md)
 
-211.[268_Missing_Number](268_Missing_Number.md)
+211.[275_H-Index_II](275_H-Index_II.md)
 
-212.[273_Integer_to_English_Words](273_Integer_to_English_Words.md)
+212.[278_First_Bad_Version](278_First_Bad_Version.md)
 
-213.[274_H-Index](274_H-Index.md)
+213.[279_Perfect_Squares](279_Perfect_Squares.md)
 
-214.[275_H-Index_II](275_H-Index_II.md)
+214.[283_Move_Zeroes](283_Move_Zeroes.md)
 
-215.[278_First_Bad_Version](278_First_Bad_Version.md)
+215.[284_Peeking_Iterator](284_Peeking_Iterator.md)
 
-216.[279_Perfect_Squares](279_Perfect_Squares.md)
+216.[287_Find_the_Duplicate_Number](287_Find_the_Duplicate_Number.md)
 
-217.[283_Move_Zeroes](283_Move_Zeroes.md)
+217.[289_Game_of_Life](289_Game_of_Life.md)
 
-218.[284_Peeking_Iterator](284_Peeking_Iterator.md)
+218.[290_Word_Pattern](290_Word_Pattern.md)
 
-219.[287_Find_the_Duplicate_Number](287_Find_the_Duplicate_Number.md)
+219.[292_Nim_Game](292_Nim_Game.md)
 
-220.[289_Game_of_Life](289_Game_of_Life.md)
+220.[295_Find_Median_from_Data_Stream](295_Find_Median_from_Data_Stream.md)
 
-221.[290_Word_Pattern](290_Word_Pattern.md)
+221.[299_Bulls_and_Cows](299_Bulls_and_Cows.md)
 
-222.[292_Nim_Game](292_Nim_Game.md)
+222.[300_Longest_Increasing_Subsequence](300_Longest_Increasing_Subsequence.md)
 
-223.[295_Find_Median_from_Data_Stream](295_Find_Median_from_Data_Stream.md)
+223.[301_Remove_Invalid_Parentheses](301_Remove_Invalid_Parentheses.md)
 
-224.[299_Bulls_and_Cows](299_Bulls_and_Cows.md)
+224.[303_Range_Sum_Query_-_Immutable](303_Range_Sum_Query_-_Immutable.md)
 
-225.[300_Longest_Increasing_Subsequence](300_Longest_Increasing_Subsequence.md)
+225.[304_Range_Sum_Query_2D_-_Immutable](304_Range_Sum_Query_2D_-_Immutable.md)
 
-226.[301_Remove_Invalid_Parentheses](301_Remove_Invalid_Parentheses.md)
+226.[306_Additive_Number](306_Additive_Number.md)
 
-227.[303_Range_Sum_Query_-_Immutable](303_Range_Sum_Query_-_Immutable.md)
+227.[309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown](309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)
 
-228.[304_Range_Sum_Query_2D_-_Immutable](304_Range_Sum_Query_2D_-_Immutable.md)
+228.[310_Minimum_Height_Trees](310_Minimum_Height_Trees.md)
 
-229.[306_Additive_Number](306_Additive_Number.md)
+229.[312_Burst_Balloons](312_Burst_Balloons.md)
 
-230.[309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown](309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)
+230.[313_Super_Ugly_Number](313_Super_Ugly_Number.md)
 
-231.[310_Minimum_Height_Trees](310_Minimum_Height_Trees.md)
+231.[315_Count_of_Smaller_Numbers_After_Self](315_Count_of_Smaller_Numbers_After_Self.md)
 
-232.[312_Burst_Balloons](312_Burst_Balloons.md)
+232.[316_Remove_Duplicate_Letters](316_Remove_Duplicate_Letters.md)
 
-233.[313_Super_Ugly_Number](313_Super_Ugly_Number.md)
+233.[318_Maximum_Product_of_Word_Lengths](318_Maximum_Product_of_Word_Lengths.md)
 
-234.[315_Count_of_Smaller_Numbers_After_Self](315_Count_of_Smaller_Numbers_After_Self.md)
+234.[319_Bulb_Switcher](319_Bulb_Switcher.md)
 
-235.[316_Remove_Duplicate_Letters](316_Remove_Duplicate_Letters.md)
+235.[322_Coin_Change](322_Coin_Change.md)
 
-236.[318_Maximum_Product_of_Word_Lengths](318_Maximum_Product_of_Word_Lengths.md)
+236.[324_Wiggle_Sort_II](324_Wiggle_Sort_II.md)
 
-237.[319_Bulb_Switcher](319_Bulb_Switcher.md)
+237.[326_Power_of_Three](326_Power_of_Three.md)
 
-238.[322_Coin_Change](322_Coin_Change.md)
+238.[327_Count_of_Range_Sum](327_Count_of_Range_Sum.md)
 
-239.[324_Wiggle_Sort_II](324_Wiggle_Sort_II.md)
+239.[328_Odd_Even_Linked_List](328_Odd_Even_Linked_List.md)
 
-240.[326_Power_of_Three](326_Power_of_Three.md)
+240.[329_Longest_Increasing_Path_in_a_Matrix](329_Longest_Increasing_Path_in_a_Matrix.md)
 
-241.[327_Count_of_Range_Sum](327_Count_of_Range_Sum.md)
+241.[331_Verify_Preorder_Serialization_of_a_Binary_Tree](331_Verify_Preorder_Serialization_of_a_Binary_Tree.md)
 
-242.[328_Odd_Even_Linked_List](328_Odd_Even_Linked_List.md)
+242.[332_Reconstruct_Itinerary](332_Reconstruct_Itinerary.md)
 
-243.[329_Longest_Increasing_Path_in_a_Matrix](329_Longest_Increasing_Path_in_a_Matrix.md)
+243.[337_House_Robber_III](337_House_Robber_III.md)
 
-244.[331_Verify_Preorder_Serialization_of_a_Binary_Tree](331_Verify_Preorder_Serialization_of_a_Binary_Tree.md)
+244.[338_Counting_Bits](338_Counting_Bits.md)
 
-245.[332_Reconstruct_Itinerary](332_Reconstruct_Itinerary.md)
+245.[341_Flatten_Nested_List_Iterator](341_Flatten_Nested_List_Iterator.md)
 
-246.[337_House_Robber_III](337_House_Robber_III.md)
+246.[342_Power_of_Four](342_Power_of_Four.md)
 
-247.[338_Counting_Bits](338_Counting_Bits.md)
+247.[343_Integer_Break](343_Integer_Break.md)
 
-248.[341_Flatten_Nested_List_Iterator](341_Flatten_Nested_List_Iterator.md)
+248.[344_Reverse_Strin](344_Reverse_Strin.md)
 
-249.[342_Power_of_Four](342_Power_of_Four.md)
+249.[345_Reverse_Vowels_of_a_String](345_Reverse_Vowels_of_a_String.md)
 
-250.[343_Integer_Break](343_Integer_Break.md)
+250.[347_Top_K_Frequent_Elements](347_Top_K_Frequent_Elements.md)
 
-251.[344_Reverse_Strin](344_Reverse_Strin.md)
+251.[349_Intersection_of_Two_Arrays](349_Intersection_of_Two_Arrays.md)
 
-252.[345_Reverse_Vowels_of_a_String](345_Reverse_Vowels_of_a_String.md)
+252.[350_Intersection_of_Two_Arrays_II](350_Intersection_of_Two_Arrays_II.md)
 
-253.[347_Top_K_Frequent_Elements](347_Top_K_Frequent_Elements.md)
+253.[352_Data_Stream_as_Disjoint_Intervals](352_Data_Stream_as_Disjoint_Intervals.md)
 
-254.[349_Intersection_of_Two_Arrays](349_Intersection_of_Two_Arrays.md)
+254.[354_Russian_Doll_Envelopes](354_Russian_Doll_Envelopes.md)
 
-255.[350_Intersection_of_Two_Arrays_II](350_Intersection_of_Two_Arrays_II.md)
+255.[355_Design_Twitter](355_Design_Twitter.md)
 
-256.[352_Data_Stream_as_Disjoint_Intervals](352_Data_Stream_as_Disjoint_Intervals.md)
+256.[357_Count_Numbers_with_Unique_Digits](357_Count_Numbers_with_Unique_Digits.md)
 
-257.[354_Russian_Doll_Envelopes](354_Russian_Doll_Envelopes.md)
+257.[363_Max_Sum_of_Rectangle_No_Larger_Than_K](363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
 
-258.[355_Design_Twitter](355_Design_Twitter.md)
+258.[367_Valid_Perfect_Square](367_Valid_Perfect_Square.md)
 
-259.[357_Count_Numbers_with_Unique_Digits](357_Count_Numbers_with_Unique_Digits.md)
+259.[368_Largest_Divisible_Subset](368_Largest_Divisible_Subset.md)
 
-260.[363_Max_Sum_of_Rectangle_No_Larger_Than_K](363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
+260.[371_Sum_of_Two_Integers](371_Sum_of_Two_Integers.md)
 
-261.[367_Valid_Perfect_Square](367_Valid_Perfect_Square.md)
+261.[372_Super_Pow](372_Super_Pow.md)
 
-262.[368_Largest_Divisible_Subset](368_Largest_Divisible_Subset.md)
+262.[373_Find_K_Pairs_with_Smallest_Sums](373_Find_K_Pairs_with_Smallest_Sums.md)
 
-263.[371_Sum_of_Two_Integers](371_Sum_of_Two_Integers.md)
+263.[374_Guess_Number_Higher_or_Lower](374_Guess_Number_Higher_or_Lower.md)
 
-264.[372_Super_Pow](372_Super_Pow.md)
+264.[375_Guess_Number_Higher_or_Lower_II](375_Guess_Number_Higher_or_Lower_II.md)
 
-265.[373_Find_K_Pairs_with_Smallest_Sums](373_Find_K_Pairs_with_Smallest_Sums.md)
+265.[376_Wiggle_Subsequence](376_Wiggle_Subsequence.md)
 
-266.[374_Guess_Number_Higher_or_Lower](374_Guess_Number_Higher_or_Lower.md)
+266.[378_Kth_Smallest_Element_in_a_Sorted_Matrix](378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
-267.[375_Guess_Number_Higher_or_Lower_II](375_Guess_Number_Higher_or_Lower_II.md)
+267.[380_Insert_Delete_GetRandom_O(1)](380_Insert_Delete_GetRandom_O(1).md)
 
-268.[376_Wiggle_Subsequence](376_Wiggle_Subsequence.md)
+268.[381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed](381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed.md)
 
-269.[378_Kth_Smallest_Element_in_a_Sorted_Matrix](378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
+269.[382_Linked_List_Random_Node](382_Linked_List_Random_Node.md)
+
+270.[383_Ransom_Note](383_Ransom_Note.md)
+
+271.[384_Shuffle_an_Array](384_Shuffle_an_Array.md)
+
+272.[385_Mini_Parser](385_Mini_Parser.md)
+
+273.[386_Lexicographical_Numbers](386_Lexicographical_Numbers.md)
+
+274.[387_First_Unique_Character_in_a_String](387_First_Unique_Character_in_a_String.md)
+
+275.[388_Longest_Absolute_File_Path](388_Longest_Absolute_File_Path.md)
+
+276.[389_Find_the_Difference](389_Find_the_Difference.md)
+
+277.[390_Elimination_Game](390_Elimination_Game.md)
 

@@ -33,12 +33,16 @@ for m in matches:
 	
 def sortQuestion(allQ):
 	qnums = []
+	alprob = []
 	for f in allQ:
 		try:
 			qnums.append(int(f[0:f.find('_')]))
+			alprob.append(f)
 		except ValueError:
-			qnums.append(0)
-	vs = [f for (q,f) in sorted(zip(qnums,allQ))]
+			continue
+			# qnums.append(0)
+	vs = [f for (q,f) in sorted(zip(qnums,alprob))]
+
 	return vs;
 
 git_path = 'https://github.com/kevinlela/Notes/tree/master/Algorithm/'
