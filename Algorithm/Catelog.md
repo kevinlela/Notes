@@ -38,6 +38,8 @@
 
 [384_Shuffle_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/384_Shuffle_an_Array.md)
 
+[398_Random_Pick_Index](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/398_Random_Pick_Index.md)
+
 ## Other
 
 [56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
@@ -53,6 +55,8 @@
 [306_Additive_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/306_Additive_Number.md)
 
 [352_Data_Stream_as_Disjoint_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/352_Data_Stream_as_Disjoint_Intervals.md)
+
+[393_UTF-8_Validation](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/393_UTF-8_Validation.md)
 
 ## KMP
 
@@ -114,6 +118,8 @@
 
 [386_Lexicographical_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/386_Lexicographical_Numbers.md)
 
+[400_Nth_Digit](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/400_Nth_Digit.md)
+
 ## Map
 
 [220_Contains_Duplicate_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/220_Contains_Duplicate_III.md)
@@ -161,6 +167,8 @@
 [385_Mini_Parser](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/385_Mini_Parser.md)
 
 [388_Longest_Absolute_File_Path](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/388_Longest_Absolute_File_Path.md)
+
+[394_Decode_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/394_Decode_String.md)
 
 ## Priority Queue
 
@@ -241,6 +249,8 @@
 [310_Minimum_Height_Trees](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/310_Minimum_Height_Trees.md)
 
 [331_Verify_Preorder_Serialization_of_a_Binary_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/331_Verify_Preorder_Serialization_of_a_Binary_Tree.md)
+
+[404_Sum_of_Left_Leaves](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/404_Sum_of_Left_Leaves.md)
 
 ## Two Pointers
 
@@ -400,6 +410,8 @@
 
 [371_Sum_of_Two_Integers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/371_Sum_of_Two_Integers.md)
 
+[405_Convert_a_Number_to_Hexadecimal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/405_Convert_a_Number_to_Hexadecimal.md)
+
 ## Trie
 
 [208_Implement_Trie_(Prefix_Tree)](https://github.com/kevinlela/Notes/tree/master/Algorithm/Trie/208_Implement_Trie_(Prefix_Tree).md)
@@ -459,6 +471,12 @@
 [135_Candy](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/135_Candy.md)
 
 [316_Remove_Duplicate_Letters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/316_Remove_Duplicate_Letters.md)
+
+[392_Is_Subsequence](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/392_Is_Subsequence.md)
+
+[402_Remove_K_Digits](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/402_Remove_K_Digits.md)
+
+[406_Queue_Reconstruction_by_Height](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/406_Queue_Reconstruction_by_Height.md)
 
 ## Design
 
@@ -601,6 +619,18 @@
 [332_Reconstruct_Itinerary](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/332_Reconstruct_Itinerary.md)
 
 [337_House_Robber_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/337_House_Robber_III.md)
+
+[395_Longest_Substring_with_At_Least_K_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/395_Longest_Substring_with_At_Least_K_Repeating_Characters.md)
+
+[396_Rotate_Function](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/396_Rotate_Function.md)
+
+[397_Integer_Replacement](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/397_Integer_Replacement.md)
+
+[399_Evaluate_Division](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/399_Evaluate_Division.md)
+
+[401_Binary_Watch](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/401_Binary_Watch.md)
+
+[403_Frog_Jump](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/403_Frog_Jump.md)
 
 
 
@@ -1159,4 +1189,34 @@
 276.[389_Find_the_Difference](389_Find_the_Difference.md)
 
 277.[390_Elimination_Game](390_Elimination_Game.md)
+
+278.[392_Is_Subsequence](392_Is_Subsequence.md)
+
+279.[393_UTF-8_Validation](393_UTF-8_Validation.md)
+
+280.[394_Decode_String](394_Decode_String.md)
+
+281.[395_Longest_Substring_with_At_Least_K_Repeating_Characters](395_Longest_Substring_with_At_Least_K_Repeating_Characters.md)
+
+282.[396_Rotate_Function](396_Rotate_Function.md)
+
+283.[397_Integer_Replacement](397_Integer_Replacement.md)
+
+284.[398_Random_Pick_Index](398_Random_Pick_Index.md)
+
+285.[399_Evaluate_Division](399_Evaluate_Division.md)
+
+286.[400_Nth_Digit](400_Nth_Digit.md)
+
+287.[401_Binary_Watch](401_Binary_Watch.md)
+
+288.[402_Remove_K_Digits](402_Remove_K_Digits.md)
+
+289.[403_Frog_Jump](403_Frog_Jump.md)
+
+290.[404_Sum_of_Left_Leaves](404_Sum_of_Left_Leaves.md)
+
+291.[405_Convert_a_Number_to_Hexadecimal](405_Convert_a_Number_to_Hexadecimal.md)
+
+292.[406_Queue_Reconstruction_by_Height](406_Queue_Reconstruction_by_Height.md)
 
