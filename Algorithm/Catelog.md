@@ -58,6 +58,12 @@
 
 [393_UTF-8_Validation](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/393_UTF-8_Validation.md)
 
+[412_Fizz_Buzz](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/412_Fizz_Buzz.md)
+
+[419_Battleships_in_a_Board](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/419_Battleships_in_a_Board.md)
+
+[423_Reconstruct_Original_Digits_from_English](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/423_Reconstruct_Original_Digits_from_English.md)
+
 ## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
@@ -119,6 +125,8 @@
 [386_Lexicographical_Numbers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/386_Lexicographical_Numbers.md)
 
 [400_Nth_Digit](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/400_Nth_Digit.md)
+
+[413_Arithmetic_Slices](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/413_Arithmetic_Slices.md)
 
 ## Map
 
@@ -278,6 +286,8 @@
 
 [283_Move_Zeroes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/283_Move_Zeroes.md)
 
+[424_Longest_Repeating_Character_Replacement](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/424_Longest_Repeating_Character_Replacement.md)
+
 ## Divide Conquer
 
 [23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/23_Merge_k_Sorted_Lists.md)
@@ -364,6 +374,8 @@
 
 [390_Elimination_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/390_Elimination_Game.md)
 
+[416_Partition_Equal_Subset_Sum_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/416_Partition_Equal_Subset_Sum_*.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -395,6 +407,10 @@
 [345_Reverse_Vowels_of_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/345_Reverse_Vowels_of_a_String.md)
 
 [387_First_Unique_Character_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/387_First_Unique_Character_in_a_String.md)
+
+[409_Longest_Palindrome](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/409_Longest_Palindrome.md)
+
+[415_Add_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/415_Add_Strings.md)
 
 ## Bit Manipulation
 
@@ -457,6 +473,8 @@
 [383_Ransom_Note](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/383_Ransom_Note.md)
 
 [389_Find_the_Difference](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/389_Find_the_Difference.md)
+
+[414_Third_Maximum_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/414_Third_Maximum_Number.md)
 
 ## Greedy Algorithm
 
@@ -631,6 +649,8 @@
 [401_Binary_Watch](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/401_Binary_Watch.md)
 
 [403_Frog_Jump](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/403_Frog_Jump.md)
+
+[417_Pacific_Atlantic_Water_Flow](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/417_Pacific_Atlantic_Water_Flow.md)
 
 
 
@@ -1219,4 +1239,24 @@
 291.[405_Convert_a_Number_to_Hexadecimal](405_Convert_a_Number_to_Hexadecimal.md)
 
 292.[406_Queue_Reconstruction_by_Height](406_Queue_Reconstruction_by_Height.md)
+
+293.[409_Longest_Palindrome](409_Longest_Palindrome.md)
+
+294.[412_Fizz_Buzz](412_Fizz_Buzz.md)
+
+295.[413_Arithmetic_Slices](413_Arithmetic_Slices.md)
+
+296.[414_Third_Maximum_Number](414_Third_Maximum_Number.md)
+
+297.[415_Add_Strings](415_Add_Strings.md)
+
+298.[416_Partition_Equal_Subset_Sum_*](416_Partition_Equal_Subset_Sum_*.md)
+
+299.[417_Pacific_Atlantic_Water_Flow](417_Pacific_Atlantic_Water_Flow.md)
+
+300.[419_Battleships_in_a_Board](419_Battleships_in_a_Board.md)
+
+301.[423_Reconstruct_Original_Digits_from_English](423_Reconstruct_Original_Digits_from_English.md)
+
+302.[424_Longest_Repeating_Character_Replacement](424_Longest_Repeating_Character_Replacement.md)
 
