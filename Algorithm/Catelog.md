@@ -412,6 +412,8 @@
 
 [415_Add_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/415_Add_Strings.md)
 
+[434_Number_of_Segments_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/434_Number_of_Segments_in_a_String.md)
+
 ## Bit Manipulation
 
 [136_Single_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/136_Single_Number.md)
@@ -651,6 +653,8 @@
 [403_Frog_Jump](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/403_Frog_Jump.md)
 
 [417_Pacific_Atlantic_Water_Flow](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/417_Pacific_Atlantic_Water_Flow.md)
+
+[433_Minimum_Genetic_Mutation](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/433_Minimum_Genetic_Mutation.md)
 
 
 
@@ -1259,4 +1263,8 @@
 301.[423_Reconstruct_Original_Digits_from_English](423_Reconstruct_Original_Digits_from_English.md)
 
 302.[424_Longest_Repeating_Character_Replacement](424_Longest_Repeating_Character_Replacement.md)
+
+303.[433_Minimum_Genetic_Mutation](433_Minimum_Genetic_Mutation.md)
+
+304.[434_Number_of_Segments_in_a_String](434_Number_of_Segments_in_a_String.md)
 
