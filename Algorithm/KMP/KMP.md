@@ -35,39 +35,42 @@ Because we know ABA matches anyway
 	* lps[i] = the longest proper prefix of P[0...i] which is also a suffix of P[0...i]
 	* E.g., "AABAA" we have [0, 1, 0, 1, 2]
 	* How to construct lps[]
-	lps[0] = 0
-	pLen = 0 // previous longest prefix suffix
-	loop i = 1 ... sizeof(P):
-		 if p[i] == p[pLen]:
-		 	++pLen
-		 	lps[i] = pLen
-		 	++i
-		 else:
-		 	if (pLen != 0):
-		 		pLen = lps[pLen - 1] 
-		 		//lps[plen-1] contains all solution to substring of matched prefix before p[i] 
-		 	else
-		 		lps[i] = 0
-		 		++i
-	* Say:
-	aabaabaaa
-	01012345
 
-	aabaabaaa
-	     ^  ^
-	     j  i
+			lps[0] = 0
+			pLen = 0 // previous longest prefix suffix
+			loop i = 1 ... sizeof(P):
+				 if p[i] == p[pLen]:
+				 	++pLen
+				 	lps[i] = pLen
+				 	++i
+				 else:
+				 	if (pLen != 0):
+				 		pLen = lps[pLen - 1] 
+				 		//lps[plen-1] contains all solution to substring of matched prefix before p[i] 
+				 	else
+				 		lps[i] = 0
+				 		++i
 
-	i and j mismatched
+			For examples:
+			
+			aabaabaaa
+			01012345
 
-	aabaabaaa
-	  ^     ^
-	  j     i
-	still mismatch
+			aabaabaaa
+			     ^  ^
+			     j  i
 
-	aabaabaaa
-	^       ^
-	j       i
-	match
+			i and j mismatched
+
+			aabaabaaa
+			  ^     ^
+			  j     i
+			still mismatch
+
+			aabaabaaa
+			^       ^
+			j       i
+			match
 
 2) Use lps to do matching
 	* s[i] == p[j]
