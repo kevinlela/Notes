@@ -28,6 +28,8 @@
 
 [374_Guess_Number_Higher_or_Lower](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/374_Guess_Number_Higher_or_Lower.md)
 
+[475_Heaters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/475_Heaters.md)
+
 ## Random Sampling
 
 [380_Insert_Delete_GetRandom_O(1)](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/380_Insert_Delete_GetRandom_O(1).md)
@@ -64,9 +66,15 @@
 
 [423_Reconstruct_Original_Digits_from_English](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/423_Reconstruct_Original_Digits_from_English.md)
 
+[463_Island_Perimeter](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/463_Island_Perimeter.md)
+
+[468_Validate_IP_Address](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/468_Validate_IP_Address.md)
+
 ## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
+
+[459_Repeated_Substring_Pattern](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/459_Repeated_Substring_Pattern.md)
 
 ## Math
 
@@ -128,6 +136,14 @@
 
 [413_Arithmetic_Slices](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/413_Arithmetic_Slices.md)
 
+[441_Arranging_Coins](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/441_Arranging_Coins.md)
+
+[453_Minimum_Moves_to_Equal_Array_Elements](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/453_Minimum_Moves_to_Equal_Array_Elements.md)
+
+[462_Minimum_Moves_to_Equal_Array_Elements_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/462_Minimum_Moves_to_Equal_Array_Elements_II.md)
+
+[492_Construct_the_Rectangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/492_Construct_the_Rectangle.md)
+
 ## Map
 
 [220_Contains_Duplicate_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/220_Contains_Duplicate_III.md)
@@ -135,6 +151,8 @@
 [327_Count_of_Range_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/327_Count_of_Range_Sum.md)
 
 [363_Max_Sum_of_Rectangle_No_Larger_Than_K](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
+
+[480_Sliding_Window_Median](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/480_Sliding_Window_Median.md)
 
 ## Algorithm
 
@@ -153,6 +171,8 @@
 [215_Kth_Largest_Element_in_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/215_Kth_Largest_Element_in_an_Array.md)
 
 [324_Wiggle_Sort_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/324_Wiggle_Sort_II.md)
+
+[451_Sort_Characters_By_Frequency](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/451_Sort_Characters_By_Frequency.md)
 
 ## Stack
 
@@ -177,6 +197,8 @@
 [388_Longest_Absolute_File_Path](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/388_Longest_Absolute_File_Path.md)
 
 [394_Decode_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/394_Decode_String.md)
+
+[456_132_Pattern_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/456_132_Pattern_*.md)
 
 ## Priority Queue
 
@@ -260,6 +282,12 @@
 
 [404_Sum_of_Left_Leaves](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/404_Sum_of_Left_Leaves.md)
 
+[437_Path_Sum_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/437_Path_Sum_III.md)
+
+[449_Serialize_and_Deserialize_BST](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/449_Serialize_and_Deserialize_BST.md)
+
+[450_Delete_Node_in_a_BST](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/450_Delete_Node_in_a_BST.md)
+
 ## Two Pointers
 
 [3_Longest_Substring_Without_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.md)
@@ -288,6 +316,8 @@
 
 [424_Longest_Repeating_Character_Replacement](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/424_Longest_Repeating_Character_Replacement.md)
 
+[442_Find_All_Duplicates_in_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/442_Find_All_Duplicates_in_an_Array.md)
+
 ## Divide Conquer
 
 [23_Merge_k_Sorted_Lists](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/23_Merge_k_Sorted_Lists.md)
@@ -299,6 +329,10 @@
 [241_Different_Ways_to_Add_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/241_Different_Ways_to_Add_Parentheses.md)
 
 [315_Count_of_Smaller_Numbers_After_Self](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/315_Count_of_Smaller_Numbers_After_Self.md)
+
+[436_Find_Right_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/436_Find_Right_Interval.md)
+
+[493_Reverse_Pairs](https://github.com/kevinlela/Notes/tree/master/Algorithm/Divide_Conquer/493_Reverse_Pairs.md)
 
 ## Dynamic Programming
 
@@ -376,6 +410,12 @@
 
 [416_Partition_Equal_Subset_Sum_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/416_Partition_Equal_Subset_Sum_*.md)
 
+[474_Ones_and_Zeroes](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/474_Ones_and_Zeroes.md)
+
+[486_Predict_the_Winner](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/486_Predict_the_Winner.md)
+
+[494_Target_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/494_Target_Sum.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -414,6 +454,8 @@
 
 [434_Number_of_Segments_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/434_Number_of_Segments_in_a_String.md)
 
+[482_License_Key_Formatting](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/482_License_Key_Formatting.md)
+
 ## Bit Manipulation
 
 [136_Single_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/136_Single_Number.md)
@@ -429,6 +471,12 @@
 [371_Sum_of_Two_Integers](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/371_Sum_of_Two_Integers.md)
 
 [405_Convert_a_Number_to_Hexadecimal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/405_Convert_a_Number_to_Hexadecimal.md)
+
+[461_Hamming_Distance](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/461_Hamming_Distance.md)
+
+[476_Number_Complement](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/476_Number_Complement.md)
+
+[477_Total_Hamming_Distance_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/477_Total_Hamming_Distance_*.md)
 
 ## Trie
 
@@ -478,6 +526,14 @@
 
 [414_Third_Maximum_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/414_Third_Maximum_Number.md)
 
+[438_Find_All_Anagrams_in_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/438_Find_All_Anagrams_in_a_String.md)
+
+[448_Find_All_Numbers_Disappeared_in_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/448_Find_All_Numbers_Disappeared_in_an_Array.md)
+
+[454_4Sum_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/454_4Sum_II.md)
+
+[467_Unique_Substrings_in_Wraparound_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/467_Unique_Substrings_in_Wraparound_String.md)
+
 ## Greedy Algorithm
 
 [45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
@@ -498,6 +554,12 @@
 
 [406_Queue_Reconstruction_by_Height](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/406_Queue_Reconstruction_by_Height.md)
 
+[435_Non-overlapping_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/435_Non-overlapping_Intervals.md)
+
+[452_Minimum_Number_of_Arrows_to_Burst_Balloons](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/452_Minimum_Number_of_Arrows_to_Burst_Balloons.md)
+
+[455_Assign_Cookies](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/455_Assign_Cookies.md)
+
 ## Design
 
 [146_LRU_Cache](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/146_LRU_Cache.md)
@@ -511,6 +573,8 @@
 [284_Peeking_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/284_Peeking_Iterator.md)
 
 [355_Design_Twitter](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/355_Design_Twitter.md)
+
+[460_LFU_Cache](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/460_LFU_Cache.md)
 
 ## Linkedlists
 
@@ -558,6 +622,8 @@
 
 [328_Odd_Even_Linked_List](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/328_Odd_Even_Linked_List.md)
 
+[445_Add_Two_Numbers_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Linkedlists/445_Add_Two_Numbers_II.md)
+
 ## Array
 
 [6_ZigZag_Conversion](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/6_ZigZag_Conversion.md)
@@ -589,6 +655,10 @@
 [238_Product_of_Array_Except_Self](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/238_Product_of_Array_Except_Self.md)
 
 [289_Game_of_Life](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/289_Game_of_Life.md)
+
+[447_Number_of_Boomerangs](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/447_Number_of_Boomerangs.md)
+
+[485_Max_Consecutive_Ones](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/485_Max_Consecutive_Ones.md)
 
 ## DFS BFS
 
@@ -655,6 +725,12 @@
 [417_Pacific_Atlantic_Water_Flow](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/417_Pacific_Atlantic_Water_Flow.md)
 
 [433_Minimum_Genetic_Mutation](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/433_Minimum_Genetic_Mutation.md)
+
+[473_Matchsticks_to_Square](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/473_Matchsticks_to_Square.md)
+
+[488_Zuma_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/488_Zuma_Game.md)
+
+[491_Increasing_Subsequences](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/491_Increasing_Subsequences.md)
 
 
 
@@ -1267,4 +1343,80 @@
 303.[433_Minimum_Genetic_Mutation](433_Minimum_Genetic_Mutation.md)
 
 304.[434_Number_of_Segments_in_a_String](434_Number_of_Segments_in_a_String.md)
+
+305.[435_Non-overlapping_Intervals](435_Non-overlapping_Intervals.md)
+
+306.[436_Find_Right_Interval](436_Find_Right_Interval.md)
+
+307.[437_Path_Sum_III](437_Path_Sum_III.md)
+
+308.[438_Find_All_Anagrams_in_a_String](438_Find_All_Anagrams_in_a_String.md)
+
+309.[441_Arranging_Coins](441_Arranging_Coins.md)
+
+310.[442_Find_All_Duplicates_in_an_Array](442_Find_All_Duplicates_in_an_Array.md)
+
+311.[445_Add_Two_Numbers_II](445_Add_Two_Numbers_II.md)
+
+312.[447_Number_of_Boomerangs](447_Number_of_Boomerangs.md)
+
+313.[448_Find_All_Numbers_Disappeared_in_an_Array](448_Find_All_Numbers_Disappeared_in_an_Array.md)
+
+314.[449_Serialize_and_Deserialize_BST](449_Serialize_and_Deserialize_BST.md)
+
+315.[450_Delete_Node_in_a_BST](450_Delete_Node_in_a_BST.md)
+
+316.[451_Sort_Characters_By_Frequency](451_Sort_Characters_By_Frequency.md)
+
+317.[452_Minimum_Number_of_Arrows_to_Burst_Balloons](452_Minimum_Number_of_Arrows_to_Burst_Balloons.md)
+
+318.[453_Minimum_Moves_to_Equal_Array_Elements](453_Minimum_Moves_to_Equal_Array_Elements.md)
+
+319.[454_4Sum_II](454_4Sum_II.md)
+
+320.[455_Assign_Cookies](455_Assign_Cookies.md)
+
+321.[456_132_Pattern_*](456_132_Pattern_*.md)
+
+322.[459_Repeated_Substring_Pattern](459_Repeated_Substring_Pattern.md)
+
+323.[460_LFU_Cache](460_LFU_Cache.md)
+
+324.[461_Hamming_Distance](461_Hamming_Distance.md)
+
+325.[462_Minimum_Moves_to_Equal_Array_Elements_II](462_Minimum_Moves_to_Equal_Array_Elements_II.md)
+
+326.[463_Island_Perimeter](463_Island_Perimeter.md)
+
+327.[467_Unique_Substrings_in_Wraparound_String](467_Unique_Substrings_in_Wraparound_String.md)
+
+328.[468_Validate_IP_Address](468_Validate_IP_Address.md)
+
+329.[473_Matchsticks_to_Square](473_Matchsticks_to_Square.md)
+
+330.[474_Ones_and_Zeroes](474_Ones_and_Zeroes.md)
+
+331.[475_Heaters](475_Heaters.md)
+
+332.[476_Number_Complement](476_Number_Complement.md)
+
+333.[477_Total_Hamming_Distance_*](477_Total_Hamming_Distance_*.md)
+
+334.[480_Sliding_Window_Median](480_Sliding_Window_Median.md)
+
+335.[482_License_Key_Formatting](482_License_Key_Formatting.md)
+
+336.[485_Max_Consecutive_Ones](485_Max_Consecutive_Ones.md)
+
+337.[486_Predict_the_Winner](486_Predict_the_Winner.md)
+
+338.[488_Zuma_Game](488_Zuma_Game.md)
+
+339.[491_Increasing_Subsequences](491_Increasing_Subsequences.md)
+
+340.[492_Construct_the_Rectangle](492_Construct_the_Rectangle.md)
+
+341.[493_Reverse_Pairs](493_Reverse_Pairs.md)
+
+342.[494_Target_Sum](494_Target_Sum.md)
 
