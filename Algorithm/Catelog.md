@@ -30,6 +30,10 @@
 
 [475_Heaters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/475_Heaters.md)
 
+[523_Continuous_Subarray_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/523_Continuous_Subarray_Sum.md)
+
+[540_Single_Element_in_a_Sorted_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Binary_Search/540_Single_Element_in_a_Sorted_Array.md)
+
 ## Random Sampling
 
 [380_Insert_Delete_GetRandom_O(1)](https://github.com/kevinlela/Notes/tree/master/Algorithm/Random_Sampling/380_Insert_Delete_GetRandom_O(1).md)
@@ -47,6 +51,10 @@
 [56_Merge_Intervals](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/56_Merge_Intervals.md)
 
 [57_Insert_Interval](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/57_Insert_Interval.md)
+
+[157_Read_N_Characters_Given_Read4](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/157_Read_N_Characters_Given_Read4.md)
+
+[161_One_Edit_Distance](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/161_One_Edit_Distance.md)
 
 [179_Largest_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/179_Largest_Number.md)
 
@@ -69,6 +77,18 @@
 [463_Island_Perimeter](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/463_Island_Perimeter.md)
 
 [468_Validate_IP_Address](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/468_Validate_IP_Address.md)
+
+[495_Teemo_Attacking](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/495_Teemo_Attacking.md)
+
+[507_Perfect_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/507_Perfect_Number.md)
+
+[537_Complex_Number_Multiplication](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/537_Complex_Number_Multiplication.md)
+
+[551_Student_Attendance_Record_I](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/551_Student_Attendance_Record_I.md)
+
+[553_Optimal_Division](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/553_Optimal_Division.md)
+
+[554_Brick_Wall](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/554_Brick_Wall.md)
 
 ## KMP
 
@@ -144,6 +164,8 @@
 
 [492_Construct_the_Rectangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/492_Construct_the_Rectangle.md)
 
+[556_Next_Greater_Element_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/556_Next_Greater_Element_III.md)
+
 ## Map
 
 [220_Contains_Duplicate_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Map/220_Contains_Duplicate_III.md)
@@ -174,6 +196,10 @@
 
 [451_Sort_Characters_By_Frequency](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/451_Sort_Characters_By_Frequency.md)
 
+[506_Relative_Ranks](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/506_Relative_Ranks.md)
+
+[539_Minimum_Time_Difference](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other_Sort/539_Minimum_Time_Difference.md)
+
 ## Stack
 
 [20_Valid_Parentheses](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/20_Valid_Parentheses.md)
@@ -199,6 +225,10 @@
 [394_Decode_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/394_Decode_String.md)
 
 [456_132_Pattern_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/456_132_Pattern_*.md)
+
+[496_Next_Greater_Element_I_!](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/496_Next_Greater_Element_I_!.md)
+
+[503_Next_Greater_Element_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/503_Next_Greater_Element_II.md)
 
 ## Priority Queue
 
@@ -258,6 +288,8 @@
 
 [145_Binary_Tree_Postorder_Traversal](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/145_Binary_Tree_Postorder_Traversal.md)
 
+[156_Binary_Tree_Upside_Down](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/156_Binary_Tree_Upside_Down.md)
+
 [173_Binary_Search_Tree_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/173_Binary_Search_Tree_Iterator.md)
 
 [199_Binary_Tree_Right_Side_View](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/199_Binary_Tree_Right_Side_View.md)
@@ -288,6 +320,24 @@
 
 [450_Delete_Node_in_a_BST](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/450_Delete_Node_in_a_BST.md)
 
+[501_Find_Mode_in_Binary_Search_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/501_Find_Mode_in_Binary_Search_Tree.md)
+
+[508_Most_Frequent_Subtree_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/508_Most_Frequent_Subtree_Sum.md)
+
+[513_Find_Bottom_Left_Tree_Value](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/513_Find_Bottom_Left_Tree_Value.md)
+
+[515_Find_Largest_Value_in_Each_Tree_Row](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/515_Find_Largest_Value_in_Each_Tree_Row.md)
+
+[530_Minimum_Absolute_Difference_in_BST](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/530_Minimum_Absolute_Difference_in_BST.md)
+
+[538_Convert_BST_to_Greater_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/538_Convert_BST_to_Greater_Tree.md)
+
+[543_Diameter_of_Binary_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/543_Diameter_of_Binary_Tree.md)
+
+[563_Binary_Tree_Tilt](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/563_Binary_Tree_Tilt.md)
+
+[572_Subtree_of_Another_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/572_Subtree_of_Another_Tree.md)
+
 ## Two Pointers
 
 [3_Longest_Substring_Without_Repeating_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.md)
@@ -308,6 +358,8 @@
 
 [80_Remove_Duplicates_from_Sorted_Array_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/80_Remove_Duplicates_from_Sorted_Array_II.md)
 
+[159_Longest_Substring_with_At_Most_Two_Distinct_Characters](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.md)
+
 [167_Two_Sum_II_-_Input_array_is_sorted](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/167_Two_Sum_II_-_Input_array_is_sorted.md)
 
 [209_Minimum_Size_Subarray_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/209_Minimum_Size_Subarray_Sum.md)
@@ -317,6 +369,8 @@
 [424_Longest_Repeating_Character_Replacement](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/424_Longest_Repeating_Character_Replacement.md)
 
 [442_Find_All_Duplicates_in_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/442_Find_All_Duplicates_in_an_Array.md)
+
+[567_Given_two_strings_s1_and_s2,_write_a_function](https://github.com/kevinlela/Notes/tree/master/Algorithm/Two_Pointers/567_Given_two_strings_s1_and_s2,_write_a_function.md)
 
 ## Divide Conquer
 
@@ -416,6 +470,14 @@
 
 [494_Target_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/494_Target_Sum.md)
 
+[516_Longest_Palindromic_Subsequence_!](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/516_Longest_Palindromic_Subsequence_!.md)
+
+[518_Coin_Change_2](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/518_Coin_Change_2.md)
+
+[576_Out_of_Boundary_Paths](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/576_Out_of_Boundary_Paths.md)
+
+[583_Delete_Operation_for_Two_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/583_Delete_Operation_for_Two_Strings.md)
+
 ## String
 
 [8_String_to_Integer_(atoi)](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/8_String_to_Integer_(atoi).md)
@@ -456,6 +518,16 @@
 
 [482_License_Key_Formatting](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/482_License_Key_Formatting.md)
 
+[520_Detect_Capital](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/520_Detect_Capital.md)
+
+[521_Longest_Uncommon_Subsequence_I](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/521_Longest_Uncommon_Subsequence_I.md)
+
+[524_Longest_Word_in_Dictionary_through_Deleting](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/524_Longest_Word_in_Dictionary_through_Deleting.md)
+
+[541_Reverse_String_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/541_Reverse_String_II.md)
+
+[557_Reverse_Words_in_a_String_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/557_Reverse_Words_in_a_String_III.md)
+
 ## Bit Manipulation
 
 [136_Single_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/136_Single_Number.md)
@@ -477,6 +549,8 @@
 [476_Number_Complement](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/476_Number_Complement.md)
 
 [477_Total_Hamming_Distance_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/477_Total_Hamming_Distance_*.md)
+
+[504_Base_7](https://github.com/kevinlela/Notes/tree/master/Algorithm/Bit_Manipulation/504_Base_7.md)
 
 ## Trie
 
@@ -534,6 +608,18 @@
 
 [467_Unique_Substrings_in_Wraparound_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/467_Unique_Substrings_in_Wraparound_String.md)
 
+[500_Keyboard_Row](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/500_Keyboard_Row.md)
+
+[522_Longest_Uncommon_Subsequence_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/522_Longest_Uncommon_Subsequence_II.md)
+
+[525_Contiguous_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/525_Contiguous_Array.md)
+
+[532_K-diff_Pairs_in_an_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/532_K-diff_Pairs_in_an_Array.md)
+
+[560_Subarray_Sum_Equals_K](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/560_Subarray_Sum_Equals_K.md)
+
+[575_Distribute_Candies](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/575_Distribute_Candies.md)
+
 ## Greedy Algorithm
 
 [45_Jump_Game_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/45_Jump_Game_II.md)
@@ -559,6 +645,10 @@
 [452_Minimum_Number_of_Arrows_to_Burst_Balloons](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/452_Minimum_Number_of_Arrows_to_Burst_Balloons.md)
 
 [455_Assign_Cookies](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/455_Assign_Cookies.md)
+
+[502_IPO](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/502_IPO.md)
+
+[561_Array_Partition_I](https://github.com/kevinlela/Notes/tree/master/Algorithm/Greedy_Algorithm/561_Array_Partition_I.md)
 
 ## Design
 
@@ -648,6 +738,8 @@
 
 [123_Best_Time_to_Buy_and_Sell_Stock_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/123_Best_Time_to_Buy_and_Sell_Stock_III.md)
 
+[163_Missing_Ranges](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/163_Missing_Ranges.md)
+
 [189_Rotate_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/189_Rotate_Array.md)
 
 [228_Summary_Ranges](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/228_Summary_Ranges.md)
@@ -659,6 +751,14 @@
 [447_Number_of_Boomerangs](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/447_Number_of_Boomerangs.md)
 
 [485_Max_Consecutive_Ones](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/485_Max_Consecutive_Ones.md)
+
+[498_Diagonal_Traverse](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/498_Diagonal_Traverse.md)
+
+[565_Array_Nesting](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/565_Array_Nesting.md)
+
+[566_Reshape_the_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/566_Reshape_the_Matrix.md)
+
+[581_Shortest_Unsorted_Continuous_Subarray](https://github.com/kevinlela/Notes/tree/master/Algorithm/Array/581_Shortest_Unsorted_Continuous_Subarray.md)
 
 ## DFS BFS
 
@@ -731,6 +831,14 @@
 [488_Zuma_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/488_Zuma_Game.md)
 
 [491_Increasing_Subsequences](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/491_Increasing_Subsequences.md)
+
+[526_Beautiful_Arrangement](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/526_Beautiful_Arrangement.md)
+
+[529_Minesweeper](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/529_Minesweeper.md)
+
+[542_01_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/542_01_Matrix.md)
+
+[547_Friend_Circles](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/547_Friend_Circles.md)
 
 
 
@@ -1028,395 +1136,503 @@
 
 146.[155_Min_Stack](155_Min_Stack.md)
 
-147.[160_Intersection_of_Two_Linked_Lists](160_Intersection_of_Two_Linked_Lists.md)
+147.[156_Binary_Tree_Upside_Down](156_Binary_Tree_Upside_Down.md)
 
-148.[162_Find_Peak_Element](162_Find_Peak_Element.md)
+148.[157_Read_N_Characters_Given_Read4](157_Read_N_Characters_Given_Read4.md)
 
-149.[164_Maximum_Gap](164_Maximum_Gap.md)
+149.[159_Longest_Substring_with_At_Most_Two_Distinct_Characters](159_Longest_Substring_with_At_Most_Two_Distinct_Characters.md)
 
-150.[165_Compare_Version_Numbers](165_Compare_Version_Numbers.md)
+150.[160_Intersection_of_Two_Linked_Lists](160_Intersection_of_Two_Linked_Lists.md)
 
-151.[166_Fraction_to_Recurring_Decimal](166_Fraction_to_Recurring_Decimal.md)
+151.[161_One_Edit_Distance](161_One_Edit_Distance.md)
 
-152.[167_Two_Sum_II_-_Input_array_is_sorted](167_Two_Sum_II_-_Input_array_is_sorted.md)
+152.[162_Find_Peak_Element](162_Find_Peak_Element.md)
 
-153.[168_Excel_Sheet_Column_Title](168_Excel_Sheet_Column_Title.md)
+153.[163_Missing_Ranges](163_Missing_Ranges.md)
 
-154.[169_Majority_Element](169_Majority_Element.md)
+154.[164_Maximum_Gap](164_Maximum_Gap.md)
 
-155.[171_Excel_Sheet_Column_Number](171_Excel_Sheet_Column_Number.md)
+155.[165_Compare_Version_Numbers](165_Compare_Version_Numbers.md)
 
-156.[172_Factorial_Trailing_Zeroes](172_Factorial_Trailing_Zeroes.md)
+156.[166_Fraction_to_Recurring_Decimal](166_Fraction_to_Recurring_Decimal.md)
 
-157.[173_Binary_Search_Tree_Iterator](173_Binary_Search_Tree_Iterator.md)
+157.[167_Two_Sum_II_-_Input_array_is_sorted](167_Two_Sum_II_-_Input_array_is_sorted.md)
 
-158.[174_Dungeon_Game](174_Dungeon_Game.md)
+158.[168_Excel_Sheet_Column_Title](168_Excel_Sheet_Column_Title.md)
 
-159.[179_Largest_Number](179_Largest_Number.md)
+159.[169_Majority_Element](169_Majority_Element.md)
 
-160.[187_Repeated_DNA_Sequences](187_Repeated_DNA_Sequences.md)
+160.[171_Excel_Sheet_Column_Number](171_Excel_Sheet_Column_Number.md)
 
-161.[188_Best_Time_to_Buy_and_Sell_Stock_IV](188_Best_Time_to_Buy_and_Sell_Stock_IV.md)
+161.[172_Factorial_Trailing_Zeroes](172_Factorial_Trailing_Zeroes.md)
 
-162.[189_Rotate_Array](189_Rotate_Array.md)
+162.[173_Binary_Search_Tree_Iterator](173_Binary_Search_Tree_Iterator.md)
 
-163.[190_Reverse_Bits](190_Reverse_Bits.md)
+163.[174_Dungeon_Game](174_Dungeon_Game.md)
 
-164.[191_Number_of_1_Bits](191_Number_of_1_Bits.md)
+164.[179_Largest_Number](179_Largest_Number.md)
 
-165.[198_House_Robber](198_House_Robber.md)
+165.[187_Repeated_DNA_Sequences](187_Repeated_DNA_Sequences.md)
 
-166.[199_Binary_Tree_Right_Side_View](199_Binary_Tree_Right_Side_View.md)
+166.[188_Best_Time_to_Buy_and_Sell_Stock_IV](188_Best_Time_to_Buy_and_Sell_Stock_IV.md)
 
-167.[200_Number_of_Islands](200_Number_of_Islands.md)
+167.[189_Rotate_Array](189_Rotate_Array.md)
 
-168.[201_Bitwise_AND_of_Numbers_Range](201_Bitwise_AND_of_Numbers_Range.md)
+168.[190_Reverse_Bits](190_Reverse_Bits.md)
 
-169.[202_Happy_Number](202_Happy_Number.md)
+169.[191_Number_of_1_Bits](191_Number_of_1_Bits.md)
 
-170.[203_Remove_Linked_List_Elements](203_Remove_Linked_List_Elements.md)
+170.[198_House_Robber](198_House_Robber.md)
 
-171.[204_Count_Primes](204_Count_Primes.md)
+171.[199_Binary_Tree_Right_Side_View](199_Binary_Tree_Right_Side_View.md)
 
-172.[205_Isomorphic_Strings](205_Isomorphic_Strings.md)
+172.[200_Number_of_Islands](200_Number_of_Islands.md)
 
-173.[206_Reverse_Linked_List](206_Reverse_Linked_List.md)
+173.[201_Bitwise_AND_of_Numbers_Range](201_Bitwise_AND_of_Numbers_Range.md)
 
-174.[207_Course_Schedule](207_Course_Schedule.md)
+174.[202_Happy_Number](202_Happy_Number.md)
 
-175.[208_Implement_Trie_(Prefix_Tree)](208_Implement_Trie_(Prefix_Tree).md)
+175.[203_Remove_Linked_List_Elements](203_Remove_Linked_List_Elements.md)
 
-176.[209_Minimum_Size_Subarray_Sum](209_Minimum_Size_Subarray_Sum.md)
+176.[204_Count_Primes](204_Count_Primes.md)
 
-177.[210_Course_Schedule_II](210_Course_Schedule_II.md)
+177.[205_Isomorphic_Strings](205_Isomorphic_Strings.md)
 
-178.[213_House_Robber_II](213_House_Robber_II.md)
+178.[206_Reverse_Linked_List](206_Reverse_Linked_List.md)
 
-179.[215_Kth_Largest_Element_in_an_Array](215_Kth_Largest_Element_in_an_Array.md)
+179.[207_Course_Schedule](207_Course_Schedule.md)
 
-180.[216_Combination_Sum_III](216_Combination_Sum_III.md)
+180.[208_Implement_Trie_(Prefix_Tree)](208_Implement_Trie_(Prefix_Tree).md)
 
-181.[217_Contains_Duplicate](217_Contains_Duplicate.md)
+181.[209_Minimum_Size_Subarray_Sum](209_Minimum_Size_Subarray_Sum.md)
 
-182.[219_Contains_Duplicate_II](219_Contains_Duplicate_II.md)
+182.[210_Course_Schedule_II](210_Course_Schedule_II.md)
 
-183.[220_Contains_Duplicate_III](220_Contains_Duplicate_III.md)
+183.[213_House_Robber_II](213_House_Robber_II.md)
 
-184.[221_Maximal_Square](221_Maximal_Square.md)
+184.[215_Kth_Largest_Element_in_an_Array](215_Kth_Largest_Element_in_an_Array.md)
 
-185.[222_Count_Complete_Tree_Nodes](222_Count_Complete_Tree_Nodes.md)
+185.[216_Combination_Sum_III](216_Combination_Sum_III.md)
 
-186.[223_Rectangle_Area](223_Rectangle_Area.md)
+186.[217_Contains_Duplicate](217_Contains_Duplicate.md)
 
-187.[225_Implement_Stack_using_Queues](225_Implement_Stack_using_Queues.md)
+187.[219_Contains_Duplicate_II](219_Contains_Duplicate_II.md)
 
-188.[226_Invert_Binary_Tree](226_Invert_Binary_Tree.md)
+188.[220_Contains_Duplicate_III](220_Contains_Duplicate_III.md)
 
-189.[227_Basic_Calculator_II](227_Basic_Calculator_II.md)
+189.[221_Maximal_Square](221_Maximal_Square.md)
 
-190.[228_Summary_Ranges](228_Summary_Ranges.md)
+190.[222_Count_Complete_Tree_Nodes](222_Count_Complete_Tree_Nodes.md)
 
-191.[229_Majority_Element_II](229_Majority_Element_II.md)
+191.[223_Rectangle_Area](223_Rectangle_Area.md)
 
-192.[230_Kth_Smallest_Element_in_a_BST](230_Kth_Smallest_Element_in_a_BST.md)
+192.[225_Implement_Stack_using_Queues](225_Implement_Stack_using_Queues.md)
 
-193.[231_Power_of_Two](231_Power_of_Two.md)
+193.[226_Invert_Binary_Tree](226_Invert_Binary_Tree.md)
 
-194.[232_Implement_Queue_using_Stacks](232_Implement_Queue_using_Stacks.md)
+194.[227_Basic_Calculator_II](227_Basic_Calculator_II.md)
 
-195.[233_Number_of_Digit_One](233_Number_of_Digit_One.md)
+195.[228_Summary_Ranges](228_Summary_Ranges.md)
 
-196.[234_Palindrome_Linked_List](234_Palindrome_Linked_List.md)
+196.[229_Majority_Element_II](229_Majority_Element_II.md)
 
-197.[235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
+197.[230_Kth_Smallest_Element_in_a_BST](230_Kth_Smallest_Element_in_a_BST.md)
 
-198.[236_Lowest_Common_Ancestor_of_a_Binary_Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
+198.[231_Power_of_Two](231_Power_of_Two.md)
 
-199.[237_Delete_Node_in_a_Linked_List](237_Delete_Node_in_a_Linked_List.md)
+199.[232_Implement_Queue_using_Stacks](232_Implement_Queue_using_Stacks.md)
 
-200.[238_Product_of_Array_Except_Self](238_Product_of_Array_Except_Self.md)
+200.[233_Number_of_Digit_One](233_Number_of_Digit_One.md)
 
-201.[239_Sliding_Window_Maximum](239_Sliding_Window_Maximum.md)
+201.[234_Palindrome_Linked_List](234_Palindrome_Linked_List.md)
 
-202.[241_Different_Ways_to_Add_Parentheses](241_Different_Ways_to_Add_Parentheses.md)
+202.[235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
 
-203.[242_Valid_Anagram](242_Valid_Anagram.md)
+203.[236_Lowest_Common_Ancestor_of_a_Binary_Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 
-204.[257_Binary_Tree_Paths](257_Binary_Tree_Paths.md)
+204.[237_Delete_Node_in_a_Linked_List](237_Delete_Node_in_a_Linked_List.md)
 
-205.[258_Add_Digits](258_Add_Digits.md)
+205.[238_Product_of_Array_Except_Self](238_Product_of_Array_Except_Self.md)
 
-206.[263_Ugly_Number](263_Ugly_Number.md)
+206.[239_Sliding_Window_Maximum](239_Sliding_Window_Maximum.md)
 
-207.[264_Ugly_Number_II](264_Ugly_Number_II.md)
+207.[241_Different_Ways_to_Add_Parentheses](241_Different_Ways_to_Add_Parentheses.md)
 
-208.[268_Missing_Number](268_Missing_Number.md)
+208.[242_Valid_Anagram](242_Valid_Anagram.md)
 
-209.[273_Integer_to_English_Words](273_Integer_to_English_Words.md)
+209.[257_Binary_Tree_Paths](257_Binary_Tree_Paths.md)
 
-210.[274_H-Index](274_H-Index.md)
+210.[258_Add_Digits](258_Add_Digits.md)
 
-211.[275_H-Index_II](275_H-Index_II.md)
+211.[263_Ugly_Number](263_Ugly_Number.md)
 
-212.[278_First_Bad_Version](278_First_Bad_Version.md)
+212.[264_Ugly_Number_II](264_Ugly_Number_II.md)
 
-213.[279_Perfect_Squares](279_Perfect_Squares.md)
+213.[268_Missing_Number](268_Missing_Number.md)
 
-214.[283_Move_Zeroes](283_Move_Zeroes.md)
+214.[273_Integer_to_English_Words](273_Integer_to_English_Words.md)
 
-215.[284_Peeking_Iterator](284_Peeking_Iterator.md)
+215.[274_H-Index](274_H-Index.md)
 
-216.[287_Find_the_Duplicate_Number](287_Find_the_Duplicate_Number.md)
+216.[275_H-Index_II](275_H-Index_II.md)
 
-217.[289_Game_of_Life](289_Game_of_Life.md)
+217.[278_First_Bad_Version](278_First_Bad_Version.md)
 
-218.[290_Word_Pattern](290_Word_Pattern.md)
+218.[279_Perfect_Squares](279_Perfect_Squares.md)
 
-219.[292_Nim_Game](292_Nim_Game.md)
+219.[283_Move_Zeroes](283_Move_Zeroes.md)
 
-220.[295_Find_Median_from_Data_Stream](295_Find_Median_from_Data_Stream.md)
+220.[284_Peeking_Iterator](284_Peeking_Iterator.md)
 
-221.[299_Bulls_and_Cows](299_Bulls_and_Cows.md)
+221.[287_Find_the_Duplicate_Number](287_Find_the_Duplicate_Number.md)
 
-222.[300_Longest_Increasing_Subsequence](300_Longest_Increasing_Subsequence.md)
+222.[289_Game_of_Life](289_Game_of_Life.md)
 
-223.[301_Remove_Invalid_Parentheses](301_Remove_Invalid_Parentheses.md)
+223.[290_Word_Pattern](290_Word_Pattern.md)
 
-224.[303_Range_Sum_Query_-_Immutable](303_Range_Sum_Query_-_Immutable.md)
+224.[292_Nim_Game](292_Nim_Game.md)
 
-225.[304_Range_Sum_Query_2D_-_Immutable](304_Range_Sum_Query_2D_-_Immutable.md)
+225.[295_Find_Median_from_Data_Stream](295_Find_Median_from_Data_Stream.md)
 
-226.[306_Additive_Number](306_Additive_Number.md)
+226.[299_Bulls_and_Cows](299_Bulls_and_Cows.md)
 
-227.[309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown](309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)
+227.[300_Longest_Increasing_Subsequence](300_Longest_Increasing_Subsequence.md)
 
-228.[310_Minimum_Height_Trees](310_Minimum_Height_Trees.md)
+228.[301_Remove_Invalid_Parentheses](301_Remove_Invalid_Parentheses.md)
 
-229.[312_Burst_Balloons](312_Burst_Balloons.md)
+229.[303_Range_Sum_Query_-_Immutable](303_Range_Sum_Query_-_Immutable.md)
 
-230.[313_Super_Ugly_Number](313_Super_Ugly_Number.md)
+230.[304_Range_Sum_Query_2D_-_Immutable](304_Range_Sum_Query_2D_-_Immutable.md)
 
-231.[315_Count_of_Smaller_Numbers_After_Self](315_Count_of_Smaller_Numbers_After_Self.md)
+231.[306_Additive_Number](306_Additive_Number.md)
 
-232.[316_Remove_Duplicate_Letters](316_Remove_Duplicate_Letters.md)
+232.[309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown](309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)
 
-233.[318_Maximum_Product_of_Word_Lengths](318_Maximum_Product_of_Word_Lengths.md)
+233.[310_Minimum_Height_Trees](310_Minimum_Height_Trees.md)
 
-234.[319_Bulb_Switcher](319_Bulb_Switcher.md)
+234.[312_Burst_Balloons](312_Burst_Balloons.md)
 
-235.[322_Coin_Change](322_Coin_Change.md)
+235.[313_Super_Ugly_Number](313_Super_Ugly_Number.md)
 
-236.[324_Wiggle_Sort_II](324_Wiggle_Sort_II.md)
+236.[315_Count_of_Smaller_Numbers_After_Self](315_Count_of_Smaller_Numbers_After_Self.md)
 
-237.[326_Power_of_Three](326_Power_of_Three.md)
+237.[316_Remove_Duplicate_Letters](316_Remove_Duplicate_Letters.md)
 
-238.[327_Count_of_Range_Sum](327_Count_of_Range_Sum.md)
+238.[318_Maximum_Product_of_Word_Lengths](318_Maximum_Product_of_Word_Lengths.md)
 
-239.[328_Odd_Even_Linked_List](328_Odd_Even_Linked_List.md)
+239.[319_Bulb_Switcher](319_Bulb_Switcher.md)
 
-240.[329_Longest_Increasing_Path_in_a_Matrix](329_Longest_Increasing_Path_in_a_Matrix.md)
+240.[322_Coin_Change](322_Coin_Change.md)
 
-241.[331_Verify_Preorder_Serialization_of_a_Binary_Tree](331_Verify_Preorder_Serialization_of_a_Binary_Tree.md)
+241.[324_Wiggle_Sort_II](324_Wiggle_Sort_II.md)
 
-242.[332_Reconstruct_Itinerary](332_Reconstruct_Itinerary.md)
+242.[326_Power_of_Three](326_Power_of_Three.md)
 
-243.[337_House_Robber_III](337_House_Robber_III.md)
+243.[327_Count_of_Range_Sum](327_Count_of_Range_Sum.md)
 
-244.[338_Counting_Bits](338_Counting_Bits.md)
+244.[328_Odd_Even_Linked_List](328_Odd_Even_Linked_List.md)
 
-245.[341_Flatten_Nested_List_Iterator](341_Flatten_Nested_List_Iterator.md)
+245.[329_Longest_Increasing_Path_in_a_Matrix](329_Longest_Increasing_Path_in_a_Matrix.md)
 
-246.[342_Power_of_Four](342_Power_of_Four.md)
+246.[331_Verify_Preorder_Serialization_of_a_Binary_Tree](331_Verify_Preorder_Serialization_of_a_Binary_Tree.md)
 
-247.[343_Integer_Break](343_Integer_Break.md)
+247.[332_Reconstruct_Itinerary](332_Reconstruct_Itinerary.md)
 
-248.[344_Reverse_Strin](344_Reverse_Strin.md)
+248.[337_House_Robber_III](337_House_Robber_III.md)
 
-249.[345_Reverse_Vowels_of_a_String](345_Reverse_Vowels_of_a_String.md)
+249.[338_Counting_Bits](338_Counting_Bits.md)
 
-250.[347_Top_K_Frequent_Elements](347_Top_K_Frequent_Elements.md)
+250.[341_Flatten_Nested_List_Iterator](341_Flatten_Nested_List_Iterator.md)
 
-251.[349_Intersection_of_Two_Arrays](349_Intersection_of_Two_Arrays.md)
+251.[342_Power_of_Four](342_Power_of_Four.md)
 
-252.[350_Intersection_of_Two_Arrays_II](350_Intersection_of_Two_Arrays_II.md)
+252.[343_Integer_Break](343_Integer_Break.md)
 
-253.[352_Data_Stream_as_Disjoint_Intervals](352_Data_Stream_as_Disjoint_Intervals.md)
+253.[344_Reverse_Strin](344_Reverse_Strin.md)
 
-254.[354_Russian_Doll_Envelopes](354_Russian_Doll_Envelopes.md)
+254.[345_Reverse_Vowels_of_a_String](345_Reverse_Vowels_of_a_String.md)
 
-255.[355_Design_Twitter](355_Design_Twitter.md)
+255.[347_Top_K_Frequent_Elements](347_Top_K_Frequent_Elements.md)
 
-256.[357_Count_Numbers_with_Unique_Digits](357_Count_Numbers_with_Unique_Digits.md)
+256.[349_Intersection_of_Two_Arrays](349_Intersection_of_Two_Arrays.md)
 
-257.[363_Max_Sum_of_Rectangle_No_Larger_Than_K](363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
+257.[350_Intersection_of_Two_Arrays_II](350_Intersection_of_Two_Arrays_II.md)
 
-258.[367_Valid_Perfect_Square](367_Valid_Perfect_Square.md)
+258.[352_Data_Stream_as_Disjoint_Intervals](352_Data_Stream_as_Disjoint_Intervals.md)
 
-259.[368_Largest_Divisible_Subset](368_Largest_Divisible_Subset.md)
+259.[354_Russian_Doll_Envelopes](354_Russian_Doll_Envelopes.md)
 
-260.[371_Sum_of_Two_Integers](371_Sum_of_Two_Integers.md)
+260.[355_Design_Twitter](355_Design_Twitter.md)
 
-261.[372_Super_Pow](372_Super_Pow.md)
+261.[357_Count_Numbers_with_Unique_Digits](357_Count_Numbers_with_Unique_Digits.md)
 
-262.[373_Find_K_Pairs_with_Smallest_Sums](373_Find_K_Pairs_with_Smallest_Sums.md)
+262.[363_Max_Sum_of_Rectangle_No_Larger_Than_K](363_Max_Sum_of_Rectangle_No_Larger_Than_K.md)
 
-263.[374_Guess_Number_Higher_or_Lower](374_Guess_Number_Higher_or_Lower.md)
+263.[367_Valid_Perfect_Square](367_Valid_Perfect_Square.md)
 
-264.[375_Guess_Number_Higher_or_Lower_II](375_Guess_Number_Higher_or_Lower_II.md)
+264.[368_Largest_Divisible_Subset](368_Largest_Divisible_Subset.md)
 
-265.[376_Wiggle_Subsequence](376_Wiggle_Subsequence.md)
+265.[371_Sum_of_Two_Integers](371_Sum_of_Two_Integers.md)
 
-266.[378_Kth_Smallest_Element_in_a_Sorted_Matrix](378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
+266.[372_Super_Pow](372_Super_Pow.md)
 
-267.[380_Insert_Delete_GetRandom_O(1)](380_Insert_Delete_GetRandom_O(1).md)
+267.[373_Find_K_Pairs_with_Smallest_Sums](373_Find_K_Pairs_with_Smallest_Sums.md)
 
-268.[381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed](381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed.md)
+268.[374_Guess_Number_Higher_or_Lower](374_Guess_Number_Higher_or_Lower.md)
 
-269.[382_Linked_List_Random_Node](382_Linked_List_Random_Node.md)
+269.[375_Guess_Number_Higher_or_Lower_II](375_Guess_Number_Higher_or_Lower_II.md)
 
-270.[383_Ransom_Note](383_Ransom_Note.md)
+270.[376_Wiggle_Subsequence](376_Wiggle_Subsequence.md)
 
-271.[384_Shuffle_an_Array](384_Shuffle_an_Array.md)
+271.[378_Kth_Smallest_Element_in_a_Sorted_Matrix](378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
-272.[385_Mini_Parser](385_Mini_Parser.md)
+272.[380_Insert_Delete_GetRandom_O(1)](380_Insert_Delete_GetRandom_O(1).md)
 
-273.[386_Lexicographical_Numbers](386_Lexicographical_Numbers.md)
+273.[381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed](381_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed.md)
 
-274.[387_First_Unique_Character_in_a_String](387_First_Unique_Character_in_a_String.md)
+274.[382_Linked_List_Random_Node](382_Linked_List_Random_Node.md)
 
-275.[388_Longest_Absolute_File_Path](388_Longest_Absolute_File_Path.md)
+275.[383_Ransom_Note](383_Ransom_Note.md)
 
-276.[389_Find_the_Difference](389_Find_the_Difference.md)
+276.[384_Shuffle_an_Array](384_Shuffle_an_Array.md)
 
-277.[390_Elimination_Game](390_Elimination_Game.md)
+277.[385_Mini_Parser](385_Mini_Parser.md)
 
-278.[392_Is_Subsequence](392_Is_Subsequence.md)
+278.[386_Lexicographical_Numbers](386_Lexicographical_Numbers.md)
 
-279.[393_UTF-8_Validation](393_UTF-8_Validation.md)
+279.[387_First_Unique_Character_in_a_String](387_First_Unique_Character_in_a_String.md)
 
-280.[394_Decode_String](394_Decode_String.md)
+280.[388_Longest_Absolute_File_Path](388_Longest_Absolute_File_Path.md)
 
-281.[395_Longest_Substring_with_At_Least_K_Repeating_Characters](395_Longest_Substring_with_At_Least_K_Repeating_Characters.md)
+281.[389_Find_the_Difference](389_Find_the_Difference.md)
 
-282.[396_Rotate_Function](396_Rotate_Function.md)
+282.[390_Elimination_Game](390_Elimination_Game.md)
 
-283.[397_Integer_Replacement](397_Integer_Replacement.md)
+283.[392_Is_Subsequence](392_Is_Subsequence.md)
 
-284.[398_Random_Pick_Index](398_Random_Pick_Index.md)
+284.[393_UTF-8_Validation](393_UTF-8_Validation.md)
 
-285.[399_Evaluate_Division](399_Evaluate_Division.md)
+285.[394_Decode_String](394_Decode_String.md)
 
-286.[400_Nth_Digit](400_Nth_Digit.md)
+286.[395_Longest_Substring_with_At_Least_K_Repeating_Characters](395_Longest_Substring_with_At_Least_K_Repeating_Characters.md)
 
-287.[401_Binary_Watch](401_Binary_Watch.md)
+287.[396_Rotate_Function](396_Rotate_Function.md)
 
-288.[402_Remove_K_Digits](402_Remove_K_Digits.md)
+288.[397_Integer_Replacement](397_Integer_Replacement.md)
 
-289.[403_Frog_Jump](403_Frog_Jump.md)
+289.[398_Random_Pick_Index](398_Random_Pick_Index.md)
 
-290.[404_Sum_of_Left_Leaves](404_Sum_of_Left_Leaves.md)
+290.[399_Evaluate_Division](399_Evaluate_Division.md)
 
-291.[405_Convert_a_Number_to_Hexadecimal](405_Convert_a_Number_to_Hexadecimal.md)
+291.[400_Nth_Digit](400_Nth_Digit.md)
 
-292.[406_Queue_Reconstruction_by_Height](406_Queue_Reconstruction_by_Height.md)
+292.[401_Binary_Watch](401_Binary_Watch.md)
 
-293.[409_Longest_Palindrome](409_Longest_Palindrome.md)
+293.[402_Remove_K_Digits](402_Remove_K_Digits.md)
 
-294.[412_Fizz_Buzz](412_Fizz_Buzz.md)
+294.[403_Frog_Jump](403_Frog_Jump.md)
 
-295.[413_Arithmetic_Slices](413_Arithmetic_Slices.md)
+295.[404_Sum_of_Left_Leaves](404_Sum_of_Left_Leaves.md)
 
-296.[414_Third_Maximum_Number](414_Third_Maximum_Number.md)
+296.[405_Convert_a_Number_to_Hexadecimal](405_Convert_a_Number_to_Hexadecimal.md)
 
-297.[415_Add_Strings](415_Add_Strings.md)
+297.[406_Queue_Reconstruction_by_Height](406_Queue_Reconstruction_by_Height.md)
 
-298.[416_Partition_Equal_Subset_Sum_*](416_Partition_Equal_Subset_Sum_*.md)
+298.[409_Longest_Palindrome](409_Longest_Palindrome.md)
 
-299.[417_Pacific_Atlantic_Water_Flow](417_Pacific_Atlantic_Water_Flow.md)
+299.[412_Fizz_Buzz](412_Fizz_Buzz.md)
 
-300.[419_Battleships_in_a_Board](419_Battleships_in_a_Board.md)
+300.[413_Arithmetic_Slices](413_Arithmetic_Slices.md)
 
-301.[423_Reconstruct_Original_Digits_from_English](423_Reconstruct_Original_Digits_from_English.md)
+301.[414_Third_Maximum_Number](414_Third_Maximum_Number.md)
 
-302.[424_Longest_Repeating_Character_Replacement](424_Longest_Repeating_Character_Replacement.md)
+302.[415_Add_Strings](415_Add_Strings.md)
 
-303.[433_Minimum_Genetic_Mutation](433_Minimum_Genetic_Mutation.md)
+303.[416_Partition_Equal_Subset_Sum_*](416_Partition_Equal_Subset_Sum_*.md)
 
-304.[434_Number_of_Segments_in_a_String](434_Number_of_Segments_in_a_String.md)
+304.[417_Pacific_Atlantic_Water_Flow](417_Pacific_Atlantic_Water_Flow.md)
 
-305.[435_Non-overlapping_Intervals](435_Non-overlapping_Intervals.md)
+305.[419_Battleships_in_a_Board](419_Battleships_in_a_Board.md)
 
-306.[436_Find_Right_Interval](436_Find_Right_Interval.md)
+306.[423_Reconstruct_Original_Digits_from_English](423_Reconstruct_Original_Digits_from_English.md)
 
-307.[437_Path_Sum_III](437_Path_Sum_III.md)
+307.[424_Longest_Repeating_Character_Replacement](424_Longest_Repeating_Character_Replacement.md)
 
-308.[438_Find_All_Anagrams_in_a_String](438_Find_All_Anagrams_in_a_String.md)
+308.[433_Minimum_Genetic_Mutation](433_Minimum_Genetic_Mutation.md)
 
-309.[441_Arranging_Coins](441_Arranging_Coins.md)
+309.[434_Number_of_Segments_in_a_String](434_Number_of_Segments_in_a_String.md)
 
-310.[442_Find_All_Duplicates_in_an_Array](442_Find_All_Duplicates_in_an_Array.md)
+310.[435_Non-overlapping_Intervals](435_Non-overlapping_Intervals.md)
 
-311.[445_Add_Two_Numbers_II](445_Add_Two_Numbers_II.md)
+311.[436_Find_Right_Interval](436_Find_Right_Interval.md)
 
-312.[447_Number_of_Boomerangs](447_Number_of_Boomerangs.md)
+312.[437_Path_Sum_III](437_Path_Sum_III.md)
 
-313.[448_Find_All_Numbers_Disappeared_in_an_Array](448_Find_All_Numbers_Disappeared_in_an_Array.md)
+313.[438_Find_All_Anagrams_in_a_String](438_Find_All_Anagrams_in_a_String.md)
 
-314.[449_Serialize_and_Deserialize_BST](449_Serialize_and_Deserialize_BST.md)
+314.[441_Arranging_Coins](441_Arranging_Coins.md)
 
-315.[450_Delete_Node_in_a_BST](450_Delete_Node_in_a_BST.md)
+315.[442_Find_All_Duplicates_in_an_Array](442_Find_All_Duplicates_in_an_Array.md)
 
-316.[451_Sort_Characters_By_Frequency](451_Sort_Characters_By_Frequency.md)
+316.[445_Add_Two_Numbers_II](445_Add_Two_Numbers_II.md)
 
-317.[452_Minimum_Number_of_Arrows_to_Burst_Balloons](452_Minimum_Number_of_Arrows_to_Burst_Balloons.md)
+317.[447_Number_of_Boomerangs](447_Number_of_Boomerangs.md)
 
-318.[453_Minimum_Moves_to_Equal_Array_Elements](453_Minimum_Moves_to_Equal_Array_Elements.md)
+318.[448_Find_All_Numbers_Disappeared_in_an_Array](448_Find_All_Numbers_Disappeared_in_an_Array.md)
 
-319.[454_4Sum_II](454_4Sum_II.md)
+319.[449_Serialize_and_Deserialize_BST](449_Serialize_and_Deserialize_BST.md)
 
-320.[455_Assign_Cookies](455_Assign_Cookies.md)
+320.[450_Delete_Node_in_a_BST](450_Delete_Node_in_a_BST.md)
 
-321.[456_132_Pattern_*](456_132_Pattern_*.md)
+321.[451_Sort_Characters_By_Frequency](451_Sort_Characters_By_Frequency.md)
 
-322.[459_Repeated_Substring_Pattern](459_Repeated_Substring_Pattern.md)
+322.[452_Minimum_Number_of_Arrows_to_Burst_Balloons](452_Minimum_Number_of_Arrows_to_Burst_Balloons.md)
 
-323.[460_LFU_Cache](460_LFU_Cache.md)
+323.[453_Minimum_Moves_to_Equal_Array_Elements](453_Minimum_Moves_to_Equal_Array_Elements.md)
 
-324.[461_Hamming_Distance](461_Hamming_Distance.md)
+324.[454_4Sum_II](454_4Sum_II.md)
 
-325.[462_Minimum_Moves_to_Equal_Array_Elements_II](462_Minimum_Moves_to_Equal_Array_Elements_II.md)
+325.[455_Assign_Cookies](455_Assign_Cookies.md)
 
-326.[463_Island_Perimeter](463_Island_Perimeter.md)
+326.[456_132_Pattern_*](456_132_Pattern_*.md)
 
-327.[467_Unique_Substrings_in_Wraparound_String](467_Unique_Substrings_in_Wraparound_String.md)
+327.[459_Repeated_Substring_Pattern](459_Repeated_Substring_Pattern.md)
 
-328.[468_Validate_IP_Address](468_Validate_IP_Address.md)
+328.[460_LFU_Cache](460_LFU_Cache.md)
 
-329.[473_Matchsticks_to_Square](473_Matchsticks_to_Square.md)
+329.[461_Hamming_Distance](461_Hamming_Distance.md)
 
-330.[474_Ones_and_Zeroes](474_Ones_and_Zeroes.md)
+330.[462_Minimum_Moves_to_Equal_Array_Elements_II](462_Minimum_Moves_to_Equal_Array_Elements_II.md)
 
-331.[475_Heaters](475_Heaters.md)
+331.[463_Island_Perimeter](463_Island_Perimeter.md)
 
-332.[476_Number_Complement](476_Number_Complement.md)
+332.[467_Unique_Substrings_in_Wraparound_String](467_Unique_Substrings_in_Wraparound_String.md)
 
-333.[477_Total_Hamming_Distance_*](477_Total_Hamming_Distance_*.md)
+333.[468_Validate_IP_Address](468_Validate_IP_Address.md)
 
-334.[480_Sliding_Window_Median](480_Sliding_Window_Median.md)
+334.[473_Matchsticks_to_Square](473_Matchsticks_to_Square.md)
 
-335.[482_License_Key_Formatting](482_License_Key_Formatting.md)
+335.[474_Ones_and_Zeroes](474_Ones_and_Zeroes.md)
 
-336.[485_Max_Consecutive_Ones](485_Max_Consecutive_Ones.md)
+336.[475_Heaters](475_Heaters.md)
 
-337.[486_Predict_the_Winner](486_Predict_the_Winner.md)
+337.[476_Number_Complement](476_Number_Complement.md)
 
-338.[488_Zuma_Game](488_Zuma_Game.md)
+338.[477_Total_Hamming_Distance_*](477_Total_Hamming_Distance_*.md)
 
-339.[491_Increasing_Subsequences](491_Increasing_Subsequences.md)
+339.[480_Sliding_Window_Median](480_Sliding_Window_Median.md)
 
-340.[492_Construct_the_Rectangle](492_Construct_the_Rectangle.md)
+340.[482_License_Key_Formatting](482_License_Key_Formatting.md)
 
-341.[493_Reverse_Pairs](493_Reverse_Pairs.md)
+341.[485_Max_Consecutive_Ones](485_Max_Consecutive_Ones.md)
 
-342.[494_Target_Sum](494_Target_Sum.md)
+342.[486_Predict_the_Winner](486_Predict_the_Winner.md)
+
+343.[488_Zuma_Game](488_Zuma_Game.md)
+
+344.[491_Increasing_Subsequences](491_Increasing_Subsequences.md)
+
+345.[492_Construct_the_Rectangle](492_Construct_the_Rectangle.md)
+
+346.[493_Reverse_Pairs](493_Reverse_Pairs.md)
+
+347.[494_Target_Sum](494_Target_Sum.md)
+
+348.[495_Teemo_Attacking](495_Teemo_Attacking.md)
+
+349.[496_Next_Greater_Element_I_!](496_Next_Greater_Element_I_!.md)
+
+350.[498_Diagonal_Traverse](498_Diagonal_Traverse.md)
+
+351.[500_Keyboard_Row](500_Keyboard_Row.md)
+
+352.[501_Find_Mode_in_Binary_Search_Tree](501_Find_Mode_in_Binary_Search_Tree.md)
+
+353.[502_IPO](502_IPO.md)
+
+354.[503_Next_Greater_Element_II](503_Next_Greater_Element_II.md)
+
+355.[504_Base_7](504_Base_7.md)
+
+356.[506_Relative_Ranks](506_Relative_Ranks.md)
+
+357.[507_Perfect_Number](507_Perfect_Number.md)
+
+358.[508_Most_Frequent_Subtree_Sum](508_Most_Frequent_Subtree_Sum.md)
+
+359.[513_Find_Bottom_Left_Tree_Value](513_Find_Bottom_Left_Tree_Value.md)
+
+360.[515_Find_Largest_Value_in_Each_Tree_Row](515_Find_Largest_Value_in_Each_Tree_Row.md)
+
+361.[516_Longest_Palindromic_Subsequence_!](516_Longest_Palindromic_Subsequence_!.md)
+
+362.[518_Coin_Change_2](518_Coin_Change_2.md)
+
+363.[520_Detect_Capital](520_Detect_Capital.md)
+
+364.[521_Longest_Uncommon_Subsequence_I](521_Longest_Uncommon_Subsequence_I.md)
+
+365.[522_Longest_Uncommon_Subsequence_II](522_Longest_Uncommon_Subsequence_II.md)
+
+366.[523_Continuous_Subarray_Sum](523_Continuous_Subarray_Sum.md)
+
+367.[524_Longest_Word_in_Dictionary_through_Deleting](524_Longest_Word_in_Dictionary_through_Deleting.md)
+
+368.[525_Contiguous_Array](525_Contiguous_Array.md)
+
+369.[526_Beautiful_Arrangement](526_Beautiful_Arrangement.md)
+
+370.[529_Minesweeper](529_Minesweeper.md)
+
+371.[530_Minimum_Absolute_Difference_in_BST](530_Minimum_Absolute_Difference_in_BST.md)
+
+372.[532_K-diff_Pairs_in_an_Array](532_K-diff_Pairs_in_an_Array.md)
+
+373.[537_Complex_Number_Multiplication](537_Complex_Number_Multiplication.md)
+
+374.[538_Convert_BST_to_Greater_Tree](538_Convert_BST_to_Greater_Tree.md)
+
+375.[539_Minimum_Time_Difference](539_Minimum_Time_Difference.md)
+
+376.[540_Single_Element_in_a_Sorted_Array](540_Single_Element_in_a_Sorted_Array.md)
+
+377.[541_Reverse_String_II](541_Reverse_String_II.md)
+
+378.[542_01_Matrix](542_01_Matrix.md)
+
+379.[543_Diameter_of_Binary_Tree](543_Diameter_of_Binary_Tree.md)
+
+380.[547_Friend_Circles](547_Friend_Circles.md)
+
+381.[551_Student_Attendance_Record_I](551_Student_Attendance_Record_I.md)
+
+382.[553_Optimal_Division](553_Optimal_Division.md)
+
+383.[554_Brick_Wall](554_Brick_Wall.md)
+
+384.[556_Next_Greater_Element_III](556_Next_Greater_Element_III.md)
+
+385.[557_Reverse_Words_in_a_String_III](557_Reverse_Words_in_a_String_III.md)
+
+386.[560_Subarray_Sum_Equals_K](560_Subarray_Sum_Equals_K.md)
+
+387.[561_Array_Partition_I](561_Array_Partition_I.md)
+
+388.[563_Binary_Tree_Tilt](563_Binary_Tree_Tilt.md)
+
+389.[565_Array_Nesting](565_Array_Nesting.md)
+
+390.[566_Reshape_the_Matrix](566_Reshape_the_Matrix.md)
+
+391.[567_Given_two_strings_s1_and_s2,_write_a_function](567_Given_two_strings_s1_and_s2,_write_a_function.md)
+
+392.[572_Subtree_of_Another_Tree](572_Subtree_of_Another_Tree.md)
+
+393.[575_Distribute_Candies](575_Distribute_Candies.md)
+
+394.[576_Out_of_Boundary_Paths](576_Out_of_Boundary_Paths.md)
+
+395.[581_Shortest_Unsorted_Continuous_Subarray](581_Shortest_Unsorted_Continuous_Subarray.md)
+
+396.[583_Delete_Operation_for_Two_Strings](583_Delete_Operation_for_Two_Strings.md)
 
