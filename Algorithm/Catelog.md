@@ -642,7 +642,7 @@
 
 [149_Max_Points_on_a_Line](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/149_Max_Points_on_a_Line.md)
 
-[170_Two_Sum_III_-_Data_structure_design](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/170_Two_Sum_III_-_Data_structure_design.md)
+[170_Two_Sum_III__Data_structure_design](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/170_Two_Sum_III__Data_structure_design.md)
 
 [187_Repeated_DNA_Sequences](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/187_Repeated_DNA_Sequences.md)
 
