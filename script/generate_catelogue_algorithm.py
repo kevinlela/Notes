@@ -63,6 +63,7 @@ catelog.write("### All Questions\n\n")
 allQ = sortQuestion(allQ)
 num = 1
 for f in allQ:
-	catelog.write(str(num) + '.' + '[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
+	f_s = f.replace('_', '\_')
+	catelog.write(str(num) + '.' + '[' + f_s[:f.rfind('.')] + '](' + f_s + ')\n\n')
 	print str(num) + '.' + '[' + f[:f.rfind('.')] + '](' + f + ')'
 	num += 1
