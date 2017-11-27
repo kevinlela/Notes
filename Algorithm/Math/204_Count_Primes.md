@@ -10,6 +10,8 @@ We can gray out all a*x when we visit x. There are two trickes,
 * first, we just need to start at a = x when meeting x, because element < x*x is handled by the previous element
 * we just need to check x <= sqrt[n] since x > sqrt[n] will mark > than n 
 
+---ß
+
 	class Solution {
 	public:
 	    int countPrimes(int n) {

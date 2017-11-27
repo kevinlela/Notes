@@ -16,23 +16,23 @@ Note: The length of given array won't exceed 10000.
 
 To enable search in circular array, we just need to append the same array to the current one. According to 496_Next_Greater_Element_I_!.md, we can use stack to solve this problem.
 
-class Solution {
-public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-        int len = nums.size();
-        vector<int> result(len, -1);
-        stack<int> stk;
-        for (int i = 0; i < 2*len; ++i)
-        {
-            int idx = i >= len ? (i-len) : i;
-            while (!stk.empty() && nums[stk.top()] < nums[idx])
+    class Solution {
+    public:
+        vector<int> nextGreaterElements(vector<int>& nums) {
+            int len = nums.size();
+            vector<int> result(len, -1);
+            stack<int> stk;
+            for (int i = 0; i < 2*len; ++i)
             {
-                if (result[stk.top()] == -1) result[stk.top()] = nums[idx];
-                stk.pop();
+                int idx = i >= len ? (i-len) : i;
+                while (!stk.empty() && nums[stk.top()] < nums[idx])
+                {
+                    if (result[stk.top()] == -1) result[stk.top()] = nums[idx];
+                    stk.pop();
+                }
+                stk.push(idx);
             }
-            stk.push(idx);
+            
+            return result;
         }
-        
-        return result;
-    }
-};
+    };

@@ -3,6 +3,7 @@ Given a binary tree, you need to compute the length of the diameter of the tree.
 
 Example:
 Given a binary tree 
+
           1
          / \
         2   3

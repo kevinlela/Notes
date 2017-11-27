@@ -10,6 +10,7 @@ Do we need to traverse the whole number? NO. the length of a number can be eithe
 Corner Case
 * 10000
 * negative number
+--------------------
 
 	class Solution {
 	public:

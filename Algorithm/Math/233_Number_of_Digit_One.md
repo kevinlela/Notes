@@ -10,8 +10,9 @@ Return 6, because digit 1 occurred in the following numbers: 1, 10, 11, 12, 13.
 ### Answer
 let s[i] be the 1s in [0..10^i] 
 * s[1] = 1 = 1
-* s[2] = 10...19 21, 31, ... 91 = 10 * s[1] + 10
-* s[3] = 100...199, ...999 = 10*s[2] + 100
+* s[2] = 10...19 21, 31, ... 91 = 10 \* s[1] + 10
+* s[3] = 100...199, ...999 = 10\*s[2] + 100
+---
 
 	class Solution {
 	public:

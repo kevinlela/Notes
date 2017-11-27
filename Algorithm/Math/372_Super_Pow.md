@@ -18,7 +18,7 @@ Result: 1024
 
 ### Answer
 
-The only challenge is to know the property (a*b) % c = ((a%c) * (b%c))%c
+The only challenge is to know the property (a\*b) % c = ((a%c) \* (b%c))%c
 
 	class Solution {
 	public:

@@ -1,5 +1,5 @@
 ### Binary Search Tree Iterator
-mplement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.
+implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.
 
 Calling next() will return the next smallest number in the BST.
 
@@ -23,7 +23,7 @@ This is similar to [94](94_Binary_Tree_Inorder_Traversal.md)
 	public:
 	    BSTIterator(TreeNode *root) : d_iter(root) {
 	    }
-
+	    
 	    /** @return whether we have a next smallest number */
 	    bool hasNext() {
 	        while (d_iter)
@@ -34,7 +34,7 @@ This is similar to [94](94_Binary_Tree_Inorder_Traversal.md)
 	        
 	        return !d_stk.empty();
 	    }
-
+	    
 	    /** @return the next smallest number */
 	    int next() {
 	        TreeNode *result = d_stk.top();

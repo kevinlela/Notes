@@ -11,6 +11,7 @@ Note: Do not use class member/global/static variables to store states. Your seri
 
 ### Answer
 We just need a flag to indicate NULL node. and use DFS to traverse the tree
+
 	/**
 	 * Definition for a binary tree node.
 	 * struct TreeNode {
@@ -56,7 +57,7 @@ We just need a flag to indicate NULL node. and use DFS to traverse the tree
 	        return curr;
 	    }
 	};
-
+		
 	// Your Codec object will be instantiated and called as such:
 	// Codec codec;
 	// codec.deserialize(codec.serialize(root));

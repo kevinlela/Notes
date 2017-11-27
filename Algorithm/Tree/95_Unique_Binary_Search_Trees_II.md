@@ -4,11 +4,11 @@ Given an integer n, generate all structurally unique BST's (binary search trees)
 For example,
 Given n = 3, your program should return all 5 unique BST's shown below.
 
-   1         3     3      2      1
-    \       /     /      / \      \
-     3     2     1      1   3      2
-    /     /       \                 \
-   2     1         2                 3
+	   1         3     3      2      1
+	    \       /     /      / \      \
+	     3     2     1      1   3      2
+	    /     /       \                 \
+	   2     1         2                 3
 
 [leetcode](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 

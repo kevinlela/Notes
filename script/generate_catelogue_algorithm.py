@@ -15,6 +15,7 @@ for root, dirnames, filenames in os.walk('../Algorithm/'):
 print matches
 
 catelog = open('../Algorithm/Catelog.md', 'w')
+catelog_offline = open('../Algorithm/Catelog_offline.md', 'w')
 print matches
 algorithmDict = {};
 allQ = [];
@@ -46,12 +47,14 @@ def sortQuestion(allQ):
 	return vs;
 
 git_path = 'https://github.com/kevinlela/Notes/tree/master/Algorithm/'
+off_path = '../Algorithm/'
 for k, v in algorithmDict.items():
 	catelog.write("## " + k.replace("_", " ") + "\n\n")
+	catelog_offline.write("## " + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
 		catelog.write('[' + f[:f.rfind('.')] + '](' + git_path + k + '/' + f + ')\n\n')
-		# catelog.write('[' + f[:f.rfind('.')] + '](' + f + ')\n\n')
+		catelog_offline.write('[' + f[:f.rfind('.')] + '](' + off_path + k + '/' + f + ')\n\n')
 
 
 catelog.write("\n\n")

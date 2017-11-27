@@ -20,7 +20,7 @@ What is the brutal force way. Choose all possible two bins and calculate the rec
 
 We need to detect the redundancy. 
 
-if we have two bins i and j, any i <= k < j has hist[k] > hist[i], we conclude we can just use (j-k+1)*hist[j] to calculate, so they have no need to preserve. So, we can maintain a stack which has monotonically increased value. 
+if we have two bins i and j, any i <= k < j has hist[k] > hist[i], we conclude we can just use (j-k+1)\*hist[j] to calculate, so they have no need to preserve. So, we can maintain a stack which has monotonically increased value. 
 
 	class Solution {
 	public:

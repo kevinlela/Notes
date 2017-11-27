@@ -12,7 +12,7 @@ return [3, 4].
 
 [leetcode](https://leetcode.com/problems/search-for-a-range/description/)
 
-###Answer
+### Answer
 
 use binary search to search to boundary
 

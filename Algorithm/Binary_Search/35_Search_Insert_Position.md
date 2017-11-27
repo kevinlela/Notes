@@ -12,7 +12,7 @@ Here are few examples.
 
 [leetcode](https://leetcode.com/problems/search-insert-position/description/)
 
-###Answer
+### Answer
 
 class Solution {
 public:

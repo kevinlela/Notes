@@ -13,6 +13,7 @@ Meet this kind of problem, which is very easy to think through, always think abo
 * what about 1000?
 * what about negative case?
 * what about overflow?
+-------------------------------
 
 	class Solution {
 	public:

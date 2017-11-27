@@ -73,9 +73,11 @@ Because we know ABA matches anyway
 			match
 
 2) Use lps to do matching
-	* s[i] == p[j]
-		* ++i, ++j
-	* s[i] != p[j]
-		* p[0...j-1] matches s[i-j...i-1]
-		* lps[j-1] is the count of characters of p[0...j-1] that are both proper prefix and suffic
-		* So we do not need to match p[0...lps[j-1]-1] with s[i-lps[i-1]...i-1]
+	
+	if s[i] == p[j]
+		 ++i, ++j
+	else s[i] != p[j]
+		 j = lps[j-1]
+		 // p[0...j-1] matches s[i-j...i-1]
+		 // lps[j-1] is the count of characters of p[0...j-1] that are both proper prefix and suffic
+		 //So we do not need to match p[0...lps[j-1]-1] with s[i-lps[i-1]...i-1]

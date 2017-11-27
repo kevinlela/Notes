@@ -9,11 +9,11 @@ Example:
 Input: "4(2(3)(1))(6(5))"
 Output: return the tree root node representing the following tree:
 
-       4
-     /   \
-    2     6
-   / \   / 
-  3   1 5   
+	       4
+	     /   \
+	    2     6
+	   / \   / 
+	  3   1 5   
 Note:
 There will only be '(', ')', '-' and '0' ~ '9' in the input string.
 An empty tree is represented by "" instead of "()".

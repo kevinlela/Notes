@@ -8,6 +8,7 @@ Note that 1 is typically treated as an ugly number.
 [leetcode](https://leetcode.com/problems/ugly-number/description/)
 
 ### Answer
+
 	class Solution {
 	public:
 	    bool isUgly(int num) {

@@ -11,8 +11,8 @@ A solution using O(n) space is pretty straight forward. Could you devise a const
 ### Answer 
 BST can be converted into sorted sequence by inorder traversal. There are only two case of swaping
 
-* swap ajacent 123546789
-* swap non-ajacent 123856749
+1)swap ajacent 123546789
+2)swap non-ajacent 123856749
 
 	/**
 	 * Definition for a binary tree node.

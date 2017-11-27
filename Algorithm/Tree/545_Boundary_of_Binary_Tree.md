@@ -62,6 +62,7 @@ So order them in anti-clockwise without duplicate nodes we have [1,2,4,7,8,9,10,
 	        vector<int> lb(1, root->val);
 	        vector<int> rb;
 	        
+	        // left boundary, do not include the leaf
 	        TreeNode *iter = root->left;
 	        while (iter)
 	        {
@@ -72,6 +73,7 @@ So order them in anti-clockwise without duplicate nodes we have [1,2,4,7,8,9,10,
 	            else break;
 	        }
 	        
+	        // right boundary, do not inclue the leaf
 	        iter = root->right;
 	        while (iter)
 	        {
@@ -82,6 +84,7 @@ So order them in anti-clockwise without duplicate nodes we have [1,2,4,7,8,9,10,
 	            else break;
 	        }
 	        
+	        // leaf
 	        vector<int> lf;
 	        stack<TreeNode*> stk;
 	        iter = root;

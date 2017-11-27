@@ -110,6 +110,10 @@
 
 [554_Brick_Wall](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/554_Brick_Wall.md)
 
+[573_Squirrel_Simulation](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/573_Squirrel_Simulation.md)
+
+[616_Add_Bold_Tag_in_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Other/616_Add_Bold_Tag_in_String.md)
+
 ## KMP
 
 [28_Implement_strStr()](https://github.com/kevinlela/Notes/tree/master/Algorithm/KMP/28_Implement_strStr().md)
@@ -145,6 +149,8 @@
 [231_Power_of_Two](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/231_Power_of_Two.md)
 
 [233_Number_of_Digit_One](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/233_Number_of_Digit_One.md)
+
+[258_Add_Digits](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/258_Add_Digits.md)
 
 [263_Ugly_Number](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/263_Ugly_Number.md)
 
@@ -195,6 +201,8 @@
 [492_Construct_the_Rectangle](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/492_Construct_the_Rectangle.md)
 
 [556_Next_Greater_Element_III](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/556_Next_Greater_Element_III.md)
+
+[625_Minimum_Factorization](https://github.com/kevinlela/Notes/tree/master/Algorithm/Math/625_Minimum_Factorization.md)
 
 ## Map
 
@@ -258,7 +266,7 @@
 
 [439_Ternary_Expression_Parser](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/439_Ternary_Expression_Parser.md)
 
-[456_132_Pattern_*](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/456_132_Pattern_*.md)
+[456_132_Pattern_@](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/456_132_Pattern_@.md)
 
 [496_Next_Greater_Element_I_!](https://github.com/kevinlela/Notes/tree/master/Algorithm/Stack/496_Next_Greater_Element_I_!.md)
 
@@ -344,8 +352,6 @@
 
 [257_Binary_Tree_Paths](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/257_Binary_Tree_Paths.md)
 
-[258_Add_Digits](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/258_Add_Digits.md)
-
 [270_Closest_Binary_Search_Tree_Value](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/270_Closest_Binary_Search_Tree_Value.md)
 
 [272_Closest_Binary_Search_Tree_Value_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/272_Closest_Binary_Search_Tree_Value_II.md)
@@ -382,13 +388,23 @@
 
 [530_Minimum_Absolute_Difference_in_BST](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/530_Minimum_Absolute_Difference_in_BST.md)
 
+[536_Construct_Binary_Tree_from_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/536_Construct_Binary_Tree_from_String.md)
+
 [538_Convert_BST_to_Greater_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/538_Convert_BST_to_Greater_Tree.md)
 
 [543_Diameter_of_Binary_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/543_Diameter_of_Binary_Tree.md)
 
+[545_Boundary_of_Binary_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/545_Boundary_of_Binary_Tree.md)
+
+[549_Binary_Tree_Longest_Consecutive_Sequence_II](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/549_Binary_Tree_Longest_Consecutive_Sequence_II.md)
+
 [563_Binary_Tree_Tilt](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/563_Binary_Tree_Tilt.md)
 
 [572_Subtree_of_Another_Tree](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/572_Subtree_of_Another_Tree.md)
+
+[663_Equal_Tree_Partition](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/663_Equal_Tree_Partition.md)
+
+[666_Path_Sum_IV](https://github.com/kevinlela/Notes/tree/master/Algorithm/Tree/666_Path_Sum_IV.md)
 
 ## Two Pointers
 
@@ -536,9 +552,15 @@
 
 [518_Coin_Change_2](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/518_Coin_Change_2.md)
 
+[562_Longest_Line_of_Consecutive_One_in_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/562_Longest_Line_of_Consecutive_One_in_Matrix.md)
+
 [576_Out_of_Boundary_Paths](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/576_Out_of_Boundary_Paths.md)
 
 [583_Delete_Operation_for_Two_Strings](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/583_Delete_Operation_for_Two_Strings.md)
+
+[634_Find_the_Derangement_of_An_Array](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/634_Find_the_Derangement_of_An_Array.md)
+
+[651_4_Keys_Keyboard_#](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dynamic_Programming/651_4_Keys_Keyboard_#.md)
 
 ## String
 
@@ -570,7 +592,7 @@
 
 [293_Flip_Game](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/293_Flip_Game.md)
 
-[344_Reverse_Strin](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/344_Reverse_Strin.md)
+[344_Reverse_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/344_Reverse_String.md)
 
 [345_Reverse_Vowels_of_a_String](https://github.com/kevinlela/Notes/tree/master/Algorithm/String/345_Reverse_Vowels_of_a_String.md)
 
@@ -628,6 +650,8 @@
 
 [239_Sliding_Window_Maximum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dequeue/239_Sliding_Window_Maximum.md)
 
+[544_Output_Contest_Matches](https://github.com/kevinlela/Notes/tree/master/Algorithm/Dequeue/544_Output_Contest_Matches.md)
+
 ## Hash Map
 
 [1_Two_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/1_Two_Sum.md)
@@ -642,7 +666,7 @@
 
 [149_Max_Points_on_a_Line](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/149_Max_Points_on_a_Line.md)
 
-[170_Two_Sum_III__Data_structure_design](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/170_Two_Sum_III__Data_structure_design.md)
+[170_Two_Sum_III_-_Data_structure_design](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/170_Two_Sum_III_-_Data_structure_design.md)
 
 [187_Repeated_DNA_Sequences](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/187_Repeated_DNA_Sequences.md)
 
@@ -701,6 +725,8 @@
 [560_Subarray_Sum_Equals_K](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/560_Subarray_Sum_Equals_K.md)
 
 [575_Distribute_Candies](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/575_Distribute_Candies.md)
+
+[624_Maximum_Distance_in_Arrays](https://github.com/kevinlela/Notes/tree/master/Algorithm/Hash_Map/624_Maximum_Distance_in_Arrays.md)
 
 ## Greedy Algorithm
 
@@ -763,6 +789,10 @@
 [379_Design_Phone_Directory](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/379_Design_Phone_Directory.md)
 
 [460_LFU_Cache](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/460_LFU_Cache.md)
+
+[604_Design_Compressed_String_Iterator](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/604_Design_Compressed_String_Iterator.md)
+
+[635_Design_Log_Storage_System](https://github.com/kevinlela/Notes/tree/master/Algorithm/Design/635_Design_Log_Storage_System.md)
 
 ## Linkedlists
 
@@ -979,6 +1009,10 @@
 [542_01_Matrix](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/542_01_Matrix.md)
 
 [547_Friend_Circles](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/547_Friend_Circles.md)
+
+[548_Split_Array_with_Equal_Sum](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/548_Split_Array_with_Equal_Sum.md)
+
+[582_Kill_Process](https://github.com/kevinlela/Notes/tree/master/Algorithm/DFS_BFS/582_Kill_Process.md)
 
 
 
@@ -1578,7 +1612,7 @@
 
 297.[343_Integer_Break](343_Integer_Break.md)
 
-298.[344_Reverse_Strin](344_Reverse_Strin.md)
+298.[344_Reverse_String](344_Reverse_String.md)
 
 299.[345_Reverse_Vowels_of_a_String](345_Reverse_Vowels_of_a_String.md)
 
@@ -1762,7 +1796,7 @@
 
 389.[455_Assign_Cookies](455_Assign_Cookies.md)
 
-390.[456_132_Pattern_*](456_132_Pattern_*.md)
+390.[456_132_Pattern_@](456_132_Pattern_@.md)
 
 391.[459_Repeated_Substring_Pattern](459_Repeated_Substring_Pattern.md)
 
@@ -1868,51 +1902,85 @@
 
 442.[532_K-diff_Pairs_in_an_Array](532_K-diff_Pairs_in_an_Array.md)
 
-443.[537_Complex_Number_Multiplication](537_Complex_Number_Multiplication.md)
+443.[536_Construct_Binary_Tree_from_String](536_Construct_Binary_Tree_from_String.md)
 
-444.[538_Convert_BST_to_Greater_Tree](538_Convert_BST_to_Greater_Tree.md)
+444.[537_Complex_Number_Multiplication](537_Complex_Number_Multiplication.md)
 
-445.[539_Minimum_Time_Difference](539_Minimum_Time_Difference.md)
+445.[538_Convert_BST_to_Greater_Tree](538_Convert_BST_to_Greater_Tree.md)
 
-446.[540_Single_Element_in_a_Sorted_Array](540_Single_Element_in_a_Sorted_Array.md)
+446.[539_Minimum_Time_Difference](539_Minimum_Time_Difference.md)
 
-447.[541_Reverse_String_II](541_Reverse_String_II.md)
+447.[540_Single_Element_in_a_Sorted_Array](540_Single_Element_in_a_Sorted_Array.md)
 
-448.[542_01_Matrix](542_01_Matrix.md)
+448.[541_Reverse_String_II](541_Reverse_String_II.md)
 
-449.[543_Diameter_of_Binary_Tree](543_Diameter_of_Binary_Tree.md)
+449.[542_01_Matrix](542_01_Matrix.md)
 
-450.[547_Friend_Circles](547_Friend_Circles.md)
+450.[543_Diameter_of_Binary_Tree](543_Diameter_of_Binary_Tree.md)
 
-451.[551_Student_Attendance_Record_I](551_Student_Attendance_Record_I.md)
+451.[544_Output_Contest_Matches](544_Output_Contest_Matches.md)
 
-452.[553_Optimal_Division](553_Optimal_Division.md)
+452.[545_Boundary_of_Binary_Tree](545_Boundary_of_Binary_Tree.md)
 
-453.[554_Brick_Wall](554_Brick_Wall.md)
+453.[547_Friend_Circles](547_Friend_Circles.md)
 
-454.[556_Next_Greater_Element_III](556_Next_Greater_Element_III.md)
+454.[548_Split_Array_with_Equal_Sum](548_Split_Array_with_Equal_Sum.md)
 
-455.[557_Reverse_Words_in_a_String_III](557_Reverse_Words_in_a_String_III.md)
+455.[549_Binary_Tree_Longest_Consecutive_Sequence_II](549_Binary_Tree_Longest_Consecutive_Sequence_II.md)
 
-456.[560_Subarray_Sum_Equals_K](560_Subarray_Sum_Equals_K.md)
+456.[551_Student_Attendance_Record_I](551_Student_Attendance_Record_I.md)
 
-457.[561_Array_Partition_I](561_Array_Partition_I.md)
+457.[553_Optimal_Division](553_Optimal_Division.md)
 
-458.[563_Binary_Tree_Tilt](563_Binary_Tree_Tilt.md)
+458.[554_Brick_Wall](554_Brick_Wall.md)
 
-459.[565_Array_Nesting](565_Array_Nesting.md)
+459.[556_Next_Greater_Element_III](556_Next_Greater_Element_III.md)
 
-460.[566_Reshape_the_Matrix](566_Reshape_the_Matrix.md)
+460.[557_Reverse_Words_in_a_String_III](557_Reverse_Words_in_a_String_III.md)
 
-461.[567_Given_two_strings_s1_and_s2,_write_a_function](567_Given_two_strings_s1_and_s2,_write_a_function.md)
+461.[560_Subarray_Sum_Equals_K](560_Subarray_Sum_Equals_K.md)
 
-462.[572_Subtree_of_Another_Tree](572_Subtree_of_Another_Tree.md)
+462.[561_Array_Partition_I](561_Array_Partition_I.md)
 
-463.[575_Distribute_Candies](575_Distribute_Candies.md)
+463.[562_Longest_Line_of_Consecutive_One_in_Matrix](562_Longest_Line_of_Consecutive_One_in_Matrix.md)
 
-464.[576_Out_of_Boundary_Paths](576_Out_of_Boundary_Paths.md)
+464.[563_Binary_Tree_Tilt](563_Binary_Tree_Tilt.md)
 
-465.[581_Shortest_Unsorted_Continuous_Subarray](581_Shortest_Unsorted_Continuous_Subarray.md)
+465.[565_Array_Nesting](565_Array_Nesting.md)
 
-466.[583_Delete_Operation_for_Two_Strings](583_Delete_Operation_for_Two_Strings.md)
+466.[566_Reshape_the_Matrix](566_Reshape_the_Matrix.md)
+
+467.[567_Given_two_strings_s1_and_s2,_write_a_function](567_Given_two_strings_s1_and_s2,_write_a_function.md)
+
+468.[572_Subtree_of_Another_Tree](572_Subtree_of_Another_Tree.md)
+
+469.[573_Squirrel_Simulation](573_Squirrel_Simulation.md)
+
+470.[575_Distribute_Candies](575_Distribute_Candies.md)
+
+471.[576_Out_of_Boundary_Paths](576_Out_of_Boundary_Paths.md)
+
+472.[581_Shortest_Unsorted_Continuous_Subarray](581_Shortest_Unsorted_Continuous_Subarray.md)
+
+473.[582_Kill_Process](582_Kill_Process.md)
+
+474.[583_Delete_Operation_for_Two_Strings](583_Delete_Operation_for_Two_Strings.md)
+
+475.[604_Design_Compressed_String_Iterator](604_Design_Compressed_String_Iterator.md)
+
+476.[616_Add_Bold_Tag_in_String](616_Add_Bold_Tag_in_String.md)
+
+477.[624_Maximum_Distance_in_Arrays](624_Maximum_Distance_in_Arrays.md)
+
+478.[625_Minimum_Factorization](625_Minimum_Factorization.md)
+
+479.[634_Find_the_Derangement_of_An_Array](634_Find_the_Derangement_of_An_Array.md)
+
+480.[635_Design_Log_Storage_System](635_Design_Log_Storage_System.md)
+
+481.[651_4_Keys_Keyboard_#](651_4_Keys_Keyboard_#.md)
+
+482.[663_Equal_Tree_Partition](663_Equal_Tree_Partition.md)
+
+483.[666_Path_Sum_IV](666_Path_Sum_IV.md)
 

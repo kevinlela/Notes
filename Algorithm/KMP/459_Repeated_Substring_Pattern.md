@@ -23,6 +23,7 @@ Explanation: It's the substring "abc" four times. (And the substring "abcabc" tw
 
 ### Answer
 KMP
+
 	class Solution {
 	public:
 	    bool repeatedSubstringPattern(string s) {

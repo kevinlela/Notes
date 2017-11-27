@@ -10,6 +10,9 @@ You may assume the polygon formed by given points is always a simple polygon (Si
 [leetcode](https://leetcode.com/problems/convex-polygon/description/)
 
 ### Answer
+
+Use Cross product, cross product gives opposite sign when over 90 degree
+
 	class Solution {
 	public:
 	    bool isConvex(vector<vector<int>>& points) {

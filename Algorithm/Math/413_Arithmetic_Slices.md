@@ -4,8 +4,11 @@ A sequence of number is called arithmetic if it consists of at least three eleme
 For example, these are arithmetic sequence:
 
 1, 3, 5, 7, 9
+
 7, 7, 7, 7
+
 3, -1, -5, -9
+
 The following sequence is not arithmetic.
 
 1, 1, 2, 5, 7

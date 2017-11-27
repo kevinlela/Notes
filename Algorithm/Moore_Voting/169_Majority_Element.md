@@ -13,6 +13,7 @@ find element in [n/k] times.
 4) else v[k]-- for all k
 5) count v[k] again.
 
+---
 	class Solution {
 	public:
 	    int majorityElement(vector<int>& nums) {
