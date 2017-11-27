@@ -53,7 +53,8 @@ for k, v in algorithmDict.items():
 	catelog_offline.write("## " + k.replace("_", " ") + "\n\n")
 	vs = sortQuestion(v)
 	for f in vs:
-		catelog.write('[' + f[:f.rfind('.')] + '](' + git_path + k + '/' + f + ')\n\n')
+		f_s = f.replace('_', '\_')
+		catelog.write('[' + f_s[:f.rfind('.')] + '](' + git_path + k + '/' + f_s + ')\n\n')
 		catelog_offline.write('[' + f[:f.rfind('.')] + '](' + off_path + k + '/' + f + ')\n\n')
 
 
